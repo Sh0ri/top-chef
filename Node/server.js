@@ -1,9 +1,15 @@
 let http = require('http');
 let fs = require('fs');
 
+let url = require('url');
+
 let server = http.createServer();
 
 server.on('request',function(request,response){
+
+
+	let query = url.parse(request.url, true).query
+
 
 	fs.readFile('index.html', (err,data)=>{
 		if(err) throw err
