@@ -1,27 +1,5 @@
-let http = require('http');
-let fs = require('fs');
+const michelin = require("./michelin.js");
+const lafourchette = require("./lafourchette.js");
 
-let url = require('url');
-
-let server = http.createServer();
-
-server.on('request',function(request,response){
-
-
-	let query = url.parse(request.url, true).query
-
-
-	fs.readFile('index.html', (err,data)=>{
-		if(err) throw err
-
-		response.writeHead(200,{
-		'Content-type': 'text/html; charset=utf-8'
-		})
-
-		response.end(data)
-	});
-
-
-})
-
-server.listen(8080)
+restaurants = michelin.get_JSON();
+lafourchette.get_restaurant();
