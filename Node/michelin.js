@@ -49,7 +49,7 @@ fs.readFile(process.argv[2], function doneReading(err, fileContents){
    // fs.readFile(file, 'utf8', callback) can also be used
    var lines = contents.toString().split('\n').length - 1
    console.log(lines)
- })*/
+})*/
 
 // EXERCICE 5
 
@@ -123,109 +123,94 @@ let cheerio = require('cheerio');
 let request = require('request');
 //let $ = cheerio.load('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin');
 
-var test = false;
+var url_array = [];
+var new_url_array = [];
 var allRestaurants = [];
+var restaurants = [];
+var restaurant = null;
 var compteur = 0;
 
-for(i = 1; i < 10; i++)
+for(i = 1; i <= 2; i++)
 {
-    url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin';
-    url += "/page-" + i;
+	url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin';
+	url += "/page-" + i;
+	console.log("BEGIN Get page : " + i);
 
-    scrape_this_page(url,add_to_compteur);
-
-/*
-    request(url, function(error, response, html){
-        if(!error){
-
-            var $ = cheerio.load(html);
-            console.log("===================== PAGE " + url);
-            
-
-            var title, release, rating;
-
-            var json = { title : ""};
-
-            $('.poi_card-display-title').filter(function(){
-
-                var data = $(this);
-                title = data.text();
-
-                console.log(title);
-                // We will repeat the same process as above.  This time we notice that the release is located within the last element.
-                // Writing this code will move us to the exact location of the release year.
-
-                //release = data.children().last().children().text();
-
-                json.title = title;
-
-                allRestaurants.push(json);
-
-                console.log();
-
-                
-                //if(i == 10)
-                //fin();
-
-                // Once again, once we have the data extract it we'll save it to our json object
-
-                //json.release = release;
-            })
-        }
-
-	})*/
-}
-
-function add_to_compteur()
-{
-	compteur++;
-	if(compteur>=10)
+	scrape_url(url,function(new_url_array)
 	{
-		console.log("FIN DU PROCESS");
-		fin();
-	}
-}
-function scrape_this_page(url,add_to_compteur)
-{
-    request(url, function(error, response, html){
-        if(!error){
-
-            var $ = cheerio.load(html);
-            console.log("===================== PAGE " + url);
-            
-
-            var title, release, rating;
-
-            var json = { title : ""};
-
-            $('.poi_card-display-title').filter(function(){
-
-                var data = $(this);
-                title = data.text();
-
-                console.log(title);
-                // We will repeat the same process as above.  This time we notice that the release is located within the last element.
-                // Writing this code will move us to the exact location of the release year.
-
-                //release = data.children().last().children().text();
-
-                json.title = title;
-
-                allRestaurants.push(json);
-
-                console.log();
-                add_to_compteur();
-                
-                //if(i == 10)
-                //fin();
-
-                // Once again, once we have the data extract it we'll save it to our json object
-
-                //json.release = release;
-            })
-        }
-
+		new_url_array.forEach(function(page_url){
+			restaurant = null;
+			scrape_this_page(page_url,function(restaurant){
+			allRestaurants.push(restaurant);
+    		//console.log(restaurants);
+    		//allRestaurants.push(restaurants.title);
+    		fin();
+    		});
+		})
 	})
+
+	//scrape_this_page(url,function(restaurants){
+
+    	//console.log(restaurants);
+    	//allRestaurants.push(restaurants.title);
+    //	fin();
+    //});
+
+}
+function scrape_url(url,callback)
+{
+	//url = "https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin" + "/page-" + i;
+	//console.log("page : " +i);
+	
+	request(url, function(error, response, html){
+		if(!error){
+			var $ = cheerio.load(html);
+			var new_url_array = [];
+			$('a[class=poi-card-link]').each(function (i, element) {
+				new_url_array.push('https://restaurant.michelin.fr' + $(element).attr('href'));
+
+				url_array.push('https://restaurant.michelin.fr' + $(element).attr('href'));
+			});
+			callback(new_url_array);
+		}
+		
+
+	})	//add_to_compteur();
+	
+}
+function scrape_this_page(url,callback)
+{
+	//url = "https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin" + "/page-" + i;
+	//console.log("page : " +i);
+	
+	request(url, function(error, response, html){
+		if(!error){
+			console.log("page : ");
+			var $ = cheerio.load(html);
+			console.log("===================== PAGE " + url);
+
+
+			var title, adress, postcode, city;
+
+			var restaurant = { title : "", adress : "", postcode : "", city : ""};
+
+			title = $('.poi_intro-display-title').first().text();
+			adress = $('.thoroughfare').first().text();
+			postcode = $('.postal-code').first().text();
+			city = $('.locality').first().text();
+//0 a 8 + les 4 derniers
+			restaurant.title = title.substring(7,title.length -4);
+			restaurant.adress = adress;
+			restaurant.postcode = postcode;
+			restaurant.city = city;
+
+			console.log(restaurant);
+			callback(restaurant);
+
+		}
+		
+
+	})	//add_to_compteur();
 	
 }
 function fin()
@@ -234,9 +219,49 @@ function fin()
 		console.log('File successfully written! - Check your project directory for the output.json file');
 	})
 }
-   
+
+/*
+function scrape_this_page(url,callback)
+{
+	//url = "https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin" + "/page-" + i;
+	//console.log("page : " +i);
+	
+	request(url, function(error, response, html){
+		if(!error){
+			console.log("page : ");
+			var $ = cheerio.load(html);
+			console.log("===================== PAGE " + url);
 
 
+			var title, release, rating;
+
+			var json = { title : ""};
+
+			$('.poi_card-display-title').filter(function(){
+
+				json = { title : ""};
+				var data = $(this);
+				title = data.text();
+
+				console.log("title : " + title);
+                // We will repeat the same process as above.  This time we notice that the release is located within the last element.
+                // Writing this code will move us to the exact location of the release year.
+
+                //release = data.children().last().children().text();
+
+                json.title = title;
+                
+                allRestaurants.push(json);
+            })
+			callback(json);
+
+		}
+		
+
+	})	//add_to_compteur();
+	
+}
+*/
 /*var restaurantList = [];
 
 // For each .item, we add all the structure of a company to the companiesList array
