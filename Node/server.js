@@ -16,7 +16,11 @@ restaurants.forEach(function(restaurant){
 					console.log(maybe_restaurant);
 
 					//GET OFFERS FOR THIS RESTAURANT
-					get_offers(maybe_restaurant);
+					get_offers(maybe_restaurant,function(offers){
+						offers.forEach(function(offer){
+							console.log(offer);
+						})
+					})
 				}
 			})
 		}
