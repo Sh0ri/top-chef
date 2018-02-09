@@ -107,13 +107,12 @@ function fin()
 }
 
 function get_JSON(){
-	var obj = JSON.parse(fs.readFileSync('output.json', 'utf8'));
+	var obj = JSON.parse(fs.readFileSync('output.json'));
 	return obj;
-	//console.log(obj);
 }
 //get();
 
 module.exports = {
-	scrape_michelin : scrape_michelin,
+	//scrape_michelin : scrape_michelin,
 	get_JSON : get_JSON
 };
