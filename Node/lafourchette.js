@@ -100,26 +100,32 @@ function get_restaurant(michelin_restaurant,callback)
 
 	function return_offers(restaurant,callback)
 	{
-		var url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+'#info';
+		var promos = [];
+		
+		var url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
+		//var url = 'https://www.lafourchette.com/restaurant/le-saint-laurent/310489#info';
+		console.log(url);
 		request({url:url,json:true}, function(error, response, html)
 		{
 			var $ = cheerio.load(html);
 
-			//title = $('.saleType-title').children('p').first().text();
-			var title = $('.saleType-title').first().text();
-			//var div_text = $('saleType-menu.expandable-detail.saleTypeDetails-1').children('p').first().text();
-			if(!title.isEmpty())
-			{
-				console.log("TITLE");
-				console.log(title);
+			$('.saleType.saleType--specialOffer').each(function(element){
 
-				console.log("TEXT");
-				console.log($('.saleType.saleType--specialOffer').children('li').first().text());
-				
-				//console.log(div_text);
-			}
+				var promo = {title : "", number : "", text : "", restaurant_url : ""};
 
-			callback(title);
+				var title = $(this).children('h3').text();
+				var promo_text = $(this).children('p').text();
+			
+				promo.title = title;
+				promo.number = title.replace(/[^0-9\.\€\%\-]/g,'');
+				promo.text = promo_text;
+				promo.restaurant_url = url;
+
+				promos.push(promo);
+
+			})
+			callback(promos);
+			
 		})
 	}
 	module.exports = {
