@@ -10,7 +10,7 @@ function get_restaurant(michelin_restaurant,callback)
 {
 	restaurants = [];
 	var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
-	console.log(url);
+	//console.log(url);
 		//var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=Atmosphères';
 		request({url:url,json:true}, function(error, response, html){
 			if(html != null)
@@ -68,19 +68,62 @@ function get_restaurant(michelin_restaurant,callback)
 	function get_offers(restaurant,callback)
 	{
 		var url = 'https://m.lafourchette.com/api/restaurant/' + restaurant.id + '/sale-type';
-		console.log(url);
+		//console.log(url);
 
 		request({url:url,json:true}, function(error, response, html)
 		{
-			var is_offer = html[0].is_special_offer;
-			callback(is_offer);
+			//console.log(html);
+			var is_special_offer = false;
+			try
+			{
+				html.forEach(function(line){
+					if(line.is_special_offer)
+						{
+							is_special_offer = true;
+							//console.log("there is a special offer");
+						}
+				});
+				//console.log(is_offer);
+				callback(is_special_offer);
+			}
+			catch(e){
+				//console.log("error at get offers");
+				callback(false);
+			}
+			
 		})
 	}
+
+	String.prototype.isEmpty = function() {
+    return (this.length === 0 || !this.trim());
+};
+
 	function return_offers(restaurant,callback)
 	{
+		var url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+'#info';
+		request({url:url,json:true}, function(error, response, html)
+		{
+			var $ = cheerio.load(html);
 
+			//title = $('.saleType-title').children('p').first().text();
+			var title = $('.saleType-title').first().text();
+			//var div_text = $('saleType-menu.expandable-detail.saleTypeDetails-1').children('p').first().text();
+			if(!title.isEmpty())
+			{
+				console.log("TITLE");
+				console.log(title);
+
+				console.log("TEXT");
+				console.log($('.saleType.saleType--specialOffer').children('li').first().text());
+				
+				//console.log(div_text);
+			}
+
+			callback(title);
+		})
 	}
 	module.exports = {
 		get_restaurant : get_restaurant,
-		get_offers : get_offers
+		get_offers : get_offers,
+		return_offers : return_offers
 	};

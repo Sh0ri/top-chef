@@ -12,14 +12,26 @@ restaurants.forEach(function(restaurant){
 				//console.log(maybe_restaurant);
 				if(maybe_restaurant.title.includes(restaurant.title) && maybe_restaurant.address.postal_code == restaurant.address.postal_code)
 				{
-					console.log("LE BON RESTO");
-					console.log(maybe_restaurant);
+					//console.log("LE BON RESTO");
+					//console.log(maybe_restaurant);
 
 					//GET OFFERS FOR THIS RESTAURANT
-					get_offers(maybe_restaurant,function(offers){
+					lafourchette.get_offers(maybe_restaurant,function(is_offer){
+						//console.log(is_offer);
+						if(is_offer == true)
+							{
+								lafourchette.return_offers(maybe_restaurant,function(test){
+									//console.log(test);
+								})
+							}
+						/*
 						offers.forEach(function(offer){
 							console.log(offer);
+							lafourchette.return_offers(maybe_restaurant,function(test){
+								console.log(test);
+							})
 						})
+						*/
 					})
 				}
 			})
@@ -34,7 +46,6 @@ restaurants.forEach(function(restaurant){
 function get_offers(restaurant)
 {
 	lafourchette.get_offers(restaurant,function(offers){
-		console.log(offers);
 	});
 }
 
