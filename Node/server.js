@@ -3,6 +3,8 @@ const lafourchette = require("./lafourchette.js");
 
 restaurants = michelin.get_JSON();
 
+var restaurants_with_promos = [];
+
 
 restaurants.forEach(function(restaurant){
 	lafourchette.get_restaurant(restaurant,function(maybe_restaurant){
@@ -20,9 +22,18 @@ restaurants.forEach(function(restaurant){
 						//console.log(is_offer);
 						if(is_offer == true)
 							{
-								lafourchette.return_offers(maybe_restaurant,function(promo){
-									//console.log(maybe_restaurant.title);
-									console.log(promo);
+								lafourchette.return_offers(maybe_restaurant,function(promos){
+
+									var restaurant_with_promos = { restaurant : { id:"", title : "", address : { address_locality : "", postal_code : ""} , restaurant_url : "" } , promos : [{title : "", number : "", text : ""}]}
+
+									restaurant_with_promos.restaurant = restaurant;
+									restaurant_with_promos.promos = promos;
+
+									restaurants_with_promos.push(restaurant_with_promos);
+
+									lafourchette.storeJSON(restaurants_with_promos,function(result){
+										console.log(result);
+									})
 								})
 							}
 					})
@@ -31,3 +42,11 @@ restaurants.forEach(function(restaurant){
 		}
 	});
 })
+/*
+restaurants_with_promos.forEach(function(restaurant_with_promos){
+	lafourchette.storeJSON(restaurant_with_promos,function(result){
+		console.log(result);
+	})
+})
+*/
+
