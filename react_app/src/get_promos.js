@@ -1,46 +1,55 @@
 const michelin = require("./michelin.js");
 const lafourchette = require("./lafourchette.js");
 
-restaurants = michelin.get_JSON();
+
+const pSettle = require('p-settle');
+const promisify = require('pify');
+const fs = promisify(require('fs'));
+
+
+
+
+
+restaurants = michelin.get_JSON().map(restaurant => lafourchette.get_restaurant(restaurant));
+
+pSettle(restaurants).then(result => {
+	var compt = 0;
+	//console.log(result);
+	result.forEach(function(elem){
+		if(elem.isRejected)
+		{
+			console.log(elem);
+			compt++;
+		}
+	})
+console.log(compt);
+})
+
+
+
+
+
+/*
 
 var restaurants_with_promos = [];
+var restaurants_on_lafourchette = [];
 
 
 restaurants.forEach(function(restaurant){
-	lafourchette.get_restaurant(restaurant,function(maybe_restaurant){
-		if(maybe_restaurant != null)
-		{
-			maybe_restaurant.forEach(function(maybe_restaurant){
-				//console.log(maybe_restaurant);
-				if(maybe_restaurant.title.includes(restaurant.title) && maybe_restaurant.address.postal_code == restaurant.address.postal_code)
-				{
-					//console.log("LE BON RESTO");
-					//console.log(maybe_restaurant);
-
-					//GET OFFERS FOR THIS RESTAURANT
-					lafourchette.get_offers(maybe_restaurant,function(is_offer){
-						//console.log(is_offer);
-						if(is_offer == true)
-							{
-								lafourchette.return_offers(maybe_restaurant,function(promos){
-
-									var restaurant_with_promos = { restaurant : { id:"", title : "", address : { address_locality : "", postal_code : ""} , restaurant_url : "" } , promos : [{title : "", number : "", text : ""}]}
-
-									restaurant_with_promos.restaurant = restaurant;
-									restaurant_with_promos.promos = promos;
-
-									restaurants_with_promos.push(restaurant_with_promos);
-
-									lafourchette.storeJSON(restaurants_with_promos,function(result){
-										console.log(result);
-									})
-								})
-							}
-					})
-				}
-			})
-		}
+	lafourchette.get_restaurant(restaurant,function(maybe_restaurants){
+		maybe_restaurants.forEach(function(resto){
+			console.log(resto);
+		})
 	});
 })
 
 
+async function do(restaurants){
+	await restaurants.forEach()
+}
+
+promise all map
+p-map
+p
+
+*/

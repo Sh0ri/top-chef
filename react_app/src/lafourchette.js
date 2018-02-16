@@ -6,67 +6,81 @@ let request = require('request');
 
 var restaurants = [];
 
-function get_restaurant(michelin_restaurant,callback)
+function get_restaurant(michelin_restaurant)
 {
-	restaurants = [];
+	return new Promise((resolve, reject) => {
+		var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+
+		request({url:url,json:true}, function(error, response, html){
+			try{
+				var found_restaurants = [];
+				var true_restaurant = null;
+				html.forEach(function(element){
+					var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "" };
+
+					restaurant.id = element.id;
+					restaurant.title = element.name.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+					restaurant.address.address_locality = element.address.address_locality;
+					restaurant.address.postal_code = element.address.postal_code;
+
+					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
+					found_restaurants.push(restaurant);
+					restaurants.push(restaurant);
+
+					if(restaurant.address.postal_code == michelin_restaurant.address.postal_code && restaurant.title.includes(michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")))
+						{
+							if(true_restaurant == null)
+							{
+								true_restaurant = restaurant;
+							}
+							else
+							{
+								true_restaurant = url;
+							}
+						}
+				})
+
+				if(true_restaurant !== null)
+					resolve(true_restaurant);
+				else
+				{
+					reject(url);
+				}
+
+				//resolve(found_restaurants);
+			}
+			catch(e){
+				reject(e);
+			}
+			//callback(found_restaurants);
+
+		})
+	});
+
+	var found_restaurants = [];
 	var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 	//console.log(url);
 		//var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=Atmosphères';
 		request({url:url,json:true}, function(error, response, html){
-			if(html != null)
-			{
-				var new_url = url;
-				restaurants = [];
+			try{
+				html.forEach(function(element){
+					var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "" };
 
-				var $ = cheerio.load(html);
-				var body = html;	
-				if(body != null)
-				{
-					try{
-						
-						html.forEach(function(element){
-							var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "" };
+					restaurant.id = element.id;
+					restaurant.title = element.name;
+					restaurant.address.address_locality = element.address.address_locality;
+					restaurant.address.postal_code = element.address.postal_code;
 
-							restaurant.id = element.id;
-							restaurant.title = element.name;
-							restaurant.address.address_locality = element.address.address_locality;
-							restaurant.address.postal_code = element.address.postal_code;
-
-							restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
-
-						//console.log(restaurant);
-						restaurants.push(restaurant);
-
-					})
-
-						callback(restaurants);
-					}
-					catch (e){
-						//console.log("cannot do foreach");
-						try{
-							
-							
-							var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "" };
-
-							restaurant.id = html[0].id;
-							restaurant.title = html[0].name;
-							restaurant.address.address_locality = html[0].address.address_locality;
-							restaurant.address.postal_code = html[0].address.postal_code;
-
-							restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
-
-							restaurants.push(restaurant);
-
-							callback(restaurant);
-						}
-						catch(e){
-							callback(null);
-						}
-
-					}
-
-				}
+					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
+					found_restaurants.push(restaurant);
+					restaurants.push(restaurant);
+				})
 			}
+			catch(e){
+				//console.log(html);
+			}
+			//callback(found_restaurants);
+
 		})
 	}
 	function get_offers(restaurant,callback)
@@ -82,11 +96,11 @@ function get_restaurant(michelin_restaurant,callback)
 			{
 				html.forEach(function(line){
 					if(line.is_special_offer)
-						{
-							is_special_offer = true;
+					{
+						is_special_offer = true;
 							//console.log("there is a special offer");
 						}
-				});
+					});
 				//console.log(is_offer);
 				callback(is_special_offer);
 			}
@@ -99,8 +113,8 @@ function get_restaurant(michelin_restaurant,callback)
 	}
 
 	String.prototype.isEmpty = function() {
-    return (this.length === 0 || !this.trim());
-};
+		return (this.length === 0 || !this.trim());
+	};
 
 	function return_offers(restaurant,callback)
 	{
@@ -119,7 +133,7 @@ function get_restaurant(michelin_restaurant,callback)
 
 				var title = $(this).children('h3').text();
 				var promo_text = $(this).children('p').text();
-			
+
 				promo.title = title;
 				promo.number = title.replace(/[^0-9\.\€\%\-]/g,'');
 				promo.text = promo_text;
@@ -143,9 +157,22 @@ function get_restaurant(michelin_restaurant,callback)
 		})
 		callback("end");
 	}
+
+	function store_restaurants_on_lafourchette(restaurants_lafourchette,callback)
+	{
+		//console.log(restaurant_with_promos);
+
+
+		fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
+			//console.log('File successfully written! - Check your project directory for the output.json file');
+		})
+		callback("done");
+	}
 	module.exports = {
 		get_restaurant : get_restaurant,
 		get_offers : get_offers,
 		return_offers : return_offers,
-		storeJSON : storeJSON
+		storeJSON : storeJSON,
+		store_restaurants_on_lafourchette : store_restaurants_on_lafourchette
+
 	};

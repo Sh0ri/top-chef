@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-class Promo extends React.Component {
+class Restaurant_With_Promos extends React.Component {
     constructor(props) {
     super(props);
     this.state = {
