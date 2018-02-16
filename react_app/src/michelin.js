@@ -31,24 +31,7 @@ function scrape_michelin()
 		})
 	}
 }
-/*
-for(i = 1; i <= 35; i++)
-{
-	url = 'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin';
-	url += "/page-" + i;
-	console.log("BEGIN Get page : " + i);
 
-	scrape_url(url,function(new_url_array)
-	{
-		new_url_array.forEach(function(page_url){
-			restaurant = null;
-			scrape_this_page(page_url,function(restaurant){
-				allRestaurants.push(restaurant);
-				fin();
-			});
-		})
-	})
-}*/
 function scrape_url(url,callback)
 {
 	request(url, function(error, response, html){
@@ -113,6 +96,6 @@ function get_JSON(){
 //get();
 
 module.exports = {
-	//scrape_michelin : scrape_michelin,
+	scrape_michelin : scrape_michelin,
 	get_JSON : get_JSON
 };

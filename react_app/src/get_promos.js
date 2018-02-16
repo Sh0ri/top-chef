@@ -42,11 +42,5 @@ restaurants.forEach(function(restaurant){
 		}
 	});
 })
-/*
-restaurants_with_promos.forEach(function(restaurant_with_promos){
-	lafourchette.storeJSON(restaurant_with_promos,function(result){
-		console.log(result);
-	})
-})
-*/
+
 
