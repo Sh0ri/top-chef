@@ -28,16 +28,16 @@ function get_restaurant(michelin_restaurant)
 					restaurants.push(restaurant);
 
 					if(restaurant.address.postal_code == michelin_restaurant.address.postal_code && restaurant.title.includes(michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")))
+					{
+						if(true_restaurant == null)
 						{
-							if(true_restaurant == null)
-							{
-								true_restaurant = restaurant;
-							}
-							else
-							{
-								true_restaurant = url;
-							}
+							true_restaurant = restaurant;
 						}
+						else
+						{
+							true_restaurant = url;
+						}
+					}
 				})
 
 				if(true_restaurant !== null)
@@ -158,15 +158,14 @@ function get_restaurant(michelin_restaurant)
 		callback("end");
 	}
 
-	function store_restaurants_on_lafourchette(restaurants_lafourchette,callback)
+	function store_restaurants_on_lafourchette(restaurants_lafourchette)
 	{
-		//console.log(restaurant_with_promos);
-
-
-		fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
-			//console.log('File successfully written! - Check your project directory for the output.json file');
-		})
-		callback("done");
+		return new Promise((resolve, reject) => {
+			fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
+				console.log('File successfully written! - Check your project directory for the output.json file');
+			})
+			resolve("done");
+		});
 	}
 	module.exports = {
 		get_restaurant : get_restaurant,
