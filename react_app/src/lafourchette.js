@@ -9,7 +9,8 @@ var restaurants = [];
 function get_restaurant(michelin_restaurant)
 {
 	return new Promise((resolve, reject) => {
-		var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+		michelin_restaurant.title = michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+		var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title;
 
 		request({url:url,json:true}, function(error, response, html){
 			try{
@@ -23,11 +24,11 @@ function get_restaurant(michelin_restaurant)
 					restaurant.address.address_locality = element.address.address_locality;
 					restaurant.address.postal_code = element.address.postal_code;
 
-					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
+					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+'#info';
 					found_restaurants.push(restaurant);
-					restaurants.push(restaurant);
+					//restaurants.push(restaurant);
 
-					if(restaurant.address.postal_code == michelin_restaurant.address.postal_code && restaurant.title.includes(michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")))
+					if(restaurant.address.postal_code == michelin_restaurant.address.postal_code && restaurant.title.includes(michelin_restaurant.title))
 					{
 						if(true_restaurant == null)
 						{
@@ -35,7 +36,8 @@ function get_restaurant(michelin_restaurant)
 						}
 						else
 						{
-							true_restaurant = url;
+							//verif plus pointue pour déterminer le bon restaurant
+							true_restaurant = compare_strings(michelin_restaurant.title,true_restaurant,restaurant);
 						}
 					}
 				})
@@ -56,41 +58,33 @@ function get_restaurant(michelin_restaurant)
 
 		})
 	});
+}
 
-	var found_restaurants = [];
-	var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=' + michelin_restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
-	//console.log(url);
-		//var url = 'https://m.lafourchette.com/api/restaurant-prediction?name=Atmosphères';
-		request({url:url,json:true}, function(error, response, html){
-			try{
-				html.forEach(function(element){
-					var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "" };
+function compare_strings(michelin_restaurant_title,previous_restaurant,new_restaurant)
+{
+	var score_previous_restaurant = 0;
+	var score_new_restaurant = 0;
 
-					restaurant.id = element.id;
-					restaurant.title = element.name;
-					restaurant.address.address_locality = element.address.address_locality;
-					restaurant.address.postal_code = element.address.postal_code;
-
-					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
-					found_restaurants.push(restaurant);
-					restaurants.push(restaurant);
-				})
-			}
-			catch(e){
-				//console.log(html);
-			}
-			//callback(found_restaurants);
-
-		})
+	for (var i = 0; i < michelin_restaurant_title.length; i++) {
+		if(michelin_restaurant_title.charAt(i) == previous_restaurant.title.charAt(i))
+			score_previous_restaurant++;
+		if(michelin_restaurant_title.charAt(i) == new_restaurant.title.charAt(i))
+			score_new_restaurant++;
 	}
-	function get_offers(restaurant,callback)
-	{
+	if(score_previous_restaurant > score_new_restaurant)
+		return previous_restaurant;
+	if(score_new_restaurant > score_previous_restaurant)
+		return new_restaurant;
+	if(score_new_restaurant == score_previous_restaurant)
+		return null;
+}
+
+function check_if_offers(restaurant){
+	return new Promise((resolve, reject) => {
 		var url = 'https://m.lafourchette.com/api/restaurant/' + restaurant.id + '/sale-type';
-		//console.log(url);
 
 		request({url:url,json:true}, function(error, response, html)
 		{
-			//console.log(html);
 			var is_special_offer = false;
 			try
 			{
@@ -102,27 +96,31 @@ function get_restaurant(michelin_restaurant)
 						}
 					});
 				//console.log(is_offer);
-				callback(is_special_offer);
+				if(is_special_offer)
+					resolve(restaurant);
+				else
+					reject(false);
 			}
 			catch(e){
 				//console.log("error at get offers");
-				callback(false);
+				reject(false);
 			}
 			
 		})
-	}
+	});
+}
 
-	String.prototype.isEmpty = function() {
-		return (this.length === 0 || !this.trim());
-	};
+String.prototype.isEmpty = function() {
+	return (this.length === 0 || !this.trim());
+};
 
-	function return_offers(restaurant,callback)
-	{
+function get_offers(restaurant)
+{
+	return new Promise((resolve, reject) => {
 		var promos = [];
-		
-		var url = 'https://www.lafourchette.com/restaurant/'+restaurant.title.normalize('NFD').replace(/[\u0300-\u036f]/g, "")+'/'+restaurant.id+'#info';
-		//var url = 'https://www.lafourchette.com/restaurant/le-saint-laurent/310489#info';
-		//console.log(url);
+		var url = restaurant.restaurant_url;
+		var restaurant_with_promos = { restaurant : { id:"", title : "", address : { address_locality : "", postal_code : ""} , restaurant_url : "" } , promos : [{title : "", number : "", text : ""}]}
+
 		request({url:url,json:true}, function(error, response, html)
 		{
 			var $ = cheerio.load(html);
@@ -142,36 +140,64 @@ function get_restaurant(michelin_restaurant)
 				promos.push(promo);
 
 			})
-			callback(promos);
+
+			restaurant_with_promos.restaurant = restaurant;
+			restaurant_with_promos.promos = promos;
+
+			resolve(restaurant_with_promos);
 			
 		})
-	}
+	});
+}
 
-	function storeJSON(restaurants_with_promos,callback)
-	{
-		//console.log(restaurant_with_promos);
-
-
-		fs.writeFile('restaurants_with_promos.json', JSON.stringify(restaurants_with_promos, null, 4), function(err){
-			//console.log('File successfully written! - Check your project directory for the output.json file');
+function store_offers(offers){
+	return new Promise((resolve,reject)=> {
+		fs.writeFile('offers.json', JSON.stringify(offers, null, 4), function(err){
+			console.log('File successfully written! - Check your project directory for the output.json file');
 		})
-		callback("end");
-	}
+		resolve("done");
+	});
+}
 
-	function store_restaurants_on_lafourchette(restaurants_lafourchette)
-	{
-		return new Promise((resolve, reject) => {
-			fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
-				console.log('File successfully written! - Check your project directory for the output.json file');
-			})
-			resolve("done");
-		});
-	}
-	module.exports = {
-		get_restaurant : get_restaurant,
-		get_offers : get_offers,
-		return_offers : return_offers,
-		storeJSON : storeJSON,
-		store_restaurants_on_lafourchette : store_restaurants_on_lafourchette
+function store_restaurants_on_lafourchette(restaurants_lafourchette)
+{
+	return new Promise((resolve, reject) => {
+		fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
+			console.log('File successfully written! - Check your project directory for the output.json file');
+		})
+		resolve("done");
+	});
+}
 
-	};
+function store_restaurants_with_offers(restaurants_with_offers)
+{
+	return new Promise((resolve, reject) => {
+		fs.writeFile('restaurants_with_offers.json', JSON.stringify(restaurants_with_offers, null, 4), function(err){
+			console.log('File successfully written! - Check your project directory for the output.json file');
+		})
+		resolve("done");
+	});
+}
+
+function get_stored_restaurants_on_lafourchette(){
+	var obj = JSON.parse(fs.readFileSync('restaurants_on_lafourchette.json'));
+	return obj;
+}
+
+function get_stored_restaurants_with_offers(){
+	var obj = JSON.parse(fs.readFileSync('restaurants_with_offers.json'));
+	return obj;
+}
+
+
+module.exports = {
+	get_restaurant : get_restaurant,
+	check_if_offers : check_if_offers,
+	get_offers : get_offers,
+	store_offers : store_offers,
+	store_restaurants_on_lafourchette : store_restaurants_on_lafourchette,
+	get_stored_restaurants_on_lafourchette : get_stored_restaurants_on_lafourchette,
+	store_restaurants_with_offers : store_restaurants_with_offers,
+	get_stored_restaurants_with_offers : get_stored_restaurants_with_offers
+
+};
