@@ -131,7 +131,7 @@ function scrape_page(url)
 function write_restaurants(restaurants)
 {
 	return new Promise((resolve,reject) => {
-		fs.writeFile('michelin_restaurants.json', JSON.stringify(restaurants, null, 4), function(err){
+		fs.writeFile('restaurants_michelin.json', JSON.stringify(restaurants, null, 4), function(err){
 			console.log('File successfully written! - Check your project directory for the output.json file');
 		})
 		resolve("done");
@@ -140,7 +140,7 @@ function write_restaurants(restaurants)
 }
 
 function get_JSON(){
-	var obj = JSON.parse(fs.readFileSync('michelin_restaurants.json'));
+	var obj = JSON.parse(fs.readFileSync('restaurants_michelin.json'));
 	return obj;
 }
 

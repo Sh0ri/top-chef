@@ -189,7 +189,6 @@ function get_stored_restaurants_with_offers(){
 	return obj;
 }
 
-
 module.exports = {
 	get_restaurant : get_restaurant,
 	check_if_offers : check_if_offers,
@@ -198,6 +197,5 @@ module.exports = {
 	store_restaurants_on_lafourchette : store_restaurants_on_lafourchette,
 	get_stored_restaurants_on_lafourchette : get_stored_restaurants_on_lafourchette,
 	store_restaurants_with_offers : store_restaurants_with_offers,
-	get_stored_restaurants_with_offers : get_stored_restaurants_with_offers
-
+	get_stored_restaurants_with_offers : get_stored_restaurants_with_offers,
 };
