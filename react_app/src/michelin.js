@@ -11,7 +11,13 @@ var restaurants = [];
 var restaurant = null;
 var compteur = 0;
 
+/*
+console.time("exec");
 
+a la fin 
+console.timeEnd("exec");
+
+*/
 
 const pSettle = require('p-settle');
 const promisify = require('pify');

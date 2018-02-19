@@ -112,17 +112,17 @@
         }
     },
     {
-        "title": "Les Tablettes de Jean-Louis Nomicos",
-        "address": {
-            "address_locality": "16 avenue Bugeaud",
-            "postal_code": "75116"
-        }
-    },
-    {
         "title": "Fanny Rey & Jonathan Wahid",
         "address": {
             "address_locality": "12, boulevard Mirabeau",
             "postal_code": "13210"
+        }
+    },
+    {
+        "title": "Les Tablettes de Jean-Louis Nomicos",
+        "address": {
+            "address_locality": "16 avenue Bugeaud",
+            "postal_code": "75116"
         }
     },
     {
@@ -371,17 +371,17 @@
         }
     },
     {
-        "title": "L'Aparté",
-        "address": {
-            "address_locality": "21 Rue de l’Europe",
-            "postal_code": "31850"
-        }
-    },
-    {
         "title": "Château de Pray",
         "address": {
             "address_locality": "Rue du Cèdre",
             "postal_code": "37400"
+        }
+    },
+    {
+        "title": "L'Aparté",
+        "address": {
+            "address_locality": "21 Rue de l’Europe",
+            "postal_code": "31850"
         }
     },
     {
@@ -574,6 +574,13 @@
         }
     },
     {
+        "title": "Loiseau rive Gauche",
+        "address": {
+            "address_locality": "5 rue Bourgogne",
+            "postal_code": "75007"
+        }
+    },
+    {
         "title": "Hostellerie de l'Abbaye de la Celle",
         "address": {
             "address_locality": "10 Place Général de Gaulle",
@@ -585,13 +592,6 @@
         "address": {
             "address_locality": "29 Rue Mirabeau",
             "postal_code": "14800"
-        }
-    },
-    {
-        "title": "Loiseau rive Gauche",
-        "address": {
-            "address_locality": "5 rue Bourgogne",
-            "postal_code": "75007"
         }
     },
     {
@@ -707,6 +707,13 @@
         }
     },
     {
+        "title": "Pierre Gagnaire",
+        "address": {
+            "address_locality": "6 Rue Balzac",
+            "postal_code": "75008"
+        }
+    },
+    {
         "title": "Le Pergolèse",
         "address": {
             "address_locality": "40, Rue Pergolèse",
@@ -725,13 +732,6 @@
         "address": {
             "address_locality": "350 Route de St-Paul",
             "postal_code": "06480"
-        }
-    },
-    {
-        "title": "Pierre Gagnaire",
-        "address": {
-            "address_locality": "6 Rue Balzac",
-            "postal_code": "75008"
         }
     },
     {
@@ -826,17 +826,17 @@
         }
     },
     {
-        "title": "Anne de Bretagne",
-        "address": {
-            "address_locality": "163, Boulevard de la Tara",
-            "postal_code": "44770"
-        }
-    },
-    {
         "title": "Les Morainières",
         "address": {
             "address_locality": "route de Marétel",
             "postal_code": "73170"
+        }
+    },
+    {
+        "title": "Anne de Bretagne",
+        "address": {
+            "address_locality": "163, Boulevard de la Tara",
+            "postal_code": "44770"
         }
     },
     {
@@ -1155,17 +1155,17 @@
         }
     },
     {
-        "title": "L'Auberge des Glazicks",
-        "address": {
-            "address_locality": "7 rue de la Plage",
-            "postal_code": "29550"
-        }
-    },
-    {
         "title": "Le Meurice Alain Ducasse",
         "address": {
             "address_locality": "228 Rue de Rivoli",
             "postal_code": "75001"
+        }
+    },
+    {
+        "title": "L'Auberge des Glazicks",
+        "address": {
+            "address_locality": "7 rue de la Plage",
+            "postal_code": "29550"
         }
     },
     {
@@ -1435,17 +1435,17 @@
         }
     },
     {
-        "title": "Flaveur",
-        "address": {
-            "address_locality": "25 Rue Gubernatis",
-            "postal_code": "06000"
-        }
-    },
-    {
         "title": "Maison Rostang",
         "address": {
             "address_locality": "20 rue Rennequin",
             "postal_code": "75017"
+        }
+    },
+    {
+        "title": "Flaveur",
+        "address": {
+            "address_locality": "25 Rue Gubernatis",
+            "postal_code": "06000"
         }
     },
     {

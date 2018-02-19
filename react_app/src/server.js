@@ -13,7 +13,7 @@ const fs = promisify(require('fs'));
 //store_michelin_restaurants();
 //store_michelin_restaurants_available_in_lafourchette();
 //store_restaurants_with_offers();
-//store_offers();
+store_offers();
 
 
 /////////////////////////////////////////////////////////////////FUNCTIONS///////////////////////////////////////////////////////////////////////////
