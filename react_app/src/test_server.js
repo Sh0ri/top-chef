@@ -8,7 +8,7 @@ const port = process.env.PORT || 5000;
 
 app.get('/api/hello', (req, res) => {
   res.send({ express: 'Hello From Express' });
-  //server.store_offers();
+  server.store_offers();
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
