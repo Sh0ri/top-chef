@@ -109,7 +109,13 @@ function scrape_pages(urls){
 function scrape_page(url)
 {
 	return new Promise((resolve, reject) => {
-		request(url, function(error, response, html){
+
+				var headers = { 
+			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+			'Content-Type' : 'application/x-www-form-urlencoded' 
+		};
+
+		request({url:url,headers:headers}, function(error, response, html){
 			if(!error){
 				var $ = cheerio.load(html);
 
@@ -124,7 +130,7 @@ function scrape_page(url)
 				restaurant.title = title.substring(7,title.length -4);
 				restaurant.address.address_locality = address_locality;
 				restaurant.address.postal_code = postcode;
-
+				console.log(restaurant);
 				resolve(restaurant);
 			}
 			else{

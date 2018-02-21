@@ -117,11 +117,18 @@ String.prototype.isEmpty = function() {
 function get_offers(restaurant)
 {
 	return new Promise((resolve, reject) => {
+		var headers = { 
+			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+			'Content-Type' : 'application/x-www-form-urlencoded' 
+		};
+
+
+
 		var promos = [];
 		var url = restaurant.restaurant_url;
 		var restaurant_with_promos = { restaurant : { id:"", title : "", address : { address_locality : "", postal_code : ""} , restaurant_url : "" } , promos : [{title : "", number : "", text : ""}]}
 
-		request({url:url,json:true}, function(error, response, html)
+		request({url:url,json:true,headers : headers}, function(error, response, html)
 		{
 			var $ = cheerio.load(html);
 
@@ -189,6 +196,11 @@ function get_stored_restaurants_with_offers(){
 	return obj;
 }
 
+function get_stored_offers(){
+	var obj = JSON.parse(fs.readFileSync('offers.json'));
+	return obj;
+}
+
 module.exports = {
 	get_restaurant : get_restaurant,
 	check_if_offers : check_if_offers,
@@ -198,4 +210,5 @@ module.exports = {
 	get_stored_restaurants_on_lafourchette : get_stored_restaurants_on_lafourchette,
 	store_restaurants_with_offers : store_restaurants_with_offers,
 	get_stored_restaurants_with_offers : get_stored_restaurants_with_offers,
+	get_stored_offers : get_stored_offers
 };

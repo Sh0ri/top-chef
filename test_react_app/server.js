@@ -19,19 +19,13 @@ app.get('/api/hello', (req, res) => {
   //store_offers();
 });
 
-app.get('/api/store_offers', (req, res) => {
-  res.send(store_michelin_restaurants());
-  console.log("STORE MICHELIN RESTO 1");
-  store_michelin_restaurants();
-});
-
-app.get('/api/everything', (req, res) => {
-  res.send(store_michelin_restaurants());
-  console.log("STORE MICHELIN RESTO");
-  store_michelin_restaurants();
-  store_michelin_restaurants_available_in_lafourchette();
-  store_restaurants_with_offers();
-  store_offers();
+app.get('/api/get_stored_offers', (req, res) => {
+	console.log("Get stored offers");
+	var obj = lafourchette.get_stored_offers();
+	
+	var test = obj[0];
+	console.log(test);
+  	res.send(obj);
 });
 
 app.listen(port, () => console.log(`Listening on port ${port}`));

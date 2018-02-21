@@ -258,7 +258,11 @@
             },
             "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#info"
         },
-        "promos": []
+        "promos": [{
+                "title": "FALSE PROMO",
+                "number": "42€",
+                "text": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis."
+            }]
     },
     {
         "restaurant": {

@@ -1,37 +1,32 @@
 import React, { Component } from 'react';
 
-import logo from './logo.svg';
-
-import './App.css';
+const API = '/api/';
+const DEFAULT_QUERY = 'get_stored_offers';
 
 class App extends Component {
-  state = {
-    response: ''
-  };
+  constructor(props) {
+    super(props);
 
-  componentDidMount() {
-    this.callApi()
-      .then(res => this.setState({ response: res.express }))
-      .catch(err => console.log(err));
+    this.state = {
+      restaurants_with_promos: [],
+    };
   }
 
-  callApi = async () => {
-    const response = await fetch('/api/store_offers');
-    const body = await response.json();
-
-    if (response.status !== 200) throw Error(body.message);
-
-    return body;
-  };
-
+  componentDidMount() {
+    fetch(API + DEFAULT_QUERY)
+      .then(response => response.json())
+      .then(data => this.setState({ restaurants_with_promos: data }));
+  }
   render() {
+    const { restaurants_with_promos } = this.state;
+
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">{this.state.response}</p>
+      <div>
+        {restaurants_with_promos.map(restaurant_with_promos =>
+          <div key={restaurant_with_promos.restaurant.id}>
+            <a href={restaurant_with_promos.restaurant.restaurant_url}>{restaurant_with_promos.restaurant.title}</a>
+          </div>
+        )}
       </div>
     );
   }

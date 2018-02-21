@@ -117,44 +117,36 @@ String.prototype.isEmpty = function() {
 function get_offers(restaurant)
 {
 	return new Promise((resolve, reject) => {
+		var headers = { 
+			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+			'Content-Type' : 'application/x-www-form-urlencoded' 
+		};
+
+
 
 		var promos = [];
 		var url = restaurant.restaurant_url;
 		var restaurant_with_promos = { restaurant : { id:"", title : "", address : { address_locality : "", postal_code : ""} , restaurant_url : "" } , promos : [{title : "", number : "", text : ""}]}
 
-		request(url, function(error, response, html)
+		request({url:url,json:true,headers : headers}, function(error, response, html)
 		{
-			console.log(url);
-			console.log(html);
 			var $ = cheerio.load(html);
-			try{
-				console.log("TEST");
-				var test = null;
-				test = $('.restaurantSummary-name').first().text();
-				console.log(test);
-				console.log("FIN DU TEST");
-				$('.saleType--specialOffer').each(function(element){
 
-					var promo = {title : "", number : "", text : ""};
+			$('.saleType.saleType--specialOffer').each(function(element){
 
-					var title = $(this).children('h3').text();
-					var promo_text = $(this).children('p').text();
+				var promo = {title : "", number : "", text : ""};
 
-					promo.title = title;
-					promo.number = title.replace(/[^0-9\.\€\%\-]/g,'');
-					promo.text = promo_text;
-						//promo.restaurant_url = url;
+				var title = $(this).children('h3').text();
+				var promo_text = $(this).children('p').text();
 
-						promos.push(promo);
+				promo.title = title;
+				promo.number = title.replace(/[^0-9\.\€\%\-]/g,'');
+				promo.text = promo_text;
+				//promo.restaurant_url = url;
 
-				})	
-				console.log("pas d'error");
-			}
-			catch(e){
-				console.log("error");
-				console.log(e);
-			}
-			
+				promos.push(promo);
+
+			})
 
 			restaurant_with_promos.restaurant = restaurant;
 			restaurant_with_promos.promos = promos;
