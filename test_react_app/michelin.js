@@ -28,6 +28,7 @@ async function scrape_michelin(){
 	console.log(urls);
 	const restaurants = await scrape_pages(urls);
 	console.log(restaurants);
+	console.log("writing restaurants");
 	const result = await write_restaurants(restaurants);
 	console.log(result);
 
