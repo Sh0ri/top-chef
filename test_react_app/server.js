@@ -6,11 +6,41 @@ const pSettle = require('p-settle');
 const promisify = require('pify');
 const fs = promisify(require('fs'));
 
+const express = require('express');
+///////////////////////////////////////////////////////////////////EXPRESS///////////////////////////////////////////////////////////////////////////
+
+
+const app = express();
+const port = process.env.PORT || 5000;
+
+app.get('/api/hello', (req, res) => {
+  res.send({ express: 'Hello From Express' });
+  console.log("API CALLED");
+  //store_offers();
+});
+
+app.get('/api/store_offers', (req, res) => {
+  res.send(store_michelin_restaurants());
+  console.log("STORE MICHELIN RESTO 1");
+  store_michelin_restaurants();
+});
+
+app.get('/api/everything', (req, res) => {
+  res.send(store_michelin_restaurants());
+  console.log("STORE MICHELIN RESTO");
+  store_michelin_restaurants();
+  store_michelin_restaurants_available_in_lafourchette();
+  store_restaurants_with_offers();
+  store_offers();
+});
+
+app.listen(port, () => console.log(`Listening on port ${port}`));
+
 
 ///////////////////////////////////////////////////////////////////TEST//////////////////////////////////////////////////////////////////////////////
 
 //uncomment the good action
-store_michelin_restaurants();
+//store_michelin_restaurants();
 //store_michelin_restaurants_available_in_lafourchette();
 //store_restaurants_with_offers();
 //store_offers();

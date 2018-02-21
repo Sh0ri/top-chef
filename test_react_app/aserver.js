@@ -7,6 +7,27 @@ const promisify = require('pify');
 const fs = promisify(require('fs'));
 
 
+const express = require('express');
+///////////////////////////////////////////////////////////////////EXPRESS///////////////////////////////////////////////////////////////////////////
+
+/*
+const app = express();
+const port = process.env.PORT || 5000;
+
+app.get('/api/hello', (req, res) => {
+  res.send({ express: 'Hello From Express' });
+  console.log("API CALLED");
+  //store_offers();
+});
+
+app.get('/api/store_offers', (req, res) => {
+  res.send(store_michelin_restaurants());
+  console.log("STORE MICHELIN RESTO");
+});
+
+app.listen(port, () => console.log(`Listening on port ${port}`));
+*/
+
 ///////////////////////////////////////////////////////////////////TEST//////////////////////////////////////////////////////////////////////////////
 
 //uncomment the good action
@@ -21,6 +42,7 @@ store_michelin_restaurants();
 async function store_michelin_restaurants(){
 	const result = await michelin.scrape_michelin();
 	console.log("save done");
+	return { express: 'Hello From Express' };
 }
 
 async function store_michelin_restaurants_available_in_lafourchette(){

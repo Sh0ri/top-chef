@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1923",
+        "title": "Agape",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75017"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Agape/1923#info"
+    },
+    {
+        "id": "4988",
+        "title": "Le Jardin des Remparts",
+        "address": {
+            "address_locality": "Beaune",
+            "postal_code": "21200"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Jardin des Remparts/4988#info"
+    },
+    {
+        "id": "26112",
+        "title": "Le 39V Paris - Frederic Vardon",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75008"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 39V Paris - Frederic Vardon/26112#info"
+    },
+    {
+        "id": "5603",
+        "title": "JY'S",
+        "address": {
+            "address_locality": "Colmar",
+            "postal_code": "68000"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/JY'S/5603#info"
+    },
+    {
+        "id": "21741",
+        "title": "Restaurant du Palais Royal",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75001"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant du Palais Royal/21741#info"
+    },
+    {
+        "id": "2728",
+        "title": "L'Orangerie du Chateau",
+        "address": {
+            "address_locality": "Blois",
+            "postal_code": "41000"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Orangerie du Chateau/2728#info"
+    },
+    {
+        "id": "5355",
+        "title": "Auberge du Pont de Collonges - Paul Bocuse",
+        "address": {
+            "address_locality": "Collonges-au-Mont-d'Or",
+            "postal_code": "69660"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Pont de Collonges - Paul Bocuse/5355#info"
+    },
+    {
+        "id": "38822",
+        "title": "Paloma",
+        "address": {
+            "address_locality": "Mougins",
+            "postal_code": "06250"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Paloma/38822#info"
+    },
+    {
+        "id": "75533",
+        "title": "La Tour des Vents",
+        "address": {
+            "address_locality": "Monbazillac",
+            "postal_code": "24240"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Tour des Vents/75533#info"
+    },
+    {
+        "id": "3018",
+        "title": "Domaine d'Auriac",
+        "address": {
+            "address_locality": "Carcassonne",
+            "postal_code": "11000"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine d'Auriac/3018#info"
+    }
+]

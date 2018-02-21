@@ -1,0 +1,71 @@
+[
+    {
+        "restaurant": {
+            "title": "Maison Rostang",
+            "address": {
+                "address_locality": "20 rue Rennequin",
+                "postal_code": "75017"
+            }
+        },
+        "promos": [
+            {
+                "title": "Menu Prestige 115€ Tout Compris, le midi !",
+                "number": "115€",
+                "text": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi."
+            },
+            {
+                "title": "Menu Prestige 195€ Tout Compris, le soir !",
+                "number": "195€",
+                "text": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir."
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "title": "Manoir de la Boulaie",
+            "address": {
+                "address_locality": "33 rue Chapelle St-Martin",
+                "postal_code": "44115"
+            }
+        },
+        "promos": [
+            {
+                "title": "-20% sur la carte",
+                "number": "-20%",
+                "text": "Conditions : hors menu, hors boisson. Pour toute commande d'Entrée+Plat ou Plat+Dessert minimum par personne. Pour des tables de maximum 4 personnes.\nValidité : Déjeuner : du mercredi au samedi. Dîner : le mercredi, jeudi et vendredi."
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "title": "Mavrommatis",
+            "address": {
+                "address_locality": "42 rue Daubenton",
+                "postal_code": "75005"
+            }
+        },
+        "promos": [
+            {
+                "title": "-20% sur la carte",
+                "number": "-20%",
+                "text": "Hors menu, hors boisson. \nPour toute commande d'Entrée+Plat ou Plat+Dessert minimum par personne.\nValidité: au dîner du mardi au jeudi inclus et au déjeuner du jeudi au samedi inclus"
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "title": "Emporio Armani Ristorante",
+            "address": {
+                "address_locality": "149 Boulevard Saint-Germain",
+                "postal_code": "75006"
+            }
+        },
+        "promos": [
+            {
+                "title": "Menu Prestige 79€, Tout Compris !",
+                "number": "79€",
+                "text": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis."
+            }
+        ]
+    }
+]
