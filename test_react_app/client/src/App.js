@@ -1,5 +1,10 @@
 import React, { Component } from 'react';
 
+const aStyle = {
+  margin: '40px',
+  border: '5px solid'
+};
+
 const API = '/api/';
 const DEFAULT_QUERY = 'get_stored_offers';
 
@@ -21,30 +26,11 @@ class App extends Component {
     const { restaurants_with_promos } = this.state;
 
     return (
-<<<<<<< HEAD
-      <div>
-        {restaurants_with_promos.map(restaurant_with_promos =>
-          <div key={restaurant_with_promos.restaurant.id}>
-            <a href={restaurant_with_promos.restaurant.restaurant_url}>{restaurant_with_promos.restaurant.title}</a>
-            {restaurant_with_promos.promos.map(promo =>
-              <div class="promo">
-              <p>{promo.title}</p>
-              <p>{promo.number}</p>
-              <p>{promo.text}</p>
-              </div>
-              )}
-            <p></p>
-            <p></p>
-            <p></p>
-=======
       <div class="list-group" id="root" className= "App">
       {restaurants_with_promos.map(restaurant_with_promos =>
-        <div key={restaurant_with_promos.restaurant.id}>
-        <a href={restaurant_with_promos.restaurant.restaurant_url}>{restaurant_with_promos.restaurant.title}</a>
-        </div>
 
         /*<!-- div with one restaurant -->*/
-        <a  key={restaurant_with_promos.restaurant.id} id="resto" class="list-group-item list-group-item-action col-sm-10" style="margin-bottom: 100px" href={restaurant_with_promos.restaurant.restaurant_url}>
+        <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-10" href={restaurant_with_promos.restaurant.restaurant_url}>
         <h1>{restaurant_with_promos.restaurant.title}</h1>
         <div id="liste de promos">
         {restaurant_with_promos.promos.map(promo =>
@@ -53,7 +39,6 @@ class App extends Component {
           <label id="promo_text">
           {promo.text}
           </label>
->>>>>>> 598a9b48adcb282e3b0b072117ec6109d8b26268
           </div>
 
           )}

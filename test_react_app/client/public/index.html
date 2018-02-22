@@ -1,26 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="theme-color" content="#000000">
+<head>
+  <title>Top Chef</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
 
-    <title>React App</title>
-  </head>
-  <body>
-    <noscript>
-      You need to enable JavaScript to run this app.
-    </noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+  <style>
+  body {
+    font-family: "Lato", sans-serif;
+  }
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+  .sidenav {
+    margin-top: 200px;
+    width: auto;
+    position: fixed;
+    z-index: 1;
+    top: 20px;
+    left: 10px;
+    background: #eee;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #2196F3;
+    display: block;
+  }
+
+  .sidenav a:hover {
+    color: #064579;
+  }
+
+  .main {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+</style>
+
+
+
+</head>
+<body>
+
+  <div class="container-fluid" style="background-color:#f2be18;color:black;height:200px; text-align: center">
+    <h1>Top Chef</h1>
+    <h3>Fixed (sticky) vertical sidenav on scroll</h3>
+    <p>Scroll this page to see how the left navigation menu behaves with data-spy="affix".</p>
+    <p><strong>The left menu sticks to the page when you have scrolled a specified amount of pixels.</strong></p>
+  </div>
+  <br>
+
+
+  <noscript>
+    You need to enable JavaScript to run this app.
+  </noscript>
+
+  <div class="container">
+    <div class="row">
+
+      <div class="sidenav">
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#clients">Clients</a>
+        <a href="#contact">Contact</a>
+      </div>
+
+      <!-- div with the list of restaurants -->
+      <div class="list-group col" id="root" className= "App">   
+        
+
+      </div>
+    </div>
+  </div>
+
+</body>
 </html>
