@@ -14,21 +14,37 @@ class App extends Component {
 
   componentDidMount() {
     fetch(API + DEFAULT_QUERY)
-      .then(response => response.json())
-      .then(data => this.setState({ restaurants_with_promos: data }));
+    .then(response => response.json())
+    .then(data => this.setState({ restaurants_with_promos: data }));
   }
   render() {
     const { restaurants_with_promos } = this.state;
 
     return (
-      <div>
-        {restaurants_with_promos.map(restaurant_with_promos =>
-          <div key={restaurant_with_promos.restaurant.id}>
-            <a href={restaurant_with_promos.restaurant.restaurant_url}>{restaurant_with_promos.restaurant.title}</a>
+      <div class="list-group" id="root" className= "App">
+      {restaurants_with_promos.map(restaurant_with_promos =>
+        <div key={restaurant_with_promos.restaurant.id}>
+        <a href={restaurant_with_promos.restaurant.restaurant_url}>{restaurant_with_promos.restaurant.title}</a>
+        </div>
+
+        /*<!-- div with one restaurant -->*/
+        <a  key={restaurant_with_promos.restaurant.id} id="resto" class="list-group-item list-group-item-action col-sm-10" style="margin-bottom: 100px" href={restaurant_with_promos.restaurant.restaurant_url}>
+        <h1>{restaurant_with_promos.restaurant.title}</h1>
+        <div id="liste de promos">
+        {restaurant_with_promos.promos.map(promo =>
+          <div id="promo">
+          <h2>{promo.title}</h2>
+          <label id="promo_text">
+          {promo.text}
+          </label>
           </div>
+
+          )}
+        </div>
+        </a>
         )}
       </div>
-    );
+      );
   }
 }
 
