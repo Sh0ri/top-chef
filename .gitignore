@@ -182,3 +182,5 @@ build/
 dist/
 
 exports
+test_react_app/client/public/index.html
+test_react_app/client/src/App.js
