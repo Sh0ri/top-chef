@@ -1,5 +1,14 @@
 [
     {
+        "id": "205737",
+        "title": "Le Violon d'Ingres - Christian Constant",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75007"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#info"
+    },
+    {
         "id": "2828",
         "title": "Le Chiberta - Stephane Laruelle - Guy Savoy",
         "address": {
@@ -9,15 +18,6 @@
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#info"
     },
     {
-        "id": "69375",
-        "title": "Au Trou Gascon - Alain Dutournier",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75012"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#info"
-    },
-    {
         "id": "310829",
         "title": "Dominique Bouchet",
         "address": {
@@ -25,15 +25,6 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#info"
-    },
-    {
-        "id": "205737",
-        "title": "Le Violon d'Ingres - Christian Constant",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75007"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#info"
     },
     {
         "id": "26201",
@@ -151,15 +142,6 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#info"
-    },
-    {
-        "id": "5727",
-        "title": "Mavrommatis",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75005"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Mavrommatis/5727#info"
     },
     {
         "id": "275457",

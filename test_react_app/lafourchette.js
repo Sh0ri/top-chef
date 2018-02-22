@@ -81,9 +81,14 @@ function compare_strings(michelin_restaurant_title,previous_restaurant,new_resta
 
 function check_if_offers(restaurant){
 	return new Promise((resolve, reject) => {
+				var headers = { 
+			'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
+			'Content-Type' : 'application/x-www-form-urlencoded' 
+		};
+
 		var url = 'https://m.lafourchette.com/api/restaurant/' + restaurant.id + '/sale-type';
 
-		request({url:url,json:true}, function(error, response, html)
+		request({url:url,json:true,headers:headers}, function(error, response, html)
 		{
 			var is_special_offer = false;
 			try
