@@ -24,7 +24,7 @@ class App extends Component {
   }
 
   Update(orderer){
-    fetch(API + 'get_stored_offers' + '/orderby/' + orderer)
+    fetch(API + 'get_stored_offers/orderby/' + orderer)
     .then(response => response.json())
     .then(data => this.setState({ restaurants_with_promos: data }));
   }
@@ -32,12 +32,18 @@ class App extends Component {
     const { restaurants_with_promos } = this.state;
 
     return (
-        <div id='root'>
+      <div id='root'>
+
+
       <div class="sidenav">
-      <a href="#orderbytitle" onClick={()=>{this.Update('title')}}>Order By Title</a>
-      <a href="#orderbyid" onClick={()=>{this.Update('id')}}>Order By ID</a>
-      <a href="#clients">Clients</a>
-      <a href="#contact">Contact</a>
+      <button type="button" class="btn btn-outline-primary" onClick={()=>{this.Update('title')}}>Order By Title</button>
+      <button type="button" class="btn btn-outline-primary" onClick={()=>{this.Update('id')}}>Order By ID</button>
+      <button type="button" class="btn btn-outline-primary" onClick={()=>{this.Update('starsasc')}}>Order By Stars
+      <span class="glyphicon glyphicon-arrow-down" aria-hidden="true"></span>
+      </button>
+      <button type="button" class="btn btn-outline-primary" onClick={()=>{this.Update('starsdsc')}}>Order By Stars
+      <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
+      </button>
       </div>
 
       <div class="list-group" id="root" className= "App">
@@ -45,6 +51,7 @@ class App extends Component {
 
         /*<!-- div with one restaurant -->*/
         <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-10" href={restaurant_with_promos.restaurant.restaurant_url}>
+        <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
         <h1>{restaurant_with_promos.restaurant.title}</h1>
         <div id="liste de promos">
         {restaurant_with_promos.promos.map(promo =>

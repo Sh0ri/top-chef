@@ -13,52 +13,55 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 5000;
 
-app.get('/api/hello', (req, res) => {
-	res.send({ express: 'Hello From Express' });
-	console.log("API CALLED");
-  //store_offers();
-});
-
+//BASIC
 app.get('/api/get_stored_offers', (req, res) => {
-	console.log("Get stored offers");
-	var obj = lafourchette.get_stored_offers().sort(function(a, b){
-		if(a.restaurant.id < b.restaurant.id) return -1;
-		if(a.restaurant.id > b.restaurant.id) return 1;
-		return 0;
-	});
-	
-	var test = obj[0];
-	console.log(test);
+	console.log("Get stored offers basic");
+	var obj = lafourchette.get_stored_offers();
+
+	obj = orderbytitle(obj);
+
 	res.send(obj);
 });
 
+//ORDER BY ID
 app.get('/api/get_stored_offers/orderby/id', (req, res) => {
-	console.log("Get stored offers");
-	var obj = lafourchette.get_stored_offers().sort(function(a, b){
-		if(a.restaurant.id < b.restaurant.id) return -1;
-		if(a.restaurant.id > b.restaurant.id) return 1;
-		return 0;
-	});
+	console.log("Get stored offers order by ID");
+	var obj = lafourchette.get_stored_offers();
+
+	obj = orderbyid(obj);
 	
-	var test = obj[0];
-	console.log(test);
 	res.send(obj);
 });
 	
-
+//ORDER BY TITLE
 app.get('/api/get_stored_offers/orderby/title', (req, res) => {
-	console.log("Get stored offers ordered by title");
-	var obj = lafourchette.get_stored_offers().sort(function(a, b){
-		if(a.restaurant.title < b.restaurant.title) return -1;
-		if(a.restaurant.title > b.restaurant.title) return 1;
-		return 0;
-	});
+	console.log("Get stored offers order by title");
+	var obj = lafourchette.get_stored_offers();
+
+	obj = orderbytitle(obj);
 	
-	var test = obj[0];
-	console.log(test);
 	res.send(obj);
 });
 
+//ORDER BY STARS ASC
+app.get('/api/get_stored_offers/orderby/starsasc', (req, res) => {
+	console.log("Get stored offers order by stars asc");
+	var obj = lafourchette.get_stored_offers();
+
+	obj = orderbystarsasc(obj);
+
+	res.send(obj);
+});
+
+//ORDER BY STARS DSC
+app.get('/api/get_stored_offers/orderby/starsdsc', (req, res) => {
+	console.log("Get stored offers order by dsc");
+	var obj = lafourchette.get_stored_offers();
+
+	obj = orderbystarsdsc(obj);
+
+	res.send(obj);
+});
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
 
@@ -170,6 +173,37 @@ function get_offers(){
 		})
 	});
 }
+/////////////////////////////////////////////////////////////////SORT FUNCTIONS////////////////////////////////////////////////////////////////////
+
+function orderbyid(obj){
+	return obj.sort(function(a, b){
+		if(a.restaurant.id < b.restaurant.id) return -1;
+		if(a.restaurant.id > b.restaurant.id) return 1;
+		return 0;
+	});
+}
+
+function orderbytitle(obj){
+	return obj.sort(function(a, b){
+		if(a.restaurant.title < b.restaurant.title) return -1;
+		if(a.restaurant.title > b.restaurant.title) return 1;
+		return 0;
+	});
+}
+
+function orderbystarsasc(obj){
+	return obj.sort(function(a, b){
+		return a.restaurant.stars - b.restaurant.stars  ||  a.restaurant.title.localeCompare(b.restaurant.title);
+	});
+}
+
+function orderbystarsdsc(obj){
+	return obj.sort(function(a, b){
+		return b.restaurant.stars - a.restaurant.stars  ||  a.restaurant.title.localeCompare(b.restaurant.title);
+	});
+}
+
+/////////////////////////////////////////////////////////////////EXPORTS///////////////////////////////////////////////////////////////////////////
 
 module.exports = {
 	store_michelin_restaurants_available_in_lafourchette : store_michelin_restaurants_available_in_lafourchette,

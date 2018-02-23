@@ -114,17 +114,19 @@ function scrape_page(url)
 			if(!error){
 				var $ = cheerio.load(html);
 
-				var title, adress, postcode, city;
-				var restaurant = { title : "", address : { address_locality : "", postal_code : ""} };
+				var title, adress, postcode, city, stars;
+				var restaurant = { title : "", address : { address_locality : "", postal_code : ""}, stars : "" };
 
 				title = $('.poi_intro-display-title').first().text();
 				address_locality = $('.thoroughfare').first().text();
 				postcode = $('.postal-code').first().text();
 				city = $('.locality').first().text();
+				stars = $('.michelin-poi-distinctions-list').children('li').children('.content-wrapper').text().replace(/[^0-9]/g,'');
 
 				restaurant.title = title.substring(7,title.length -4);
 				restaurant.address.address_locality = address_locality;
 				restaurant.address.postal_code = postcode;
+				restaurant.stars = stars;
 
 				resolve(restaurant);
 			}

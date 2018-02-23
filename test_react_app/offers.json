@@ -7,7 +7,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75007"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -25,7 +26,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75008"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -43,7 +45,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75008"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -61,7 +64,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75007"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -79,7 +83,8 @@
                 "address_locality": "Lyon",
                 "postal_code": "69006"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -97,7 +102,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75001"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -120,7 +126,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75004"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -138,7 +145,8 @@
                 "address_locality": "La Napoule",
                 "postal_code": "06210"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#info",
+            "stars": "2"
         },
         "promos": [
             {
@@ -161,7 +169,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75016"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -179,7 +188,8 @@
                 "address_locality": "Trouville-sur-Mer",
                 "postal_code": "14360"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -197,14 +207,10 @@
                 "address_locality": "Paris",
                 "postal_code": "75008"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#info",
+            "stars": "1"
         },
         "promos": [
-            {
-                "title": "-20% sur la carte",
-                "number": "-20%",
-                "text": "Hors menu, hors boisson. Valable pour le créneau horaire réservé."
-            },
             {
                 "title": "Menu Mardis Gourmands (menu susceptible de changer en fonction des arrivages du marché)150€",
                 "number": "150€",
@@ -220,7 +226,8 @@
                 "address_locality": "Haute-Goulaine",
                 "postal_code": "44115"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#info",
+            "stars": "2"
         },
         "promos": [
             {
@@ -238,7 +245,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75017"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#info",
+            "stars": "2"
         },
         "promos": [
             {
@@ -261,7 +269,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75017"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -289,30 +298,13 @@
                 "address_locality": "Paris",
                 "postal_code": "75116"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#info",
+            "stars": "1"
         },
         "promos": [
             {
                 "title": "Menu Mardis Gourmands 109€",
                 "number": "109€",
-                "text": "Prix par personne."
-            }
-        ]
-    },
-    {
-        "restaurant": {
-            "id": "713",
-            "title": "L'Arome",
-            "address": {
-                "address_locality": "Paris",
-                "postal_code": "75008"
-            },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#info"
-        },
-        "promos": [
-            {
-                "title": "Menu Mardis Gourmands 139€",
-                "number": "139€",
                 "text": "Prix par personne."
             }
         ]
@@ -325,7 +317,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75006"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -337,13 +330,33 @@
     },
     {
         "restaurant": {
+            "id": "713",
+            "title": "L'Arome",
+            "address": {
+                "address_locality": "Paris",
+                "postal_code": "75008"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#info",
+            "stars": "1"
+        },
+        "promos": [
+            {
+                "title": "Menu Mardis Gourmands 139€",
+                "number": "139€",
+                "text": "Prix par personne."
+            }
+        ]
+    },
+    {
+        "restaurant": {
             "id": "5020",
             "title": "La Fourchette du Printemps - Nicolas Mouton",
             "address": {
                 "address_locality": "Paris",
                 "postal_code": "75017"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#info",
+            "stars": "1"
         },
         "promos": [
             {
@@ -361,7 +374,8 @@
                 "address_locality": "Paris",
                 "postal_code": "75008"
             },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#info"
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#info",
+            "stars": "1"
         },
         "promos": [
             {
