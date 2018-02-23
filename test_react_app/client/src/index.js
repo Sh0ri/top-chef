@@ -6,5 +6,5 @@ import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
-document.getElementById("BUTTON ID").addEventListener("click", myFunction);
+//document.getElementById("BUTTON ID").addEventListener("click", myFunction);
 registerServiceWorker();

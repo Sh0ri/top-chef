@@ -22,10 +22,24 @@ class App extends Component {
     .then(response => response.json())
     .then(data => this.setState({ restaurants_with_promos: data }));
   }
+
+  Update(orderer){
+    fetch(API + 'get_stored_offers' + '/orderby/' + orderer)
+    .then(response => response.json())
+    .then(data => this.setState({ restaurants_with_promos: data }));
+  }
   render() {
     const { restaurants_with_promos } = this.state;
 
     return (
+        <div id='root'>
+      <div class="sidenav">
+      <a href="#orderbytitle" onClick={()=>{this.Update('title')}}>Order By Title</a>
+      <a href="#services" onClick={()=>{this.Update('id')}}>Order By ID</a>
+      <a href="#clients">Clients</a>
+      <a href="#contact">Contact</a>
+      </div>
+
       <div class="list-group" id="root" className= "App">
       {restaurants_with_promos.map(restaurant_with_promos =>
 
@@ -45,6 +59,7 @@ class App extends Component {
         </div>
         </a>
         )}
+      </div>
       </div>
       );
   }

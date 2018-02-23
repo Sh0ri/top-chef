@@ -14,19 +14,51 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.get('/api/hello', (req, res) => {
-  res.send({ express: 'Hello From Express' });
-  console.log("API CALLED");
+	res.send({ express: 'Hello From Express' });
+	console.log("API CALLED");
   //store_offers();
 });
 
 app.get('/api/get_stored_offers', (req, res) => {
 	console.log("Get stored offers");
-	var obj = lafourchette.get_stored_offers();
+	var obj = lafourchette.get_stored_offers().sort(function(a, b){
+		if(a.restaurant.id < b.restaurant.id) return -1;
+		if(a.restaurant.id > b.restaurant.id) return 1;
+		return 0;
+	});
 	
 	var test = obj[0];
 	console.log(test);
-  	res.send(obj);
+	res.send(obj);
 });
+
+app.get('/api/get_stored_offers/orderby/id', (req, res) => {
+	console.log("Get stored offers");
+	var obj = lafourchette.get_stored_offers().sort(function(a, b){
+		if(a.restaurant.id < b.restaurant.id) return -1;
+		if(a.restaurant.id > b.restaurant.id) return 1;
+		return 0;
+	});
+	
+	var test = obj[0];
+	console.log(test);
+	res.send(obj);
+});
+	
+
+app.get('/api/get_stored_offers/orderby/title', (req, res) => {
+	console.log("Get stored offers ordered by title");
+	var obj = lafourchette.get_stored_offers().sort(function(a, b){
+		if(a.restaurant.title < b.restaurant.title) return -1;
+		if(a.restaurant.title > b.restaurant.title) return 1;
+		return 0;
+	});
+	
+	var test = obj[0];
+	console.log(test);
+	res.send(obj);
+});
+
 
 app.listen(port, () => console.log(`Listening on port ${port}`));
 
