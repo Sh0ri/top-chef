@@ -35,7 +35,7 @@ class App extends Component {
         <div id='root'>
       <div class="sidenav">
       <a href="#orderbytitle" onClick={()=>{this.Update('title')}}>Order By Title</a>
-      <a href="#services" onClick={()=>{this.Update('id')}}>Order By ID</a>
+      <a href="#orderbyid" onClick={()=>{this.Update('id')}}>Order By ID</a>
       <a href="#clients">Clients</a>
       <a href="#contact">Contact</a>
       </div>
