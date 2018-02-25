@@ -32,7 +32,7 @@ app.get('/api/get_stored_offers/orderby/id', (req, res) => {
 	
 	res.send(obj);
 });
-	
+
 //ORDER BY TITLE
 app.get('/api/get_stored_offers/orderby/title', (req, res) => {
 	console.log("Get stored offers order by title");
@@ -63,6 +63,12 @@ app.get('/api/get_stored_offers/orderby/starsdsc', (req, res) => {
 	res.send(obj);
 });
 
+//UPDATE OFFERS
+app.get('/api/update/offers', (req, res) => {
+	console.log("Update offers");
+	store_offers(res);
+});
+
 app.listen(port, () => console.log(`Listening on port ${port}`));
 
 
@@ -80,6 +86,7 @@ app.listen(port, () => console.log(`Listening on port ${port}`));
 async function store_michelin_restaurants(){
 	const result = await michelin.scrape_michelin();
 	console.log("save done");
+	return result;
 }
 
 async function store_michelin_restaurants_available_in_lafourchette(){
@@ -94,10 +101,16 @@ async function store_restaurants_with_offers(){
 	console.log("save done");
 }
 
-async function store_offers(){
+async function store_offers(res){
+
 	const offers = await get_offers();
 	const result = await lafourchette.store_offers(offers);
 	console.log("save done");
+	pSettle(offers).then(result => {
+		console.log('ok');
+	})
+	res.send(orderbytitle(offers));
+	console.log('res done');
 }
 
 async function get_stored_offers(){

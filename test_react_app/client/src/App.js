@@ -28,6 +28,18 @@ class App extends Component {
     .then(response => response.json())
     .then(data => this.setState({ restaurants_with_promos: data }));
   }
+
+  OrderByTitle(){
+    const { restaurants_with_promos } = this.state;
+    restaurants_with_promos.sort((a,b) => a.restaurant.title - b.restaurant.title)
+    this.setState({ restaurants_with_promos: restaurants_with_promos });
+  }
+
+  UpdateData(element){
+    fetch(API + 'update/' + element)
+    .then(response => response.json())
+    .then(data => this.setState({ restaurants_with_promos: data }));
+  }
   render() {
     const { restaurants_with_promos } = this.state;
 
@@ -44,6 +56,8 @@ class App extends Component {
       <button type="button" class="btn btn-outline-primary" onClick={()=>{this.Update('starsdsc')}}>Order By Stars
       <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
       </button>
+
+      <button type="button" class="btn btn-outline-primary" onClick={()=>{this.OrderByTitle()}}>Update the offers</button>
       </div>
 
       <div class="list-group" id="root" className= "App">
@@ -70,6 +84,14 @@ class App extends Component {
       </div>
       );
   }
+}
+
+function orderbytitle(obj){
+  return obj.sort(function(a, b){
+    if(a.restaurant.title < b.restaurant.title) return -1;
+    if(a.restaurant.title > b.restaurant.title) return 1;
+    return 0;
+  });
 }
 
 export default App;

@@ -34,10 +34,17 @@ app.listen(port, () => console.log(`Listening on port ${port}`));
 //store_michelin_restaurants();
 //store_michelin_restaurants_available_in_lafourchette();
 //store_restaurants_with_offers();
-store_offers();
+//store_offers();
+test();
 
 
 /////////////////////////////////////////////////////////////////FUNCTIONS///////////////////////////////////////////////////////////////////////////
+
+async function test(){
+	const testo = await store_offers();
+	console.log("THIS IS THE RESULT");
+	console.log(testo);
+}
 
 async function store_michelin_restaurants(){
 	const result = await michelin.scrape_michelin();
@@ -61,6 +68,13 @@ async function store_offers(){
 	const offers = await get_offers();
 	const result = await lafourchette.store_offers(offers);
 	console.log("save done");
+	return new Promise((resolve, reject) => {
+		pSettle(offers).then(result => {
+			console.log('ok');
+		});
+		resolve(offers);
+	});
+
 }
 
 async function get_stored_offers(){
@@ -125,7 +139,7 @@ function get_offers(){
 			result.forEach(function(elem){
 				if(elem.isFulfilled)
 				{
-					console.log(elem);
+					//console.log(elem);
 					compteur++;
 					offers.push(elem.value);
 				}
