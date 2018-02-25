@@ -6,7 +6,7 @@
             "address_locality": "Paris",
             "postal_code": "75017"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Agape/1923#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Agape/1923#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -16,7 +16,7 @@
             "address_locality": "Beaune",
             "postal_code": "21200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Jardin des Remparts/4988#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Jardin des Remparts/4988#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -26,7 +26,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 39V Paris - Frederic Vardon/26112#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 39V Paris - Frederic Vardon/26112#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -36,7 +36,7 @@
             "address_locality": "Colmar",
             "postal_code": "68000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/JY'S/5603#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/JY'S/5603#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -46,17 +46,7 @@
             "address_locality": "Paris",
             "postal_code": "75001"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant du Palais Royal/21741#info",
-        "stars": "1"
-    },
-    {
-        "id": "2728",
-        "title": "L'Orangerie du Chateau",
-        "address": {
-            "address_locality": "Blois",
-            "postal_code": "41000"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Orangerie du Chateau/2728#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant du Palais Royal/21741#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -66,8 +56,18 @@
             "address_locality": "Collonges-au-Mont-d'Or",
             "postal_code": "69660"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Pont de Collonges - Paul Bocuse/5355#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Pont de Collonges - Paul Bocuse/5355#ocSaleTypeList",
         "stars": "3"
+    },
+    {
+        "id": "2728",
+        "title": "L'Orangerie du Chateau",
+        "address": {
+            "address_locality": "Blois",
+            "postal_code": "41000"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Orangerie du Chateau/2728#ocSaleTypeList",
+        "stars": "1"
     },
     {
         "id": "38822",
@@ -76,7 +76,7 @@
             "address_locality": "Mougins",
             "postal_code": "06250"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Paloma/38822#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Paloma/38822#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -86,7 +86,7 @@
             "address_locality": "Monbazillac",
             "postal_code": "24240"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Tour des Vents/75533#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Tour des Vents/75533#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -96,7 +96,7 @@
             "address_locality": "Lyon",
             "postal_code": "69001"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Mere Brazier - Mathieu Viannay/6794#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Mere Brazier - Mathieu Viannay/6794#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -106,7 +106,7 @@
             "address_locality": "Paris",
             "postal_code": "75007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -116,7 +116,7 @@
             "address_locality": "Champagnac-de-Belair",
             "postal_code": "24530"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin du Roc/7133#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin du Roc/7133#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -126,7 +126,7 @@
             "address_locality": "Lyon",
             "postal_code": "69005"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Tetedoie - Christian Tetedoie/3997#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Tetedoie - Christian Tetedoie/3997#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -136,7 +136,7 @@
             "address_locality": "Mane",
             "postal_code": "04300"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Cloitre/11050#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Cloitre/11050#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -146,18 +146,8 @@
             "address_locality": "Saint-Cyprien",
             "postal_code": "66750"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Almandin/566#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Almandin/566#ocSaleTypeList",
         "stars": "1"
-    },
-    {
-        "id": "3303",
-        "title": "Le Relais Bernard Loiseau",
-        "address": {
-            "address_locality": "Saulieu",
-            "postal_code": "21210"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais Bernard Loiseau/3303#info",
-        "stars": "2"
     },
     {
         "id": "25901",
@@ -166,7 +156,7 @@
             "address_locality": "La Celle",
             "postal_code": "83170"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de l'Abbaye de la Celle/25901#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de l'Abbaye de la Celle/25901#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -176,7 +166,7 @@
             "address_locality": "Bagnols",
             "postal_code": "69620"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1217/28453#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1217/28453#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -186,7 +176,7 @@
             "address_locality": "Tinqueux",
             "postal_code": "51430"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Assiette Champenoise/3806#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Assiette Champenoise/3806#ocSaleTypeList",
         "stars": "3"
     },
     {
@@ -196,7 +186,7 @@
             "address_locality": "La Cadière-d'Azur",
             "postal_code": "83740"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie Berard & spa/416#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie Berard & spa/416#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -206,7 +196,7 @@
             "address_locality": "Le Tremblay-sur-Mauldre",
             "postal_code": "78490"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Numero 3/26601#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Numero 3/26601#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -216,7 +206,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -226,7 +216,7 @@
             "address_locality": "Marseille",
             "postal_code": "13007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Petit Nice Passedat - Gerald Passedat/9350#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Petit Nice Passedat - Gerald Passedat/9350#ocSaleTypeList",
         "stars": "3"
     },
     {
@@ -236,7 +226,7 @@
             "address_locality": "Carcassonne",
             "postal_code": "11000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant La Barbacane/26494#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant La Barbacane/26494#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -246,7 +236,7 @@
             "address_locality": "Banyuls-sur-Mer",
             "postal_code": "66650"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Fanal - Pascal Borrell/294745#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Fanal - Pascal Borrell/294745#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -256,8 +246,8 @@
             "address_locality": "Paris",
             "postal_code": "75012"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "69372",
@@ -266,7 +256,7 @@
             "address_locality": "Paris",
             "postal_code": "75001"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Carre des Feuillants - Alain Dutournier/69372#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Carre des Feuillants - Alain Dutournier/69372#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -276,7 +266,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -286,7 +276,7 @@
             "address_locality": "Rouen",
             "postal_code": "76000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Gill \"Relais & Chateaux\"/3157#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Gill \"Relais & Chateaux\"/3157#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -296,7 +286,7 @@
             "address_locality": "Metz",
             "postal_code": "57000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Magasin aux Vivres/5109#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Magasin aux Vivres/5109#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -306,7 +296,7 @@
             "address_locality": "Paris",
             "postal_code": "75001"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Dame de Pic - Anne-Sophie PIC - Paris/205419#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Dame de Pic - Anne-Sophie PIC - Paris/205419#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -316,7 +306,7 @@
             "address_locality": "Saint-Avé",
             "postal_code": "56890"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pressoir/18188#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pressoir/18188#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -326,7 +316,7 @@
             "address_locality": "Moustiers-Sainte-Marie",
             "postal_code": "04360"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Bastide de Moustiers/57531#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Bastide de Moustiers/57531#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -336,17 +326,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Il Carpaccio - Hotel Royal Monceau/8601#info",
-        "stars": "1"
-    },
-    {
-        "id": "3018",
-        "title": "Domaine d'Auriac",
-        "address": {
-            "address_locality": "Carcassonne",
-            "postal_code": "11000"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine d'Auriac/3018#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Il Carpaccio - Hotel Royal Monceau/8601#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -356,7 +336,7 @@
             "address_locality": "Les Baux-de-Provence",
             "postal_code": "13520"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oustau de Baumaniere - Jean Andre Charial/687#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oustau de Baumaniere - Jean Andre Charial/687#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -366,7 +346,7 @@
             "address_locality": "Monestier",
             "postal_code": "24240"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Fresques - Chateau des Vigiers/16314#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Fresques - Chateau des Vigiers/16314#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -376,7 +356,7 @@
             "address_locality": "Dampmart",
             "postal_code": "77400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Quincangrogne/78533#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Quincangrogne/78533#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -386,7 +366,7 @@
             "address_locality": "Chenonceaux",
             "postal_code": "37150"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Bon Laboureur/2934#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Bon Laboureur/2934#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -396,7 +376,7 @@
             "address_locality": "Vence",
             "postal_code": "06140"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Bacchanales - Christophe Dufau/6448#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Bacchanales - Christophe Dufau/6448#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -406,7 +386,7 @@
             "address_locality": "Dijon",
             "postal_code": "21000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Stephane Derbord/5619#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Stephane Derbord/5619#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -416,7 +396,7 @@
             "address_locality": "Boismorand",
             "postal_code": "45290"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Templiers/2714#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Templiers/2714#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -426,8 +406,8 @@
             "address_locality": "La Wantzenau",
             "postal_code": "67610"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais de la Poste/2876#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais de la Poste/2876#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "74933",
@@ -436,7 +416,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clarence/74933#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clarence/74933#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -446,7 +426,7 @@
             "address_locality": "Caen",
             "postal_code": "14000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ivan Vautier/26460#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Ivan Vautier/26460#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -456,7 +436,7 @@
             "address_locality": "Deauville",
             "postal_code": "14800"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Essentiel/21632#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Essentiel/21632#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -466,27 +446,7 @@
             "address_locality": "Lyon",
             "postal_code": "69006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Clovis/324443#info",
-        "stars": "1"
-    },
-    {
-        "id": "73740",
-        "title": "La Rotonde - Domaine le Lyon Vert",
-        "address": {
-            "address_locality": "La Tour-de-Salvagny",
-            "postal_code": "69890"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Rotonde - Domaine le Lyon Vert/73740#info",
-        "stars": "1"
-    },
-    {
-        "id": "378",
-        "title": "Ithurria",
-        "address": {
-            "address_locality": "Ainhoa",
-            "postal_code": "64250"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ithurria/378#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Clovis/324443#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -496,7 +456,7 @@
             "address_locality": "Brantôme",
             "postal_code": "24310"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin de l'Abbaye/26352#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin de l'Abbaye/26352#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -506,27 +466,7 @@
             "address_locality": "Languimberg",
             "postal_code": "57810"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Chez Michele/16363#info",
-        "stars": "1"
-    },
-    {
-        "id": "26201",
-        "title": "Restaurant Auguste - Gael Orieux",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75007"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#info",
-        "stars": "1"
-    },
-    {
-        "id": "5305",
-        "title": "L'Auberge Basque",
-        "address": {
-            "address_locality": "Saint-Pée-sur-Nivelle",
-            "postal_code": "64310"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Basque/5305#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Chez Michele/16363#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -536,7 +476,7 @@
             "address_locality": "Château-Arnoux-Saint-Auban",
             "postal_code": "04160"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Bonne Etape/953#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Bonne Etape/953#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -546,7 +486,7 @@
             "address_locality": "Bordeaux",
             "postal_code": "33000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon des Boulevards - Denis Franc/7872#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon des Boulevards - Denis Franc/7872#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -556,7 +496,7 @@
             "address_locality": "Courban",
             "postal_code": "21520"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Courban & Spa/16982#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Courban & Spa/16982#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -566,18 +506,8 @@
             "address_locality": "Dijon",
             "postal_code": "21000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant William Frachot/3931#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant William Frachot/3931#ocSaleTypeList",
         "stars": "2"
-    },
-    {
-        "id": "4727",
-        "title": "Le Pergolese - Stephane Gaborieau",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75116"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pergolese - Stephane Gaborieau/4727#info",
-        "stars": "1"
     },
     {
         "id": "277471",
@@ -586,17 +516,17 @@
             "address_locality": "La Colle-sur-Loup",
             "postal_code": "06480"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Alain Llorca/277471#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Alain Llorca/277471#ocSaleTypeList",
         "stars": "1"
     },
     {
-        "id": "3304",
-        "title": "Loiseau des Vignes",
+        "id": "4727",
+        "title": "Le Pergolese - Stephane Gaborieau",
         "address": {
-            "address_locality": "Beaune",
-            "postal_code": "21200"
+            "address_locality": "Paris",
+            "postal_code": "75116"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Vignes/3304#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pergolese - Stephane Gaborieau/4727#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -606,7 +536,17 @@
             "address_locality": "Paris",
             "postal_code": "75007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau rive Gauche/25#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau rive Gauche/25#ocSaleTypeList",
+        "stars": "1"
+    },
+    {
+        "id": "3304",
+        "title": "Loiseau des Vignes",
+        "address": {
+            "address_locality": "Beaune",
+            "postal_code": "21200"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Vignes/3304#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -616,7 +556,7 @@
             "address_locality": "Lyon",
             "postal_code": "69006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -626,7 +566,7 @@
             "address_locality": "Caen",
             "postal_code": "14000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Initial/27058#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Initial/27058#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -636,17 +576,7 @@
             "address_locality": "Les Damps",
             "postal_code": "27340"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Pomme/32584#info",
-        "stars": "1"
-    },
-    {
-        "id": "5632",
-        "title": "La Licorne Royale",
-        "address": {
-            "address_locality": "Lyons-la-Forêt",
-            "postal_code": "27480"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Licorne Royale/5632#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Pomme/32584#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -656,37 +586,7 @@
             "address_locality": "Ammerschwihr",
             "postal_code": "68770"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Julien Binz/206163#info",
-        "stars": "1"
-    },
-    {
-        "id": "22878",
-        "title": "Domaine de Clairefontaine",
-        "address": {
-            "address_locality": "Chonas-l'Amballan",
-            "postal_code": "38121"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine de Clairefontaine/22878#info",
-        "stars": "1"
-    },
-    {
-        "id": "324473",
-        "title": "Le Faventia",
-        "address": {
-            "address_locality": "Tourrettes",
-            "postal_code": "83440"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Faventia/324473#info",
-        "stars": "1"
-    },
-    {
-        "id": "9228",
-        "title": "Le Baudelaire - Hotel Le Burgundy Paris",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75001"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Julien Binz/206163#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -696,7 +596,7 @@
             "address_locality": "Annecy-le-Vieux",
             "postal_code": "74940"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clos des Sens/7130#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clos des Sens/7130#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -706,7 +606,7 @@
             "address_locality": "Nice",
             "postal_code": "06000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chantecler - Hotel Negresco/301377#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chantecler - Hotel Negresco/301377#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -716,7 +616,7 @@
             "address_locality": "Paris",
             "postal_code": "75004"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -726,28 +626,8 @@
             "address_locality": "Rhinau",
             "postal_code": "67860"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Vieux Couvent - Alexis Albrecht/15068#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Vieux Couvent - Alexis Albrecht/15068#ocSaleTypeList",
         "stars": "1"
-    },
-    {
-        "id": "10332",
-        "title": "Le Refuge des Gourmets",
-        "address": {
-            "address_locality": "Machilly",
-            "postal_code": "74140"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Refuge des Gourmets/10332#info",
-        "stars": "1"
-    },
-    {
-        "id": "682",
-        "title": "L'Oasis - Stephane Raimbault",
-        "address": {
-            "address_locality": "La Napoule",
-            "postal_code": "06210"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#info",
-        "stars": "2"
     },
     {
         "id": "5623",
@@ -756,7 +636,7 @@
             "address_locality": "Ville-d'Avray",
             "postal_code": "92410"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Corot - Hotel Les Etangs de Corot/5623#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Corot - Hotel Les Etangs de Corot/5623#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -766,7 +646,7 @@
             "address_locality": "Les Arcs",
             "postal_code": "83460"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais des Moines/132#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais des Moines/132#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -776,7 +656,7 @@
             "address_locality": "Aumont-Aubrac",
             "postal_code": "48130"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Cyril Attrazic - Chez Camillou/26469#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Cyril Attrazic - Chez Camillou/26469#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -786,8 +666,8 @@
             "address_locality": "Lacave",
             "postal_code": "46200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pont de l'Ouysse/62590#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pont de l'Ouysse/62590#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "2819",
@@ -796,7 +676,7 @@
             "address_locality": "Rochecorbon",
             "postal_code": "37210"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Hautes Roches/2819#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Hautes Roches/2819#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -806,7 +686,7 @@
             "address_locality": "Guer",
             "postal_code": "56380"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Tiegezh/51875#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Tiegezh/51875#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -816,7 +696,7 @@
             "address_locality": "Villers-Allerand",
             "postal_code": "51500"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Grand Cerf/5935#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Grand Cerf/5935#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -826,27 +706,7 @@
             "address_locality": "Paris",
             "postal_code": "75016"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#info",
-        "stars": "1"
-    },
-    {
-        "id": "8685",
-        "title": "La Villa Archange",
-        "address": {
-            "address_locality": "Le Cannet",
-            "postal_code": "06110"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Archange/8685#info",
-        "stars": "2"
-    },
-    {
-        "id": "9759",
-        "title": "Le Carrousel",
-        "address": {
-            "address_locality": "Maringues",
-            "postal_code": "63350"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Carrousel/9759#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -856,7 +716,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene - Prince de Galles/5497#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene - Prince de Galles/5497#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -866,7 +726,7 @@
             "address_locality": "Cassis",
             "postal_code": "13260"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Madie - Dimitri Droisneau/2788#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Madie - Dimitri Droisneau/2788#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -876,37 +736,7 @@
             "address_locality": "Trouville-sur-Mer",
             "postal_code": "14360"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#info",
-        "stars": "1"
-    },
-    {
-        "id": "5649",
-        "title": "La Grand'Vigne - Hotel Les Sources de Caudalie",
-        "address": {
-            "address_locality": "Martillac",
-            "postal_code": "33650"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Grand'Vigne - Hotel Les Sources de Caudalie/5649#info",
-        "stars": "2"
-    },
-    {
-        "id": "2971",
-        "title": "Maison Kieny",
-        "address": {
-            "address_locality": "Riedisheim",
-            "postal_code": "68400"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Kieny/2971#info",
-        "stars": "1"
-    },
-    {
-        "id": "1009",
-        "title": "Domaine des Sequoias",
-        "address": {
-            "address_locality": "Ruy",
-            "postal_code": "38300"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine des Sequoias/1009#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -916,7 +746,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Helen/23454#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Helen/23454#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -926,7 +756,7 @@
             "address_locality": "Castanet-Tolosan",
             "postal_code": "31320"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table des Merville - Thierry Merville/2591#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table des Merville - Thierry Merville/2591#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -936,7 +766,7 @@
             "address_locality": "Rouen",
             "postal_code": "76000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Odas/212971#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Odas/212971#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -946,7 +776,7 @@
             "address_locality": "Lembach",
             "postal_code": "67510"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Cheval Blanc/2310#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Cheval Blanc/2310#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -956,7 +786,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gabriel - La Reserve Paris/53038#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gabriel - La Reserve Paris/53038#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -966,7 +796,7 @@
             "address_locality": "Joigny",
             "postal_code": "89300"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Cote Saint-Jacques/12792#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Cote Saint-Jacques/12792#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -976,8 +806,8 @@
             "address_locality": "Chamalières",
             "postal_code": "63400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Radio/9611#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Radio/9611#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "204609",
@@ -986,7 +816,7 @@
             "address_locality": "Fayence",
             "postal_code": "83440"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Castellaras/204609#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Castellaras/204609#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -996,7 +826,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Lucas Carton - Julien DUMAS/785#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Lucas Carton - Julien DUMAS/785#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1006,7 +836,7 @@
             "address_locality": "Paris",
             "postal_code": "75018"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arcane/214579#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arcane/214579#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1016,7 +846,7 @@
             "address_locality": "Marcolès",
             "postal_code": "15220"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de la Tour/23255#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de la Tour/23255#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1026,7 +856,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1036,7 +866,7 @@
             "address_locality": "Antibes",
             "postal_code": "06160"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Passagere/203823#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Passagere/203823#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1046,8 +876,8 @@
             "address_locality": "Haute-Goulaine",
             "postal_code": "44115"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#info",
-        "stars": "2"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "8977",
@@ -1056,7 +886,7 @@
             "address_locality": "Paris",
             "postal_code": "75016"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Shang Palace - Shangri-La Hotel, Paris/8977#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Shang Palace - Shangri-La Hotel, Paris/8977#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1066,7 +896,7 @@
             "address_locality": "Paris",
             "postal_code": "75017"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Frederic Simonin/23087#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Frederic Simonin/23087#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1076,7 +906,7 @@
             "address_locality": "Dijon",
             "postal_code": "21000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Ducs/29826#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Ducs/29826#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1086,17 +916,7 @@
             "address_locality": "Paris",
             "postal_code": "75017"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#info",
-        "stars": "2"
-    },
-    {
-        "id": "38155",
-        "title": "Flaveur",
-        "address": {
-            "address_locality": "Nice",
-            "postal_code": "06000"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Flaveur/38155#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1106,7 +926,7 @@
             "address_locality": "Biarritz",
             "postal_code": "64200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Rosiers/6710#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Rosiers/6710#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1116,7 +936,7 @@
             "address_locality": "Saint-Sylvestre-sur-Lot",
             "postal_code": "47140"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Stelsia - Le Jasmin/66992#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Stelsia - Le Jasmin/66992#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1126,7 +946,7 @@
             "address_locality": "Paris",
             "postal_code": "75005"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Mavrommatis/5727#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Mavrommatis/5727#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1136,7 +956,7 @@
             "address_locality": "Garons",
             "postal_code": "30128"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Alexandre - Michel Kayser/6986#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Alexandre - Michel Kayser/6986#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1146,7 +966,7 @@
             "address_locality": "Rouen",
             "postal_code": "76000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Origine/351691#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Origine/351691#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1156,7 +976,7 @@
             "address_locality": "Paris",
             "postal_code": "75017"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1166,7 +986,7 @@
             "address_locality": "Cannes",
             "postal_code": "06400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Palme d'Or/287357#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Palme d'Or/287357#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1176,7 +996,7 @@
             "address_locality": "Loiré",
             "postal_code": "49440"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Diligence/6765#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Diligence/6765#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1186,7 +1006,7 @@
             "address_locality": "Rouffiac-Tolosan",
             "postal_code": "31180"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/O Saveurs/8719#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/O Saveurs/8719#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1196,7 +1016,7 @@
             "address_locality": "Mougins",
             "postal_code": "06250"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Candille - Le Mas Candille/3521#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Candille - Le Mas Candille/3521#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1206,7 +1026,7 @@
             "address_locality": "Paris",
             "postal_code": "75006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Salon d'Helene - Helene Darroze/36039#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Salon d'Helene - Helene Darroze/36039#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1216,18 +1036,8 @@
             "address_locality": "Paris",
             "postal_code": "75016"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Abeille - Shangri-La Hotel, Paris/8976#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Abeille - Shangri-La Hotel, Paris/8976#ocSaleTypeList",
         "stars": "2"
-    },
-    {
-        "id": "209193",
-        "title": "Ed.Em",
-        "address": {
-            "address_locality": "Chassagne-Montrachet",
-            "postal_code": "21190"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ed.Em/209193#info",
-        "stars": "1"
     },
     {
         "id": "2185",
@@ -1236,7 +1046,7 @@
             "address_locality": "Paris",
             "postal_code": "75116"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1246,7 +1056,7 @@
             "address_locality": "Marseille",
             "postal_code": "13007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Epuisette/22504#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Epuisette/22504#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1256,8 +1066,8 @@
             "address_locality": "Paris",
             "postal_code": "75014"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Cobea - Philippe Belissent/15802#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Cobea - Philippe Belissent/15802#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "31008",
@@ -1266,7 +1076,7 @@
             "address_locality": "Marseille",
             "postal_code": "13002"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Alcyone/31008#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Alcyone/31008#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1276,7 +1086,7 @@
             "address_locality": "Lyon",
             "postal_code": "69005"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Terrasses de Lyon/4697#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Terrasses de Lyon/4697#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1286,7 +1096,7 @@
             "address_locality": "Wihr-au-Val",
             "postal_code": "68230"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Nouvelle Auberge/38024#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Nouvelle Auberge/38024#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1296,7 +1106,7 @@
             "address_locality": "Saint-Émilion",
             "postal_code": "33330"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Plaisance/4904#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Plaisance/4904#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1306,7 +1116,7 @@
             "address_locality": "Bitche",
             "postal_code": "57230"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Strasbourg/10382#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Strasbourg/10382#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1316,7 +1126,7 @@
             "address_locality": "Paris",
             "postal_code": "75005"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Alliance/77626#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Alliance/77626#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1326,7 +1136,7 @@
             "address_locality": "Paris",
             "postal_code": "75007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Sylvestre - Hotel Thoumieux/200546#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Sylvestre - Hotel Thoumieux/200546#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1336,7 +1146,7 @@
             "address_locality": "Conques",
             "postal_code": "12320"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Herve Busset/128#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Herve Busset/128#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1346,7 +1156,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Epicure - Le Bristol Paris/291337#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Epicure - Le Bristol Paris/291337#ocSaleTypeList",
         "stars": "3"
     },
     {
@@ -1356,7 +1166,7 @@
             "address_locality": "Chagny",
             "postal_code": "71150"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Lameloise/3552#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Lameloise/3552#ocSaleTypeList",
         "stars": "3"
     },
     {
@@ -1366,8 +1176,8 @@
             "address_locality": "Névez",
             "postal_code": "29920"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ar Men Du/4961#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Ar Men Du/4961#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "275457",
@@ -1376,7 +1186,7 @@
             "address_locality": "Paris",
             "postal_code": "75006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1386,7 +1196,7 @@
             "address_locality": "Saint-Sulpice-le-Verdon",
             "postal_code": "85260"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Thierry Drapeau/68308#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Thierry Drapeau/68308#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1396,17 +1206,7 @@
             "address_locality": "Vaux-en-Beaujolais",
             "postal_code": "69460"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de Clochemerle - Romain Barthe/2755#info",
-        "stars": "1"
-    },
-    {
-        "id": "60859",
-        "title": "Nakatani",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75007"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Nakatani/60859#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de Clochemerle - Romain Barthe/2755#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1416,7 +1216,7 @@
             "address_locality": "Bagnoles-de-l'Orne",
             "postal_code": "61140"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Manoir du Lys/2740#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Manoir du Lys/2740#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1426,7 +1226,7 @@
             "address_locality": "Sessenheim",
             "postal_code": "67770"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge au Boeuf/44361#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge au Boeuf/44361#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1436,7 +1236,7 @@
             "address_locality": "Mercuès",
             "postal_code": "46090"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mercues/13311#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mercues/13311#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1446,7 +1246,7 @@
             "address_locality": "Joucas",
             "postal_code": "84220"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Phebus - Xavier Mathieu/1310#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Phebus - Xavier Mathieu/1310#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1456,17 +1256,7 @@
             "address_locality": "Blainville-sur-Mer",
             "postal_code": "50560"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Mascaret/387#info",
-        "stars": "1"
-    },
-    {
-        "id": "8933",
-        "title": "Les Clefs d'Argent",
-        "address": {
-            "address_locality": "Mont-de-Marsan",
-            "postal_code": "40000"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Clefs d'Argent/8933#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Mascaret/387#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1476,7 +1266,7 @@
             "address_locality": "Grignan",
             "postal_code": "26230"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clair de la Plume/18271#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clair de la Plume/18271#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1486,7 +1276,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Ecrin/326081#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Ecrin/326081#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1496,8 +1286,8 @@
             "address_locality": "Saint-Émilion",
             "postal_code": "33330"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Logis de la Cadene/44000#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Logis de la Cadene/44000#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "3131",
@@ -1506,7 +1296,7 @@
             "address_locality": "Versailles",
             "postal_code": "78000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Gordon Ramsay au Trianon/3131#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Gordon Ramsay au Trianon/3131#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1516,7 +1306,7 @@
             "address_locality": "Paris",
             "postal_code": "75116"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Archeste/284489#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Archeste/284489#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1526,7 +1316,7 @@
             "address_locality": "Strasbourg",
             "postal_code": "67000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1741/19211#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1741/19211#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1536,7 +1326,7 @@
             "address_locality": "Bouliac",
             "postal_code": "33270"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-James - Nicolas Magie/4977#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-James - Nicolas Magie/4977#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1546,7 +1336,7 @@
             "address_locality": "Gordes",
             "postal_code": "84220"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Les Bories/27598#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Les Bories/27598#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1556,7 +1346,7 @@
             "address_locality": "Argentan",
             "postal_code": "61200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Renaissance/2970#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Renaissance/2970#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1566,18 +1356,8 @@
             "address_locality": "Raismes",
             "postal_code": "59590"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Grignotiere/43399#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Grignotiere/43399#ocSaleTypeList",
         "stars": "1"
-    },
-    {
-        "id": "201032",
-        "title": "Le 1920",
-        "address": {
-            "address_locality": "Megève",
-            "postal_code": "74120"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1920/201032#info",
-        "stars": "2"
     },
     {
         "id": "32118",
@@ -1586,7 +1366,7 @@
             "address_locality": "Valenciennes",
             "postal_code": "59300"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Musigny/32118#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Musigny/32118#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1596,27 +1376,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#info",
-        "stars": "1"
-    },
-    {
-        "id": "26660",
-        "title": "La Vague d'Or",
-        "address": {
-            "address_locality": "Saint-Tropez",
-            "postal_code": "83990"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Vague d'Or/26660#info",
-        "stars": "3"
-    },
-    {
-        "id": "327881",
-        "title": "La Matelote",
-        "address": {
-            "address_locality": "Boulogne-sur-Mer",
-            "postal_code": "62200"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Matelote/327881#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1626,27 +1386,7 @@
             "address_locality": "Villers-le-Lac",
             "postal_code": "25130"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#info",
-        "stars": "1"
-    },
-    {
-        "id": "77613",
-        "title": "Le Meurin",
-        "address": {
-            "address_locality": "Busnes",
-            "postal_code": "62350"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Meurin/77613#info",
-        "stars": "2"
-    },
-    {
-        "id": "15418",
-        "title": "Les Loges - Anthony Bonnet",
-        "address": {
-            "address_locality": "Lyon",
-            "postal_code": "69005"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Loges - Anthony Bonnet/15418#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1656,17 +1396,7 @@
             "address_locality": "La Ciotat",
             "postal_code": "13600"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de Nans - Auberge le Revestel/23303#info",
-        "stars": "1"
-    },
-    {
-        "id": "2975",
-        "title": "La Table du Gourmet",
-        "address": {
-            "address_locality": "Riquewihr",
-            "postal_code": "68340"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Gourmet/2975#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de Nans - Auberge le Revestel/23303#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1676,7 +1406,7 @@
             "address_locality": "Lyon",
             "postal_code": "69006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gourmet de Seze - Bernard Mariller/28558#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gourmet de Seze - Bernard Mariller/28558#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1686,7 +1416,7 @@
             "address_locality": "Megève",
             "postal_code": "74120"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de l'Alpaga/291883#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de l'Alpaga/291883#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1696,7 +1426,7 @@
             "address_locality": "Prenois",
             "postal_code": "21370"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Charme/2579#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Charme/2579#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1706,7 +1436,7 @@
             "address_locality": "Strasbourg",
             "postal_code": "67000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Crocodile/71542#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Au Crocodile/71542#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1716,7 +1446,7 @@
             "address_locality": "Paris",
             "postal_code": "75001"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Jin/30379#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Jin/30379#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1726,7 +1456,7 @@
             "address_locality": "Obernai",
             "postal_code": "67210"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Bistro des Saveurs/18939#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Bistro des Saveurs/18939#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1736,17 +1466,7 @@
             "address_locality": "Nancy",
             "postal_code": "54000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Maison dans le Parc/4294#info",
-        "stars": "1"
-    },
-    {
-        "id": "25985",
-        "title": "Copenhague",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75008"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Copenhague/25985#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Maison dans le Parc/4294#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1756,18 +1476,8 @@
             "address_locality": "Trémolat",
             "postal_code": "24510"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Logis/6018#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Logis/6018#ocSaleTypeList",
         "stars": "1"
-    },
-    {
-        "id": "33786",
-        "title": "Le 1947 - Cheval Blanc Courchevel",
-        "address": {
-            "address_locality": "La Perrière",
-            "postal_code": "73120"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1947 - Cheval Blanc Courchevel/33786#info",
-        "stars": "3"
     },
     {
         "id": "4546",
@@ -1776,7 +1486,7 @@
             "address_locality": "Aulnay-sous-Bois",
             "postal_code": "93600"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Saints Peres/4546#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Saints Peres/4546#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1786,7 +1496,7 @@
             "address_locality": "Roquebrune-Cap-Martin",
             "postal_code": "06190"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Elsa - Hotel Monte-Carlo Beach/26327#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Elsa - Hotel Monte-Carlo Beach/26327#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1796,7 +1506,7 @@
             "address_locality": "La Rochelle",
             "postal_code": "17000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Christopher Coutanceau/2998#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Christopher Coutanceau/2998#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -1806,7 +1516,7 @@
             "address_locality": "Combrit",
             "postal_code": "29120"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Rochers - La Villa Tri Men/7135#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Rochers - La Villa Tri Men/7135#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1816,7 +1526,7 @@
             "address_locality": "Chantilly",
             "postal_code": "60500"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Connetable/60775#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Connetable/60775#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1826,17 +1536,7 @@
             "address_locality": "Arles",
             "postal_code": "13200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Chassagnette/14529#info",
-        "stars": "1"
-    },
-    {
-        "id": "323145",
-        "title": "Le Passe Temps",
-        "address": {
-            "address_locality": "Lyon",
-            "postal_code": "69006"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Passe Temps/323145#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Chassagnette/14529#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1846,17 +1546,7 @@
             "address_locality": "Versailles",
             "postal_code": "78000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du 11/58408#info",
-        "stars": "1"
-    },
-    {
-        "id": "75043",
-        "title": "Prairial",
-        "address": {
-            "address_locality": "Lyon",
-            "postal_code": "69001"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Prairial/75043#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du 11/58408#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1866,7 +1556,7 @@
             "address_locality": "L'Isle-sur-la-Sorgue",
             "postal_code": "84800"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vivier/1086#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vivier/1086#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1876,7 +1566,7 @@
             "address_locality": "Strasbourg",
             "postal_code": "67000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Buerehiesel - Eric Westermann/3592#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Buerehiesel - Eric Westermann/3592#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1886,18 +1576,8 @@
             "address_locality": "Paris",
             "postal_code": "75016"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Astrance/344379#info",
-        "stars": "3"
-    },
-    {
-        "id": "30315",
-        "title": "Les Climats",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75007"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Climats/30315#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Astrance/344379#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "5487",
@@ -1906,7 +1586,7 @@
             "address_locality": "Mirambeau",
             "postal_code": "17150"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mirambeau/5487#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mirambeau/5487#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1916,18 +1596,8 @@
             "address_locality": "Lyon",
             "postal_code": "69002"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Domes - Christian Lherm/15413#info",
-        "stars": "1"
-    },
-    {
-        "id": "73961",
-        "title": "Le George - Four Seasons Hotel George V",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75008"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le George - Four Seasons Hotel George V/73961#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Domes - Christian Lherm/15413#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "269053",
@@ -1936,7 +1606,7 @@
             "address_locality": "Paris",
             "postal_code": "75006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ze Kitchen Galerie/269053#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Ze Kitchen Galerie/269053#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1946,7 +1616,7 @@
             "address_locality": "Verfeil",
             "postal_code": "31590"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Promenade/42187#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Promenade/42187#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1956,7 +1626,7 @@
             "address_locality": "Levernois",
             "postal_code": "21200"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Levernois : Le Gastronomique/3507#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Levernois : Le Gastronomique/3507#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1966,7 +1636,7 @@
             "address_locality": "Lastours",
             "postal_code": "11600"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Puits du Tresor/529#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Puits du Tresor/529#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1976,7 +1646,7 @@
             "address_locality": "Saumur",
             "postal_code": "49400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gambetta/46885#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gambetta/46885#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1986,7 +1656,7 @@
             "address_locality": "Paris",
             "postal_code": "75011"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Septime/10889#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Septime/10889#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -1996,7 +1666,7 @@
             "address_locality": "Guéthary",
             "postal_code": "64210"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Briketenia/11743#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Briketenia/11743#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2006,17 +1676,7 @@
             "address_locality": "Boeschepe",
             "postal_code": "59299"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge du Vert Mont/31795#info",
-        "stars": "1"
-    },
-    {
-        "id": "61705",
-        "title": "Le Camelia",
-        "address": {
-            "address_locality": "Bougival",
-            "postal_code": "78380"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Camelia/61705#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge du Vert Mont/31795#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2026,7 +1686,7 @@
             "address_locality": "Marly-le-Roi",
             "postal_code": "78160"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Village/330375#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Village/330375#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2036,8 +1696,8 @@
             "address_locality": "Paris",
             "postal_code": "75018"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Eugene/36884#info",
-        "stars": "1"
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Eugene/36884#ocSaleTypeList",
+        "stars": ""
     },
     {
         "id": "44919",
@@ -2046,7 +1706,7 @@
             "address_locality": "Lyon",
             "postal_code": "69006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Miraflores/44919#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Miraflores/44919#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2056,7 +1716,7 @@
             "address_locality": "Cannes",
             "postal_code": "06400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Park 45/8628#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Park 45/8628#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2066,7 +1726,7 @@
             "address_locality": "Montbellet",
             "postal_code": "71260"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Marande/2889#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Marande/2889#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2076,7 +1736,7 @@
             "address_locality": "Belcastel",
             "postal_code": "12390"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Pont/6482#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Pont/6482#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2086,7 +1746,7 @@
             "address_locality": "Marlenheim",
             "postal_code": "67520"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Le Cerf - Michel HUSSER/12601#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Le Cerf - Michel HUSSER/12601#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2096,7 +1756,7 @@
             "address_locality": "Chamesol",
             "postal_code": "25190"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Mon Plaisir/7876#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Mon Plaisir/7876#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2106,7 +1766,7 @@
             "address_locality": "Lyon",
             "postal_code": "69005"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Jeremy Galvan Restaurant/21095#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Jeremy Galvan Restaurant/21095#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2116,7 +1776,7 @@
             "address_locality": "Villeneuve-lès-Avignon",
             "postal_code": "30400"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Prieure/689#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Prieure/689#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2126,7 +1786,7 @@
             "address_locality": "Paris",
             "postal_code": "75017"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2136,37 +1796,7 @@
             "address_locality": "Ajaccio",
             "postal_code": "20000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Palm Beach/5756#info",
-        "stars": "1"
-    },
-    {
-        "id": "60418",
-        "title": "Apicius",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75008"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Apicius/60418#info",
-        "stars": "1"
-    },
-    {
-        "id": "8838",
-        "title": "Henri et Joseph",
-        "address": {
-            "address_locality": "Lorient",
-            "postal_code": "56100"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Henri et Joseph/8838#info",
-        "stars": "1"
-    },
-    {
-        "id": "8760",
-        "title": "Saturne",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75002"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Saturne/8760#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Palm Beach/5756#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2176,7 +1806,7 @@
             "address_locality": "Lyon",
             "postal_code": "69006"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Neuvieme Art/324425#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Neuvieme Art/324425#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -2186,7 +1816,7 @@
             "address_locality": "Porspoder",
             "postal_code": "29840"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateau de Sable/65607#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateau de Sable/65607#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2196,7 +1826,7 @@
             "address_locality": "Aix-en-Provence",
             "postal_code": "13100"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Mickael Feval/77134#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Mickael Feval/77134#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2206,7 +1836,7 @@
             "address_locality": "Paris",
             "postal_code": "75008"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2216,7 +1846,7 @@
             "address_locality": "Tourrettes-sur-Loup",
             "postal_code": "06140"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Bistrot Gourmand Clovis/6655#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Bistrot Gourmand Clovis/6655#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2226,7 +1856,7 @@
             "address_locality": "Nice",
             "postal_code": "06000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Aromate/38154#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Aromate/38154#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2236,7 +1866,7 @@
             "address_locality": "Paris",
             "postal_code": "75007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Garance/25701#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Garance/25701#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2246,7 +1876,7 @@
             "address_locality": "Bordeaux",
             "postal_code": "33000"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Garopapilles/276775#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Garopapilles/276775#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2256,27 +1886,7 @@
             "address_locality": "Le Touquet-Paris-Plage",
             "postal_code": "62520"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon/306505#info",
-        "stars": "1"
-    },
-    {
-        "id": "317587",
-        "title": "Pertinence",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75007"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Pertinence/317587#info",
-        "stars": "1"
-    },
-    {
-        "id": "202436",
-        "title": "Le Chateaubriand",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75011"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateaubriand/202436#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon/306505#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2286,17 +1896,7 @@
             "address_locality": "Paris",
             "postal_code": "75018"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Ken Kawasaki/276169#info",
-        "stars": "1"
-    },
-    {
-        "id": "209577",
-        "title": "Restaurant H",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75004"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant H/209577#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Ken Kawasaki/276169#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -2306,27 +1906,7 @@
             "address_locality": "Paris",
             "postal_code": "75007"
         },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Divellec/272053#info",
-        "stars": "1"
-    },
-    {
-        "id": "337449",
-        "title": "Comice",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75016"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Comice/337449#info",
-        "stars": "1"
-    },
-    {
-        "id": "317277",
-        "title": "Quinsou",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75006"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Quinsou/317277#info",
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Divellec/272053#ocSaleTypeList",
         "stars": "1"
     }
 ]

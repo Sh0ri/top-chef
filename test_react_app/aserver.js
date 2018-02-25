@@ -34,8 +34,8 @@ app.listen(port, () => console.log(`Listening on port ${port}`));
 //store_michelin_restaurants();
 //store_michelin_restaurants_available_in_lafourchette();
 //store_restaurants_with_offers();
-//store_offers();
-test();
+store_offers();
+//test();
 
 
 /////////////////////////////////////////////////////////////////FUNCTIONS///////////////////////////////////////////////////////////////////////////
@@ -49,7 +49,6 @@ async function test(){
 async function store_michelin_restaurants(){
 	const result = await michelin.scrape_michelin();
 	console.log("save done");
-	return { express: 'Hello From Express' };
 }
 
 async function store_michelin_restaurants_available_in_lafourchette(){

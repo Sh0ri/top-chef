@@ -24,7 +24,7 @@ function get_restaurant(michelin_restaurant)
 					restaurant.address.address_locality = element.address.address_locality;
 					restaurant.address.postal_code = element.address.postal_code;
 
-					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+'#info';
+					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+ '#ocSaleTypeList';
 					restaurant.stars = michelin_restaurant.stars;
 					found_restaurants.push(restaurant);
 					//restaurants.push(restaurant);
