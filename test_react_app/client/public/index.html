@@ -10,6 +10,12 @@
 
 
   <style>
+  .image-container {
+    display: block;
+    justify-content: center;
+    margin-left: 40%;
+  }
+
   body {
     font-family: "Lato", sans-serif;
   }
@@ -61,9 +67,10 @@
 
   <div class="container-fluid" style="background-color:#f2be18;color:black;height:200px; text-align: center">
     <h1>Top Chef</h1>
-    <h3>Fixed (sticky) vertical sidenav on scroll</h3>
-    <p>Scroll this page to see how the left navigation menu behaves with data-spy="affix".</p>
-    <p><strong>The left menu sticks to the page when you have scrolled a specified amount of pixels.</strong></p>
+    <h3>Quentin Da Silva's project work</h3>
+    <p><strong>Check out the lafourchette page of a restaurant by clicking on an offer</strong></p>
+    <p><strong>Order the offers by clicking on the differents orderers buttons on the left</strong></p>
+    <p><strong>Update the offers by clicking on the differents updaters buttons on the left</strong></p>
   </div>
   <br>
 
@@ -74,15 +81,10 @@
 
   <div class="container">
     <div class="row" id="root">
-
-      <div class="logo">
-        <img src="logo.svg" />
-      </div>
-      <div class="preload-title">
-        Hold on, it's loading!
+      <div class="image-container">
+        <img src="./src/loading_pizza.gif" alt="loading" style={loadingStyle}/>
       </div>
     </div>
-  </div>
 
-</body>
-</html>
+  </body>
+  </html>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import loading_pizza from './loading_dab.gif';
+import loading_pizza from './loading_pizza.gif';
 
 const aStyle = {
   margin: '40px',
@@ -99,8 +99,8 @@ class App extends Component {
         <button type="button" class={window.sessionStorage.getItem("current_orderer") === 'starsdsc' ? "btn btn-primary" : "btn btn-outline-primary"} onClick={()=>{this.OrderByStarDSC()}}>Order By Stars
         <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
         </button>
-
-        <button type="button" class="btn btn-outline-primary" onClick={()=>{this.UpdateData('offers')}}>Update Data</button>
+        <br/>
+        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('offers')}}>Update Offers</button>
 
         </div>
 
@@ -130,7 +130,7 @@ class App extends Component {
     }
     else{
       return (
-        <div>
+        <div class="image-container">
         <img src={loading_pizza} alt="loading" style={loadingStyle}/>
         </div>
         );
