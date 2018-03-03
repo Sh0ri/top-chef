@@ -87,7 +87,7 @@ class App extends Component {
     const { restaurants_with_promos } = this.state;
     if(restaurants_with_promos.length !== 0){
       return (
-        <div id='root'>
+        <div id='root' class="row">
 
 
         <div class="sidenav">
@@ -104,11 +104,11 @@ class App extends Component {
 
         </div>
 
-        <div class="list-group" id="root" className= "App">
+        <div class="list-group col-sm-6" id="root" className= "App">
         {restaurants_with_promos.map(restaurant_with_promos =>
 
           /*<!-- div with one restaurant -->*/
-          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-10" href={restaurant_with_promos.restaurant.restaurant_url}>
+          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-6" href={restaurant_with_promos.restaurant.restaurant_url}>
           <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
           <h1>{restaurant_with_promos.restaurant.title}</h1>
           <div id="liste de promos">
@@ -125,12 +125,14 @@ class App extends Component {
           </a>
           )}
         </div>
+
+        
         </div>
         );
     }
     else{
       return (
-        <div class="image-container">
+        <div className="image-container">
         <img src={loading_pizza} alt="loading" style={loadingStyle}/>
         </div>
         );

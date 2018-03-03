@@ -83,22 +83,62 @@ app.listen(port, () => console.log(`Listening on port ${port}`));
 
 /////////////////////////////////////////////////////////////////FUNCTIONS///////////////////////////////////////////////////////////////////////////
 
+//A TESTER AVEC DU RESEAU
+//ENLEVER TOUS LES RETURN SI CA NE MARCHE PAS
+async function update_everything(){
+	const michelin_restaurants = await store_michelin_restaurants();
+	console.log(michelin_restaurants);
+
+	const restaurants_in_lafourchette = await store_michelin_restaurants_available_in_lafourchette();
+	console.log(restaurants_in_lafourchette);
+
+	const restaurants_with_offers = await store_restaurants_with_offers();
+	console.log(restaurants_with_offers);
+
+	const offers = await store_offers();
+	console.log(offers);
+}
+
+async function try_update_everything(){
+	const michelin_restaurants = await michelin.scrape_michelin();
+	console.log("michelin done");
+
+	const restaurants_in_lafourchette = await get_michelin_restaurants_in_lafourchette();
+	const result = await lafourchette.store_restaurants_on_lafourchette(restaurants_in_lafourchette);
+	console.log("restaurants in lafourchette done");
+
+	const restaurants_with_offers = await get_restaurants_with_offers();
+	const result = await lafourchette.store_restaurants_with_offers(restaurants_with_offers);
+	console.log("restaurants with offers in lafourchette done");
+
+	const offers = await get_offers();
+	const result = await lafourchette.store_offers(offers);
+	console.log("save done");
+	pSettle(offers).then(result => {
+		console.log('ok');
+	})
+	res.send(orderbytitle(offers));
+	console.log('res done');
+}
+
 async function store_michelin_restaurants(){
 	const result = await michelin.scrape_michelin();
 	console.log("save done");
-	return result;
+	return "michelin_restaurants";
 }
 
 async function store_michelin_restaurants_available_in_lafourchette(){
 	const restaurants_in_lafourchette = await get_michelin_restaurants_in_lafourchette();
 	const result = await lafourchette.store_restaurants_on_lafourchette(restaurants_in_lafourchette);
 	console.log("save done");
+	return "restaurants_in_lafourchette";
 }
 
 async function store_restaurants_with_offers(){
 	const restaurants_with_offers = await get_restaurants_with_offers();
 	const result = await lafourchette.store_restaurants_with_offers(restaurants_with_offers);
 	console.log("save done");
+	return "restaurants_with_offers";
 }
 
 async function store_offers(res){
@@ -111,6 +151,7 @@ async function store_offers(res){
 	})
 	res.send(orderbytitle(offers));
 	console.log('res done');
+	return "result";
 }
 
 async function get_stored_offers(){
