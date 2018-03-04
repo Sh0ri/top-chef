@@ -78,14 +78,15 @@ class App extends Component {
 
   UpdateData(element){
     this.setState({restaurants_with_promos : []});
-    if(element !== 'offers'){
-      fetch(API + 'update/' + element)
-      .then(test => this.UpdateData('offers'));
-    }
-    else{
+    window.sessionStorage.setItem("current_orderer", "title");
+    if(element === 'offers' || element ==='offers_only_with_offers'){
       fetch(API + 'update/' + element)
       .then(response => response.json())
       .then(data => this.setState({ restaurants_with_promos:  data }));
+    }
+    else{
+      fetch(API + 'update/' + element)
+      .then(test => this.UpdateData('offers'));
     }
   }
 
@@ -107,6 +108,9 @@ class App extends Component {
 
 
         <div class="sidenav">
+        <button type="button" class="btn btn-warning" onClick={()=>{this.UpdateData('offers_only_with_offers')}}>Get restaurants with offers only</button>
+        <button type="button" class="btn btn-warning" onClick={()=>{this.UpdateData('offers')}}>Get all restaurants on lafourchette</button>
+
         <button type="button" class={window.sessionStorage.getItem("current_orderer") === 'title' ? "btn btn-primary" : "btn btn-outline-primary"} onClick={()=>{this.OrderByTitle()}}>Order By Title</button>
         <button type="button" class={window.sessionStorage.getItem("current_orderer") === 'id' ? "btn btn-primary" : "btn btn-outline-primary"} onClick={()=>{this.OrderByID()}}>Order By ID</button>
         <button type="button" class={window.sessionStorage.getItem("current_orderer") === 'starsasc' ? "btn btn-primary" : "btn btn-outline-primary"} onClick={()=>{this.OrderByStarASC()}}>Order By Stars

@@ -69,6 +69,14 @@ app.get('/api/update/offers', (req, res) => {
 	store_offers(res);
 });
 
+//UPDATE OFFERS ONLY WITH OFFERS
+app.get('/api/update/offers_only_with_offers', (req, res) => {
+	console.log("Update offers");
+	store_offers_only_with_offers(res);
+});
+
+
+
 //UPDATE MICHELIN
 app.get('/api/update/michelin', (req, res) => {
 	console.log("Update michelin");
@@ -121,6 +129,7 @@ async function store_michelin_restaurants_available_in_lafourchette(res){
 	return "restaurants_in_lafourchette";
 }
 
+//for notification
 async function store_restaurants_with_offers(res){
 	const restaurants_with_offers = await get_restaurants_with_offers();
 	const result = await lafourchette.store_restaurants_with_offers(restaurants_with_offers);
@@ -135,6 +144,19 @@ async function store_restaurants_with_offers(res){
 async function store_offers(res){
 
 	const offers = await get_offers();
+	const result = await lafourchette.store_offers(offers);
+	console.log("save done");
+	pSettle(offers).then(result => {
+		console.log('ok');
+	})
+	res.send(orderbytitle(offers));
+	console.log('res done');
+	return "result";
+}
+
+async function store_offers_only_with_offers(res){
+
+	const offers = await get_offers_only_with_offers();
 	const result = await lafourchette.store_offers(offers);
 	console.log("save done");
 	pSettle(offers).then(result => {
@@ -197,6 +219,29 @@ function get_restaurants_with_offers(){
 }
 
 function get_offers(){
+	return new Promise((resolve, reject) => {
+		var offers = [];
+
+		var restaurants_with_offers = lafourchette.get_stored_restaurants_on_lafourchette().map(restaurant => lafourchette.get_offers(restaurant));
+
+		pSettle(restaurants_with_offers).then(result => {
+			var compteur = 0;
+			result.forEach(function(elem){
+				if(elem.isFulfilled)
+				{
+					console.log(elem);
+					compteur++;
+					offers.push(elem.value);
+				}
+			})
+			console.log("number offers : ");
+			console.log(compteur);
+			resolve(offers);
+		})
+	});
+}
+
+function get_offers_only_with_offers(){
 	return new Promise((resolve, reject) => {
 		var offers = [];
 
