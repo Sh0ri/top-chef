@@ -17,7 +17,7 @@ function get_restaurant(michelin_restaurant)
 				var found_restaurants = [];
 				var true_restaurant = null;
 				html.forEach(function(element){
-					var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "", stars : "" };
+					var restaurant = {id:"", title : "", address : { address_locality : "", postal_code : ""}, restaurant_url : "", stars : "", description : "" };
 
 					restaurant.id = element.id;
 					restaurant.title = element.name.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
@@ -26,6 +26,7 @@ function get_restaurant(michelin_restaurant)
 
 					restaurant.restaurant_url = 'https://www.lafourchette.com/restaurant/'+restaurant.title+'/'+restaurant.id+ '#ocSaleTypeList';
 					restaurant.stars = michelin_restaurant.stars;
+					restaurant.description = michelin_restaurant.description;
 					found_restaurants.push(restaurant);
 					//restaurants.push(restaurant);
 

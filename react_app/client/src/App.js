@@ -121,6 +121,7 @@ class App extends Component {
           <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action" href={restaurant_with_promos.restaurant.restaurant_url}>
           <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
           <h1>{restaurant_with_promos.restaurant.title}</h1>
+          <label>{restaurant_with_promos.restaurant.description}</label>
           <div id="liste de promos">
           {restaurant_with_promos.promos.map(promo =>
             <div id="promo">

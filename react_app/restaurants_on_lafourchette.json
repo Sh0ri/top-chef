@@ -7,7 +7,8 @@
             "postal_code": "75017"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Agape/1923#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "4988",
@@ -17,7 +18,8 @@
             "postal_code": "21200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Jardin des Remparts/4988#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "26112",
@@ -27,7 +29,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 39V Paris - Frederic Vardon/26112#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique    "
     },
     {
         "id": "74933",
@@ -37,7 +40,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clarence/74933#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "5603",
@@ -47,7 +51,8 @@
             "postal_code": "68000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/JY'S/5603#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "21741",
@@ -57,7 +62,8 @@
             "postal_code": "75001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant du Palais Royal/21741#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "5355",
@@ -67,7 +73,8 @@
             "postal_code": "69660"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Pont de Collonges - Paul Bocuse/5355#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Lyonnais; Végétarien; Végétalien    "
     },
     {
         "id": "2728",
@@ -77,7 +84,8 @@
             "postal_code": "41000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Orangerie du Chateau/2728#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "38822",
@@ -87,7 +95,8 @@
             "postal_code": "06250"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Paloma/38822#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "4977",
@@ -97,7 +106,8 @@
             "postal_code": "33270"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-James - Nicolas Magie/4977#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien    "
     },
     {
         "id": "6794",
@@ -107,7 +117,8 @@
             "postal_code": "69001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Mere Brazier - Mathieu Viannay/6794#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "205737",
@@ -117,7 +128,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    "
     },
     {
         "id": "75533",
@@ -127,7 +139,8 @@
             "postal_code": "24240"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Tour des Vents/75533#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "25901",
@@ -137,7 +150,8 @@
             "postal_code": "83170"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de l'Abbaye de la Celle/25901#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Provençal; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "7133",
@@ -147,7 +161,8 @@
             "postal_code": "24530"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin du Roc/7133#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Cuisine Moderne, Créative    "
     },
     {
         "id": "3997",
@@ -157,7 +172,8 @@
             "postal_code": "69005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Tetedoie - Christian Tetedoie/3997#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "11050",
@@ -167,7 +183,8 @@
             "postal_code": "04300"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Cloitre/11050#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Provençal; Gastronomique    "
     },
     {
         "id": "566",
@@ -177,7 +194,8 @@
             "postal_code": "66750"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Almandin/566#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "3303",
@@ -187,7 +205,8 @@
             "postal_code": "21210"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais Bernard Loiseau/3303#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
     },
     {
         "id": "28453",
@@ -197,7 +216,8 @@
             "postal_code": "69620"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1217/28453#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "3806",
@@ -207,7 +227,8 @@
             "postal_code": "51430"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Assiette Champenoise/3806#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "57531",
@@ -217,7 +238,8 @@
             "postal_code": "04360"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Bastide de Moustiers/57531#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Provençal; Végétarien; Végétalien    "
     },
     {
         "id": "416",
@@ -227,7 +249,8 @@
             "postal_code": "83740"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie Berard & spa/416#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
     },
     {
         "id": "26601",
@@ -237,7 +260,8 @@
             "postal_code": "78490"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Numero 3/26601#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "2828",
@@ -247,7 +271,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "9350",
@@ -257,7 +282,8 @@
             "postal_code": "13007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Petit Nice Passedat - Gerald Passedat/9350#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "26494",
@@ -267,7 +293,8 @@
             "postal_code": "11000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant La Barbacane/26494#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "294745",
@@ -277,7 +304,8 @@
             "postal_code": "66650"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Fanal - Pascal Borrell/294745#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
     },
     {
         "id": "69375",
@@ -287,7 +315,8 @@
             "postal_code": "75012"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisines du Sud-Ouest; Cuisine Moderne, Créative    "
     },
     {
         "id": "69372",
@@ -297,7 +326,8 @@
             "postal_code": "75001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Carre des Feuillants - Alain Dutournier/69372#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "310829",
@@ -307,7 +337,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "3157",
@@ -317,7 +348,8 @@
             "postal_code": "76000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Gill \"Relais & Chateaux\"/3157#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Gastronomique    "
     },
     {
         "id": "5109",
@@ -327,7 +359,8 @@
             "postal_code": "57000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Magasin aux Vivres/5109#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "205419",
@@ -337,7 +370,8 @@
             "postal_code": "75001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Dame de Pic - Anne-Sophie PIC - Paris/205419#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "18188",
@@ -347,7 +381,8 @@
             "postal_code": "56890"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pressoir/18188#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "8601",
@@ -357,7 +392,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Il Carpaccio - Hotel Royal Monceau/8601#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Italien; Végétarien; Végétalien    "
     },
     {
         "id": "3018",
@@ -367,7 +403,8 @@
             "postal_code": "11000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine d'Auriac/3018#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "687",
@@ -377,7 +414,8 @@
             "postal_code": "13520"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oustau de Baumaniere - Jean Andre Charial/687#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    "
     },
     {
         "id": "16314",
@@ -387,7 +425,8 @@
             "postal_code": "24240"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Fresques - Chateau des Vigiers/16314#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "78533",
@@ -397,7 +436,8 @@
             "postal_code": "77400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Quincangrogne/78533#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "2934",
@@ -407,7 +447,8 @@
             "postal_code": "37150"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Bon Laboureur/2934#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien    "
     },
     {
         "id": "6448",
@@ -417,7 +458,8 @@
             "postal_code": "06140"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Bacchanales - Christophe Dufau/6448#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "201032",
@@ -427,7 +469,8 @@
             "postal_code": "74120"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1920/201032#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "5619",
@@ -437,7 +480,8 @@
             "postal_code": "21000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Stephane Derbord/5619#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "2714",
@@ -447,7 +491,8 @@
             "postal_code": "45290"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Templiers/2714#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "2876",
@@ -457,7 +502,8 @@
             "postal_code": "67610"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais de la Poste/2876#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    "
     },
     {
         "id": "26460",
@@ -467,7 +513,8 @@
             "postal_code": "14000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ivan Vautier/26460#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "21632",
@@ -477,7 +524,8 @@
             "postal_code": "14800"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Essentiel/21632#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Traditionnel, Classique    "
     },
     {
         "id": "324443",
@@ -487,7 +535,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Clovis/324443#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "200546",
@@ -497,7 +546,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Sylvestre - Hotel Thoumieux/200546#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "378",
@@ -507,7 +557,8 @@
             "postal_code": "64250"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ithurria/378#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Basque    "
     },
     {
         "id": "26352",
@@ -517,7 +568,8 @@
             "postal_code": "24310"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin de l'Abbaye/26352#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    "
     },
     {
         "id": "16363",
@@ -527,7 +579,8 @@
             "postal_code": "57810"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chez Michele/16363#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "26201",
@@ -537,7 +590,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "5305",
@@ -547,7 +601,8 @@
             "postal_code": "64310"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Basque/5305#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "953",
@@ -557,7 +612,8 @@
             "postal_code": "04160"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Bonne Etape/953#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Provençal; Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "7872",
@@ -567,7 +623,8 @@
             "postal_code": "33000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon des Boulevards - Denis Franc/7872#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "16982",
@@ -577,7 +634,8 @@
             "postal_code": "21520"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Courban & Spa/16982#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    "
     },
     {
         "id": "277471",
@@ -587,7 +645,8 @@
             "postal_code": "06480"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alain Llorca/277471#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Provençal; Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "3931",
@@ -597,7 +656,8 @@
             "postal_code": "21000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant William Frachot/3931#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "4727",
@@ -607,7 +667,8 @@
             "postal_code": "75116"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pergolese - Stephane Gaborieau/4727#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "25",
@@ -617,7 +678,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau rive Gauche/25#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Bourguignon    "
     },
     {
         "id": "3304",
@@ -627,7 +689,8 @@
             "postal_code": "21200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Vignes/3304#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Cuisine Régionale Française; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "12900",
@@ -637,7 +700,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "27058",
@@ -647,7 +711,8 @@
             "postal_code": "14000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Initial/27058#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Normand; Végétarien; Végétalien    "
     },
     {
         "id": "32584",
@@ -657,7 +722,8 @@
             "postal_code": "27340"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Pomme/32584#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "206163",
@@ -667,7 +733,8 @@
             "postal_code": "68770"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Julien Binz/206163#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
     },
     {
         "id": "5632",
@@ -677,7 +744,8 @@
             "postal_code": "27480"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Licorne Royale/5632#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "22878",
@@ -687,7 +755,8 @@
             "postal_code": "38121"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine de Clairefontaine/22878#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "324473",
@@ -697,7 +766,8 @@
             "postal_code": "83440"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Faventia/324473#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "9228",
@@ -707,7 +777,8 @@
             "postal_code": "75001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "7130",
@@ -717,7 +788,8 @@
             "postal_code": "74940"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clos des Sens/7130#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "301377",
@@ -727,7 +799,8 @@
             "postal_code": "06000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chantecler - Hotel Negresco/301377#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "25896",
@@ -737,7 +810,8 @@
             "postal_code": "75004"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique    "
     },
     {
         "id": "15068",
@@ -747,7 +821,8 @@
             "postal_code": "67860"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Vieux Couvent - Alexis Albrecht/15068#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "10332",
@@ -757,7 +832,8 @@
             "postal_code": "74140"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Refuge des Gourmets/10332#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen    "
     },
     {
         "id": "73740",
@@ -767,7 +843,8 @@
             "postal_code": "69890"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Rotonde - Domaine le Lyon Vert/73740#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
     },
     {
         "id": "682",
@@ -777,7 +854,8 @@
             "postal_code": "06210"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "5623",
@@ -787,7 +865,8 @@
             "postal_code": "92410"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Corot - Hotel Les Etangs de Corot/5623#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique    "
     },
     {
         "id": "132",
@@ -797,7 +876,8 @@
             "postal_code": "83460"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais des Moines/132#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "26469",
@@ -807,7 +887,8 @@
             "postal_code": "48130"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Cyril Attrazic - Chez Camillou/26469#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "62590",
@@ -817,7 +898,8 @@
             "postal_code": "46200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pont de l'Ouysse/62590#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    "
     },
     {
         "id": "2819",
@@ -827,7 +909,8 @@
             "postal_code": "37210"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Hautes Roches/2819#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "51875",
@@ -837,7 +920,8 @@
             "postal_code": "56380"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Tiegezh/51875#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "5935",
@@ -847,7 +931,8 @@
             "postal_code": "51500"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Grand Cerf/5935#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "122",
@@ -857,7 +942,8 @@
             "postal_code": "75016"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "8685",
@@ -867,7 +953,8 @@
             "postal_code": "06110"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Archange/8685#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "9759",
@@ -877,7 +964,8 @@
             "postal_code": "63350"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Carrousel/9759#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "2788",
@@ -887,7 +975,8 @@
             "postal_code": "13260"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Madie - Dimitri Droisneau/2788#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Méditerranéen    "
     },
     {
         "id": "60777",
@@ -897,7 +986,8 @@
             "postal_code": "14360"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    "
     },
     {
         "id": "5649",
@@ -907,7 +997,8 @@
             "postal_code": "33650"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grand'Vigne - Hotel Les Sources de Caudalie/5649#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
     },
     {
         "id": "2971",
@@ -917,7 +1008,8 @@
             "postal_code": "68400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Kieny/2971#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "1009",
@@ -927,7 +1019,8 @@
             "postal_code": "38300"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine des Sequoias/1009#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "23454",
@@ -937,7 +1030,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Helen/23454#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Poissons, Fruits de Mer    "
     },
     {
         "id": "2591",
@@ -947,7 +1041,8 @@
             "postal_code": "31320"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table des Merville - Thierry Merville/2591#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    "
     },
     {
         "id": "212971",
@@ -957,7 +1052,8 @@
             "postal_code": "76000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Odas/212971#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "2310",
@@ -967,7 +1063,8 @@
             "postal_code": "67510"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Cheval Blanc/2310#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "53038",
@@ -977,7 +1074,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gabriel - La Reserve Paris/53038#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "12792",
@@ -987,7 +1085,8 @@
             "postal_code": "89300"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Cote Saint-Jacques/12792#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "9611",
@@ -997,7 +1096,8 @@
             "postal_code": "63400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Radio/9611#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
     },
     {
         "id": "5497",
@@ -1007,7 +1107,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene - Prince de Galles/5497#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "204609",
@@ -1017,7 +1118,8 @@
             "postal_code": "83440"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Castellaras/204609#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Provençal; Végétarien; Végétalien    "
     },
     {
         "id": "214579",
@@ -1027,7 +1129,8 @@
             "postal_code": "75018"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arcane/214579#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "785",
@@ -1037,7 +1140,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Lucas Carton - Julien DUMAS/785#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "23255",
@@ -1047,7 +1151,8 @@
             "postal_code": "15220"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de la Tour/23255#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "250",
@@ -1057,7 +1162,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique    "
     },
     {
         "id": "203823",
@@ -1067,7 +1173,8 @@
             "postal_code": "06160"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Passagere/203823#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "3485",
@@ -1077,7 +1184,8 @@
             "postal_code": "44115"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "8977",
@@ -1087,7 +1195,8 @@
             "postal_code": "75016"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Shang Palace - Shangri-La Hotel, Paris/8977#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Chinois; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "23087",
@@ -1097,7 +1206,8 @@
             "postal_code": "75017"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Frederic Simonin/23087#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "29826",
@@ -1107,7 +1217,8 @@
             "postal_code": "21000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Ducs/29826#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "38155",
@@ -1117,7 +1228,8 @@
             "postal_code": "06000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Flaveur/38155#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Méditerranéen; Végétarien; Végétalien    "
     },
     {
         "id": "6710",
@@ -1127,7 +1239,8 @@
             "postal_code": "64200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Rosiers/6710#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "66992",
@@ -1137,7 +1250,8 @@
             "postal_code": "47140"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Stelsia - Le Jasmin/66992#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Végétalien; Bistrot    "
     },
     {
         "id": "5727",
@@ -1147,7 +1261,8 @@
             "postal_code": "75005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mavrommatis/5727#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Grec    "
     },
     {
         "id": "6986",
@@ -1157,7 +1272,8 @@
             "postal_code": "30128"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alexandre - Michel Kayser/6986#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "269585",
@@ -1167,7 +1283,8 @@
             "postal_code": "75017"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française    "
     },
     {
         "id": "351691",
@@ -1177,7 +1294,8 @@
             "postal_code": "76000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Origine/351691#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "287357",
@@ -1187,7 +1305,8 @@
             "postal_code": "06400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Palme d'Or/287357#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "6765",
@@ -1197,7 +1316,8 @@
             "postal_code": "49440"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Diligence/6765#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "8719",
@@ -1207,7 +1327,8 @@
             "postal_code": "31180"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/O Saveurs/8719#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "3521",
@@ -1217,7 +1338,8 @@
             "postal_code": "06250"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Candille - Le Mas Candille/3521#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "36039",
@@ -1227,7 +1349,8 @@
             "postal_code": "75006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Salon d'Helene - Helene Darroze/36039#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    "
     },
     {
         "id": "8976",
@@ -1237,7 +1360,8 @@
             "postal_code": "75016"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Abeille - Shangri-La Hotel, Paris/8976#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
     },
     {
         "id": "209193",
@@ -1247,7 +1371,8 @@
             "postal_code": "21190"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ed.Em/209193#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "14529",
@@ -1257,7 +1382,8 @@
             "postal_code": "13200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Chassagnette/14529#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "2185",
@@ -1267,7 +1393,8 @@
             "postal_code": "75116"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "22504",
@@ -1277,7 +1404,8 @@
             "postal_code": "13007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Epuisette/22504#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "405",
@@ -1287,7 +1415,8 @@
             "postal_code": "75017"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Traditionnel, Classique; Gastronomique    "
     },
     {
         "id": "15802",
@@ -1297,7 +1426,8 @@
             "postal_code": "75014"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Cobea - Philippe Belissent/15802#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "31008",
@@ -1307,7 +1437,8 @@
             "postal_code": "13002"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alcyone/31008#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "4697",
@@ -1317,7 +1448,8 @@
             "postal_code": "69005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Terrasses de Lyon/4697#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Cuisine Régionale Française; Gastronomique    "
     },
     {
         "id": "38024",
@@ -1327,7 +1459,8 @@
             "postal_code": "68230"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Nouvelle Auberge/38024#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Brasserie; Végétarien; Végétalien    "
     },
     {
         "id": "4904",
@@ -1337,7 +1470,8 @@
             "postal_code": "33330"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Plaisance/4904#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "10382",
@@ -1347,7 +1481,8 @@
             "postal_code": "57230"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Strasbourg/10382#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen; Végétarien; Végétalien    "
     },
     {
         "id": "77626",
@@ -1357,7 +1492,8 @@
             "postal_code": "75005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alliance/77626#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "128",
@@ -1367,7 +1503,8 @@
             "postal_code": "12320"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Herve Busset/128#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "291337",
@@ -1377,7 +1514,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Epicure - Le Bristol Paris/291337#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "3552",
@@ -1387,7 +1525,8 @@
             "postal_code": "71150"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Lameloise/3552#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "4961",
@@ -1397,7 +1536,8 @@
             "postal_code": "29920"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ar Men Du/4961#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    "
     },
     {
         "id": "275457",
@@ -1407,7 +1547,8 @@
             "postal_code": "75006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "68308",
@@ -1417,7 +1558,8 @@
             "postal_code": "85260"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Thierry Drapeau/68308#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "2755",
@@ -1427,7 +1569,8 @@
             "postal_code": "69460"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de Clochemerle - Romain Barthe/2755#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "60859",
@@ -1437,7 +1580,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Nakatani/60859#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "2740",
@@ -1447,7 +1591,8 @@
             "postal_code": "61140"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Manoir du Lys/2740#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "44361",
@@ -1457,7 +1602,8 @@
             "postal_code": "67770"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge au Boeuf/44361#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "13311",
@@ -1467,7 +1613,8 @@
             "postal_code": "46090"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mercues/13311#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    "
     },
     {
         "id": "1310",
@@ -1477,7 +1624,8 @@
             "postal_code": "84220"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Phebus - Xavier Mathieu/1310#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Provençal    "
     },
     {
         "id": "387",
@@ -1487,7 +1635,8 @@
             "postal_code": "50560"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Mascaret/387#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    "
     },
     {
         "id": "8933",
@@ -1497,7 +1646,8 @@
             "postal_code": "40000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Clefs d'Argent/8933#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "44000",
@@ -1507,7 +1657,8 @@
             "postal_code": "33330"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Logis de la Cadene/44000#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "326081",
@@ -1517,7 +1668,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Ecrin/326081#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "3131",
@@ -1527,7 +1679,8 @@
             "postal_code": "78000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Gordon Ramsay au Trianon/3131#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "284489",
@@ -1537,7 +1690,8 @@
             "postal_code": "75116"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Archeste/284489#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "19211",
@@ -1547,7 +1701,8 @@
             "postal_code": "67000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1741/19211#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "27598",
@@ -1557,7 +1712,8 @@
             "postal_code": "84220"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Les Bories/27598#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "2970",
@@ -1567,7 +1723,8 @@
             "postal_code": "61200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Renaissance/2970#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "43399",
@@ -1577,7 +1734,8 @@
             "postal_code": "59590"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grignotiere/43399#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "32118",
@@ -1587,7 +1745,8 @@
             "postal_code": "59300"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Musigny/32118#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "713",
@@ -1597,7 +1756,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "26660",
@@ -1607,7 +1767,8 @@
             "postal_code": "83990"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Vague d'Or/26660#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien; Végétalien    "
     },
     {
         "id": "18271",
@@ -1617,7 +1778,8 @@
             "postal_code": "26230"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clair de la Plume/18271#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    "
     },
     {
         "id": "327881",
@@ -1627,7 +1789,8 @@
             "postal_code": "62200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Matelote/327881#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "689",
@@ -1637,7 +1800,8 @@
             "postal_code": "30400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Prieure/689#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "221",
@@ -1647,7 +1811,8 @@
             "postal_code": "25130"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "77613",
@@ -1657,7 +1822,8 @@
             "postal_code": "62350"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Meurin/77613#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "15418",
@@ -1667,7 +1833,8 @@
             "postal_code": "69005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Loges - Anthony Bonnet/15418#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "23303",
@@ -1677,7 +1844,8 @@
             "postal_code": "13600"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de Nans - Auberge le Revestel/23303#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Méditerranéen; Cuisine Régionale Française; Traditionnel, Classique; Poissons, Fruits de Mer; Gastronomique; Provençal    "
     },
     {
         "id": "2975",
@@ -1687,7 +1855,8 @@
             "postal_code": "68340"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Gourmet/2975#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "28558",
@@ -1697,7 +1866,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gourmet de Seze - Bernard Mariller/28558#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "291883",
@@ -1707,7 +1877,8 @@
             "postal_code": "74120"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de l'Alpaga/291883#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "2579",
@@ -1717,7 +1888,8 @@
             "postal_code": "21370"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Charme/2579#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Végétarien; Végétalien    "
     },
     {
         "id": "71542",
@@ -1727,7 +1899,8 @@
             "postal_code": "67000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Crocodile/71542#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "30379",
@@ -1737,7 +1910,8 @@
             "postal_code": "75001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Jin/30379#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Japonais; Sushi; Poissons, Fruits de Mer    "
     },
     {
         "id": "18939",
@@ -1747,7 +1921,8 @@
             "postal_code": "67210"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Bistro des Saveurs/18939#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Bistronomique; Végétarien; Végétalien    "
     },
     {
         "id": "4294",
@@ -1757,7 +1932,8 @@
             "postal_code": "54000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Maison dans le Parc/4294#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "25985",
@@ -1767,7 +1943,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Copenhague/25985#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Danois; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "6018",
@@ -1777,7 +1954,8 @@
             "postal_code": "24510"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Logis/6018#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique    "
     },
     {
         "id": "33786",
@@ -1787,7 +1965,8 @@
             "postal_code": "73120"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1947 - Cheval Blanc Courchevel/33786#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "4546",
@@ -1797,7 +1976,8 @@
             "postal_code": "93600"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Saints Peres/4546#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "26327",
@@ -1807,7 +1987,8 @@
             "postal_code": "06190"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Elsa - Hotel Monte-Carlo Beach/26327#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "60418",
@@ -1817,7 +1998,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Apicius/60418#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "2998",
@@ -1827,7 +2009,8 @@
             "postal_code": "17000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Christopher Coutanceau/2998#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "7135",
@@ -1837,7 +2020,8 @@
             "postal_code": "29120"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Rochers - La Villa Tri Men/7135#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
     },
     {
         "id": "60775",
@@ -1847,7 +2031,8 @@
             "postal_code": "60500"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Connetable/60775#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "323145",
@@ -1857,7 +2042,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Passe Temps/323145#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "58408",
@@ -1867,7 +2053,8 @@
             "postal_code": "78000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du 11/58408#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "75043",
@@ -1877,7 +2064,8 @@
             "postal_code": "69001"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Prairial/75043#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
     },
     {
         "id": "1086",
@@ -1887,7 +2075,8 @@
             "postal_code": "84800"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vivier/1086#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "3592",
@@ -1897,7 +2086,8 @@
             "postal_code": "67000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Buerehiesel - Eric Westermann/3592#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
     },
     {
         "id": "344379",
@@ -1907,7 +2097,8 @@
             "postal_code": "75016"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Astrance/344379#ocSaleTypeList",
-        "stars": "3"
+        "stars": "3",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "30315",
@@ -1917,7 +2108,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Climats/30315#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "5487",
@@ -1927,7 +2119,8 @@
             "postal_code": "17150"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mirambeau/5487#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique    "
     },
     {
         "id": "15413",
@@ -1937,7 +2130,8 @@
             "postal_code": "69002"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Domes - Christian Lherm/15413#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "73961",
@@ -1947,7 +2141,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le George - Four Seasons Hotel George V/73961#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "269053",
@@ -1957,7 +2152,8 @@
             "postal_code": "75006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ze Kitchen Galerie/269053#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "42187",
@@ -1967,7 +2163,8 @@
             "postal_code": "31590"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Promenade/42187#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "3507",
@@ -1977,7 +2174,8 @@
             "postal_code": "21200"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Levernois : Le Gastronomique/3507#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "529",
@@ -1987,7 +2185,8 @@
             "postal_code": "11600"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Puits du Tresor/529#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "46885",
@@ -1997,7 +2196,8 @@
             "postal_code": "49400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gambetta/46885#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "10889",
@@ -2007,7 +2207,8 @@
             "postal_code": "75011"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Septime/10889#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "11743",
@@ -2017,7 +2218,8 @@
             "postal_code": "64210"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Briketenia/11743#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "31795",
@@ -2027,7 +2229,8 @@
             "postal_code": "59299"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge du Vert Mont/31795#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "61705",
@@ -2037,7 +2240,8 @@
             "postal_code": "78380"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Camelia/61705#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "330375",
@@ -2047,7 +2251,8 @@
             "postal_code": "78160"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Village/330375#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "36884",
@@ -2057,7 +2262,8 @@
             "postal_code": "75018"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Eugene/36884#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "44919",
@@ -2067,7 +2273,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Miraflores/44919#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Péruvien; Gastronomique; Cuisine Moderne, Créative    "
     },
     {
         "id": "8628",
@@ -2077,7 +2284,8 @@
             "postal_code": "06400"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Park 45/8628#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "2889",
@@ -2087,7 +2295,8 @@
             "postal_code": "71260"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Marande/2889#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "6482",
@@ -2097,7 +2306,8 @@
             "postal_code": "12390"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Pont/6482#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "12601",
@@ -2107,7 +2317,8 @@
             "postal_code": "67520"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Le Cerf - Michel HUSSER/12601#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "7876",
@@ -2117,7 +2328,8 @@
             "postal_code": "25190"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mon Plaisir/7876#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "21095",
@@ -2127,7 +2339,8 @@
             "postal_code": "69005"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Jeremy Galvan Restaurant/21095#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "5020",
@@ -2137,7 +2350,8 @@
             "postal_code": "75017"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "5756",
@@ -2147,7 +2361,8 @@
             "postal_code": "20000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Palm Beach/5756#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "8838",
@@ -2157,7 +2372,8 @@
             "postal_code": "56100"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Henri et Joseph/8838#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "8760",
@@ -2167,7 +2383,8 @@
             "postal_code": "75002"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Saturne/8760#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "324425",
@@ -2177,7 +2394,8 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Neuvieme Art/324425#ocSaleTypeList",
-        "stars": "2"
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "65607",
@@ -2187,7 +2405,8 @@
             "postal_code": "29840"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateau de Sable/65607#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "77134",
@@ -2197,7 +2416,8 @@
             "postal_code": "13100"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mickael Feval/77134#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
     },
     {
         "id": "310489",
@@ -2207,7 +2427,8 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique    "
     },
     {
         "id": "6655",
@@ -2217,7 +2438,8 @@
             "postal_code": "06140"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Bistrot Gourmand Clovis/6655#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Brasserie    "
     },
     {
         "id": "38154",
@@ -2227,7 +2449,8 @@
             "postal_code": "06000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Aromate/38154#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "25701",
@@ -2237,7 +2460,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Garance/25701#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "276775",
@@ -2247,7 +2471,8 @@
             "postal_code": "33000"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Garopapilles/276775#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
     },
     {
         "id": "306505",
@@ -2257,7 +2482,8 @@
             "postal_code": "62520"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon/306505#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "317587",
@@ -2267,7 +2493,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Pertinence/317587#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
     },
     {
         "id": "202436",
@@ -2277,7 +2504,8 @@
             "postal_code": "75011"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateaubriand/202436#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "276169",
@@ -2287,7 +2515,8 @@
             "postal_code": "75018"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ken Kawasaki/276169#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "209577",
@@ -2297,7 +2526,8 @@
             "postal_code": "75004"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant H/209577#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "272053",
@@ -2307,7 +2537,8 @@
             "postal_code": "75007"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Divellec/272053#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Poissons, Fruits de Mer    "
     },
     {
         "id": "337449",
@@ -2317,7 +2548,8 @@
             "postal_code": "75016"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Comice/337449#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     },
     {
         "id": "317277",
@@ -2327,6 +2559,7 @@
             "postal_code": "75006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Quinsou/317277#ocSaleTypeList",
-        "stars": "1"
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative    "
     }
 ]
