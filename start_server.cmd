@@ -1,3 +1,3 @@
 TITLE Server
-cd test_react_app
+cd react_app
 node server.js

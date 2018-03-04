@@ -1,2 +1,2 @@
-cd test_react_app
+cd react_app
 npm install
