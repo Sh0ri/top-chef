@@ -30,6 +30,16 @@
         "stars": "1"
     },
     {
+        "id": "26201",
+        "title": "Restaurant Auguste - Gael Orieux",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75007"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#ocSaleTypeList",
+        "stars": "1"
+    },
+    {
         "id": "12900",
         "title": "Pierre Orsi",
         "address": {
@@ -37,6 +47,16 @@
             "postal_code": "69006"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#ocSaleTypeList",
+        "stars": "1"
+    },
+    {
+        "id": "9228",
+        "title": "Le Baudelaire - Hotel Le Burgundy Paris",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75001"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#ocSaleTypeList",
         "stars": "1"
     },
     {
@@ -48,6 +68,16 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#ocSaleTypeList",
         "stars": "1"
+    },
+    {
+        "id": "682",
+        "title": "L'Oasis - Stephane Raimbault",
+        "address": {
+            "address_locality": "La Napoule",
+            "postal_code": "06210"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#ocSaleTypeList",
+        "stars": "2"
     },
     {
         "id": "122",
@@ -87,16 +117,6 @@
             "postal_code": "44115"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#ocSaleTypeList",
-        "stars": ""
-    },
-    {
-        "id": "405",
-        "title": "Maison Rostang",
-        "address": {
-            "address_locality": "Paris",
-            "postal_code": "75017"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
         "stars": "2"
     },
     {
@@ -120,6 +140,16 @@
         "stars": "1"
     },
     {
+        "id": "405",
+        "title": "Maison Rostang",
+        "address": {
+            "address_locality": "Paris",
+            "postal_code": "75017"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
+        "stars": "2"
+    },
+    {
         "id": "275457",
         "title": "Emporio Armani Ristorante",
         "address": {
@@ -137,6 +167,16 @@
             "postal_code": "75008"
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#ocSaleTypeList",
+        "stars": "1"
+    },
+    {
+        "id": "221",
+        "title": "Le France",
+        "address": {
+            "address_locality": "Villers-le-Lac",
+            "postal_code": "25130"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#ocSaleTypeList",
         "stars": "1"
     },
     {

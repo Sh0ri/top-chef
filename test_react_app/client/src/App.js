@@ -83,6 +83,16 @@ class App extends Component {
     .then(data => this.setState({ restaurants_with_promos: data }));
   }
 
+  UpdateAll(){
+    this.setState({restaurants_with_promos : []});
+    fetch(API + 'update/michelin')
+    .then(test => fetch(API + 'update/michelin_restaurants_in_lafourchette'))
+    .then(test2 => fetch(API + 'update/restaurants_with_promos'))
+    .then(test3 => fetch(API + 'update/offers'))
+    .then(response => response.json())
+    .then(data => this.setState({ restaurants_with_promos: data }));
+  }
+
   render() {
     const { restaurants_with_promos } = this.state;
     if(restaurants_with_promos.length !== 0){
@@ -101,14 +111,14 @@ class App extends Component {
         </button>
         <br/>
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('offers')}}>Update Offers</button>
-
+        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateAll()}}>Update All</button>
         </div>
 
-        <div class="list-group col-sm-6" id="root" className= "App">
+        <div class="list-group" id="root" className= "App">
         {restaurants_with_promos.map(restaurant_with_promos =>
 
           /*<!-- div with one restaurant -->*/
-          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-6" href={restaurant_with_promos.restaurant.restaurant_url}>
+          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action" href={restaurant_with_promos.restaurant.restaurant_url}>
           <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
           <h1>{restaurant_with_promos.restaurant.title}</h1>
           <div id="liste de promos">

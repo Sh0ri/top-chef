@@ -58,6 +58,25 @@
     },
     {
         "restaurant": {
+            "id": "26201",
+            "title": "Restaurant Auguste - Gael Orieux",
+            "address": {
+                "address_locality": "Paris",
+                "postal_code": "75007"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#ocSaleTypeList",
+            "stars": "1"
+        },
+        "promos": [
+            {
+                "title": "Menu Prestige 118€ Tout Compris !",
+                "number": "118€",
+                "text": "Prix par personne. En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis."
+            }
+        ]
+    },
+    {
+        "restaurant": {
             "id": "12900",
             "title": "Pierre Orsi",
             "address": {
@@ -77,6 +96,30 @@
     },
     {
         "restaurant": {
+            "id": "9228",
+            "title": "Le Baudelaire - Hotel Le Burgundy Paris",
+            "address": {
+                "address_locality": "Paris",
+                "postal_code": "75001"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#ocSaleTypeList",
+            "stars": "1"
+        },
+        "promos": [
+            {
+                "title": "-20% sur la carte !",
+                "number": "-20%",
+                "text": "Conditions : Hors menu, hors boisson. Pour toute commande d'Entrée+Plat ou Plat+Dessert minimum par personne."
+            },
+            {
+                "title": "Menu Gourmands 130€",
+                "number": "130€",
+                "text": "Prix par personne."
+            }
+        ]
+    },
+    {
+        "restaurant": {
             "id": "25896",
             "title": "Benoit - Alain Ducasse",
             "address": {
@@ -91,6 +134,30 @@
                 "title": "Menu Mardis Gourmands 125€",
                 "number": "125€",
                 "text": "Prix par personne."
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "id": "682",
+            "title": "L'Oasis - Stephane Raimbault",
+            "address": {
+                "address_locality": "La Napoule",
+                "postal_code": "06210"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#ocSaleTypeList",
+            "stars": "2"
+        },
+        "promos": [
+            {
+                "title": "-20% sur la carte",
+                "number": "-20%",
+                "text": "Hors menu, hors boisson. Pour toute commande d'Entrée+Plat ou Plat+Dessert minimum par personne, valable pour le créneau horaire réservé."
+            },
+            {
+                "title": "Menu Mardis Gourmands 125€",
+                "number": "125€",
+                "text": "En réservant avec ce menu, vous pouvez, une fois sur place, soit bénéficier de ce menu, soit commander à la carte si vous changez d’avis."
             }
         ]
     },
@@ -160,37 +227,13 @@
                 "postal_code": "44115"
             },
             "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#ocSaleTypeList",
-            "stars": ""
+            "stars": "2"
         },
         "promos": [
             {
                 "title": "-20% sur la carte",
                 "number": "-20%",
                 "text": "Conditions : hors menu, hors boisson. Pour toute commande d'Entrée+Plat ou Plat+Dessert minimum par personne. Pour des tables de maximum 4 personnes.\nValidité : Déjeuner : du mercredi au samedi. Dîner : le mercredi, jeudi et vendredi."
-            }
-        ]
-    },
-    {
-        "restaurant": {
-            "id": "405",
-            "title": "Maison Rostang",
-            "address": {
-                "address_locality": "Paris",
-                "postal_code": "75017"
-            },
-            "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
-            "stars": "2"
-        },
-        "promos": [
-            {
-                "title": "Menu Prestige 115€ Tout Compris, le midi !",
-                "number": "115€",
-                "text": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi."
-            },
-            {
-                "title": "Menu Prestige 195€ Tout Compris, le soir !",
-                "number": "195€",
-                "text": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir."
             }
         ]
     },
@@ -244,6 +287,30 @@
     },
     {
         "restaurant": {
+            "id": "405",
+            "title": "Maison Rostang",
+            "address": {
+                "address_locality": "Paris",
+                "postal_code": "75017"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
+            "stars": "2"
+        },
+        "promos": [
+            {
+                "title": "Menu Prestige 115€ Tout Compris, le midi !",
+                "number": "115€",
+                "text": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi."
+            },
+            {
+                "title": "Menu Prestige 195€ Tout Compris, le soir !",
+                "number": "195€",
+                "text": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir."
+            }
+        ]
+    },
+    {
+        "restaurant": {
             "id": "275457",
             "title": "Emporio Armani Ristorante",
             "address": {
@@ -277,6 +344,25 @@
                 "title": "Menu Mardis Gourmands 139€",
                 "number": "139€",
                 "text": "Prix par personne."
+            }
+        ]
+    },
+    {
+        "restaurant": {
+            "id": "221",
+            "title": "Le France",
+            "address": {
+                "address_locality": "Villers-le-Lac",
+                "postal_code": "25130"
+            },
+            "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#ocSaleTypeList",
+            "stars": "1"
+        },
+        "promos": [
+            {
+                "title": "-20% sur la carte",
+                "number": "-20%",
+                "text": "Hors menu, hors boisson. Valable pour le créneau horaire réservé."
             }
         ]
     },

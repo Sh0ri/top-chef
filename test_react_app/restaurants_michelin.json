@@ -56,6 +56,14 @@
         "stars": "1"
     },
     {
+        "title": "Le Clarence",
+        "address": {
+            "address_locality": "31 Avenue Franklin Delano Roosevelt",
+            "postal_code": "75008"
+        },
+        "stars": "2"
+    },
+    {
         "title": "Le Saint-Estève",
         "address": {
             "address_locality": "2250 route cézanne D17",
@@ -93,7 +101,7 @@
             "address_locality": "80 chemin des Anglais",
             "postal_code": "11000"
         },
-        "stars": ""
+        "stars": "2"
     },
     {
         "title": "Le Restaurant",
@@ -136,14 +144,6 @@
         "stars": "1"
     },
     {
-        "title": "Les Tablettes de Jean-Louis Nomicos",
-        "address": {
-            "address_locality": "16 Avenue Bugeaud",
-            "postal_code": "75016"
-        },
-        "stars": "1"
-    },
-    {
         "title": "La Liégeoise",
         "address": {
             "address_locality": "digue de mer",
@@ -160,10 +160,10 @@
         "stars": "2"
     },
     {
-        "title": "La Tour des Vents",
+        "title": "Le Saint-James",
         "address": {
-            "address_locality": "Le Moulin de Malfourat",
-            "postal_code": "24240"
+            "address_locality": "3 pl. Camille-Hostein",
+            "postal_code": "33270"
         },
         "stars": "1"
     },
@@ -192,20 +192,36 @@
         "stars": "1"
     },
     {
+        "title": "Les Tablettes de Jean-Louis Nomicos",
+        "address": {
+            "address_locality": "16 Avenue Bugeaud",
+            "postal_code": "75016"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Tour des Vents",
+        "address": {
+            "address_locality": "Le Moulin de Malfourat",
+            "postal_code": "24240"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Hostellerie de l'Abbaye de la Celle",
+        "address": {
+            "address_locality": "10 Place Général de Gaulle",
+            "postal_code": "83170"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Moulin du Roc",
         "address": {
             "address_locality": "Avenue Eugène Le Roy",
             "postal_code": "24530"
         },
         "stars": "1"
-    },
-    {
-        "title": "Mathieu Pacaud - Histoires",
-        "address": {
-            "address_locality": "85 Avenue Kléber",
-            "postal_code": "75016"
-        },
-        "stars": "2"
     },
     {
         "title": "Têtedoie",
@@ -248,12 +264,12 @@
         "stars": "1"
     },
     {
-        "title": "Hostellerie de l'Abbaye de la Celle",
+        "title": "Le Relais Bernard Loiseau",
         "address": {
-            "address_locality": "10 Place Général de Gaulle",
-            "postal_code": "83170"
+            "address_locality": "2, rue d'Argentine",
+            "postal_code": "21210"
         },
-        "stars": "1"
+        "stars": "2"
     },
     {
         "title": "Le Taillevent",
@@ -278,6 +294,14 @@
             "postal_code": "51430"
         },
         "stars": "3"
+    },
+    {
+        "title": "La Bastide de Moustiers",
+        "address": {
+            "address_locality": "Parc naturel régional du Verdon, Chemin de Quinson",
+            "postal_code": "04360"
+        },
+        "stars": "1"
     },
     {
         "title": "Hostellerie Bérard",
@@ -333,7 +357,7 @@
             "address_locality": "40 rue Taine",
             "postal_code": "75012"
         },
-        "stars": ""
+        "stars": "1"
     },
     {
         "title": "Carré des Feuillants",
@@ -360,20 +384,20 @@
         "stars": "1"
     },
     {
-        "title": "Mirazur",
-        "address": {
-            "address_locality": "30, Avenue Aristide Briand",
-            "postal_code": "06500"
-        },
-        "stars": "2"
-    },
-    {
         "title": "G.a. au Manoir de Rétival",
         "address": {
             "address_locality": "2 rue St. Clair",
             "postal_code": "76490"
         },
         "stars": "1"
+    },
+    {
+        "title": "Mirazur",
+        "address": {
+            "address_locality": "30, Avenue Aristide Briand",
+            "postal_code": "06500"
+        },
+        "stars": "2"
     },
     {
         "title": "Gill",
@@ -424,14 +448,6 @@
         "stars": "1"
     },
     {
-        "title": "La Bastide de Moustiers",
-        "address": {
-            "address_locality": "Parc naturel régional du Verdon, Chemin de Quinson",
-            "postal_code": "04360"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Il Carpaccio",
         "address": {
             "address_locality": "37 avenue Hoche",
@@ -464,6 +480,14 @@
         "stars": "3"
     },
     {
+        "title": "Domaine d'Auriac",
+        "address": {
+            "address_locality": "Route de Saint-Hilaire",
+            "postal_code": "11000"
+        },
+        "stars": "1"
+    },
+    {
         "title": "L'Oustau de Baumanière",
         "address": {
             "address_locality": "Village des Baux-de-Provence",
@@ -484,14 +508,6 @@
         "address": {
             "address_locality": "2350 route des Arcs, Campagne Mariette",
             "postal_code": "83510"
-        },
-        "stars": "1"
-    },
-    {
-        "title": "Le Brittany",
-        "address": {
-            "address_locality": "bd Ste-Barbe",
-            "postal_code": "29681"
         },
         "stars": "1"
     },
@@ -536,6 +552,14 @@
         "stars": "1"
     },
     {
+        "title": "1920",
+        "address": {
+            "address_locality": "373 chemin des follières",
+            "postal_code": "74120"
+        },
+        "stars": "2"
+    },
+    {
         "title": "Les Bas-Rupts",
         "address": {
             "address_locality": "181 rte de la Bresse",
@@ -565,14 +589,6 @@
             "address_locality": "21 rue du Gén. -de-Gaulle",
             "postal_code": "67610"
         },
-        "stars": ""
-    },
-    {
-        "title": "La Coopérative",
-        "address": {
-            "address_locality": "2A Route de Caladroy",
-            "postal_code": "66720"
-        },
         "stars": "1"
     },
     {
@@ -584,12 +600,12 @@
         "stars": "1"
     },
     {
-        "title": "Le Clarence",
+        "title": "La Coopérative",
         "address": {
-            "address_locality": "31 Avenue Franklin Delano Roosevelt",
-            "postal_code": "75008"
+            "address_locality": "2A Route de Caladroy",
+            "postal_code": "66720"
         },
-        "stars": "2"
+        "stars": "1"
     },
     {
         "title": "La Table de Patrick Raingeard",
@@ -616,10 +632,10 @@
         "stars": "1"
     },
     {
-        "title": "Yoann Conte",
+        "title": "L'Atelier d'Edmond",
         "address": {
-            "address_locality": "13 Vieille-Route-des-Pensières",
-            "postal_code": "74290"
+            "address_locality": "au Fornet",
+            "postal_code": "73150"
         },
         "stars": "2"
     },
@@ -632,12 +648,12 @@
         "stars": "1"
     },
     {
-        "title": "L'Atelier d'Edmond",
+        "title": "Yoann Conte",
         "address": {
-            "address_locality": "au Fornet",
-            "postal_code": "73150"
+            "address_locality": "13 Vieille-Route-des-Pensières",
+            "postal_code": "74290"
         },
-        "stars": ""
+        "stars": "2"
     },
     {
         "title": "L'Essentiel",
@@ -656,6 +672,38 @@
         "stars": "1"
     },
     {
+        "title": "Le Bénaton",
+        "address": {
+            "address_locality": "25 Rue du Faubourg-Bretonnière",
+            "postal_code": "21200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Sylvestre",
+        "address": {
+            "address_locality": "79 rue St-Dominique",
+            "postal_code": "75007"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Ithurria",
+        "address": {
+            "address_locality": "pl. du Fronton",
+            "postal_code": "64250"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Relais de la Poste",
+        "address": {
+            "address_locality": "24 avenue de Maremne",
+            "postal_code": "40140"
+        },
+        "stars": "2"
+    },
+    {
         "title": "Le Moulin de l'Abbaye",
         "address": {
             "address_locality": "1 avenue Pierre de Bourdeilles",
@@ -672,12 +720,52 @@
         "stars": "1"
     },
     {
+        "title": "Le Kléber",
+        "address": {
+            "address_locality": "6 r. A. -Dumont",
+            "postal_code": "26400"
+        },
+        "stars": "1"
+    },
+    {
         "title": "L'Aparté",
         "address": {
             "address_locality": "21 Rue de l’Europe",
             "postal_code": "31850"
         },
-        "stars": ""
+        "stars": "1"
+    },
+    {
+        "title": "Auguste",
+        "address": {
+            "address_locality": "54 r. Bourgogne",
+            "postal_code": "75007"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Dyades au Domaine des Étangs",
+        "address": {
+            "address_locality": "Les Etangs",
+            "postal_code": "16310"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Cerisier",
+        "address": {
+            "address_locality": "3 rue de la Gare",
+            "postal_code": "62840"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "L'Auberge Basque",
+        "address": {
+            "address_locality": "quartier Helbarron",
+            "postal_code": "64310"
+        },
+        "stars": "1"
     },
     {
         "title": "La Bonne Étape",
@@ -717,15 +805,7 @@
             "address_locality": "6 Rue Balzac",
             "postal_code": "75008"
         },
-        "stars": ""
-    },
-    {
-        "title": "William Frachot",
-        "address": {
-            "address_locality": "5 rue Michelet",
-            "postal_code": "21000"
-        },
-        "stars": "2"
+        "stars": "3"
     },
     {
         "title": "Alain Llorca",
@@ -734,6 +814,14 @@
             "postal_code": "06480"
         },
         "stars": "1"
+    },
+    {
+        "title": "William Frachot",
+        "address": {
+            "address_locality": "5 rue Michelet",
+            "postal_code": "21000"
+        },
+        "stars": "2"
     },
     {
         "title": "Le Pergolèse",
@@ -776,14 +864,6 @@
         "stars": "1"
     },
     {
-        "title": "Hostellerie du Rosenmeer",
-        "address": {
-            "address_locality": "45 avenue de la Gare",
-            "postal_code": "67560"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Initial",
         "address": {
             "address_locality": "24 Rue Saint-Manvieu",
@@ -808,6 +888,22 @@
         "stars": "1"
     },
     {
+        "title": "Hostellerie du Rosenmeer",
+        "address": {
+            "address_locality": "45 avenue de la Gare",
+            "postal_code": "67560"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Licorne Royale",
+        "address": {
+            "address_locality": "27 Place Isaac Benserade",
+            "postal_code": "27480"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Alléno Paris au Pavillon Ledoyen",
         "address": {
             "address_locality": "8 avenue Dutuit",
@@ -816,10 +912,18 @@
         "stars": "3"
     },
     {
-        "title": "L'Ekrin by Laurent Azoulay",
+        "title": "Domaine de Clairefontaine",
         "address": {
-            "address_locality": "Route de la Montée",
-            "postal_code": "73550"
+            "address_locality": "chemin des Fontanettes",
+            "postal_code": "38121"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Faventia",
+        "address": {
+            "address_locality": "3100 route de Bagnols-en-Forêt",
+            "postal_code": "83440"
         },
         "stars": "1"
     },
@@ -832,12 +936,36 @@
         "stars": "1"
     },
     {
+        "title": "L'Ekrin by Laurent Azoulay",
+        "address": {
+            "address_locality": "Route de la Montée",
+            "postal_code": "73550"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Les Morainières",
         "address": {
             "address_locality": "route de Marétel",
             "postal_code": "73170"
         },
         "stars": "2"
+    },
+    {
+        "title": "Le Brittany",
+        "address": {
+            "address_locality": "bd Ste-Barbe",
+            "postal_code": "29681"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Baudelaire",
+        "address": {
+            "address_locality": "8 rue Duphot",
+            "postal_code": "75001"
+        },
+        "stars": "1"
     },
     {
         "title": "Le Moulin de la Gorce",
@@ -848,12 +976,20 @@
         "stars": "1"
     },
     {
+        "title": "Les Fresques",
+        "address": {
+            "address_locality": "13 Avenue des Mateirons",
+            "postal_code": "74500"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Prince Noir - Vivien Durand",
         "address": {
             "address_locality": "1 rue du Prince Noir",
             "postal_code": "33310"
         },
-        "stars": ""
+        "stars": "1"
     },
     {
         "title": "Le Clos des Sens",
@@ -912,12 +1048,52 @@
         "stars": "1"
     },
     {
+        "title": "Le Bouche à Oreille",
+        "address": {
+            "address_locality": "11 r. de la Chapelle",
+            "postal_code": "91150"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Refuge des Gourmets",
+        "address": {
+            "address_locality": "90 route des Framboises",
+            "postal_code": "74140"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Rotonde",
+        "address": {
+            "address_locality": "200 avenue du Casino",
+            "postal_code": "69890"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Maximin Hellio",
+        "address": {
+            "address_locality": "64 Rue Gambetta",
+            "postal_code": "14800"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Greuze",
         "address": {
             "address_locality": "1 r. A. Thibaudet",
             "postal_code": "71700"
         },
         "stars": "1"
+    },
+    {
+        "title": "L'Oasis",
+        "address": {
+            "address_locality": "6 rue Jean-Honoré Carle",
+            "postal_code": "06210"
+        },
+        "stars": "2"
     },
     {
         "title": "JAN",
@@ -952,18 +1128,18 @@
         "stars": "1"
     },
     {
-        "title": "La Madeleine",
-        "address": {
-            "address_locality": "1 Rue Alsace-Lorraine",
-            "postal_code": "89100"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Le Corot",
         "address": {
             "address_locality": "55 Rue de Versailles",
             "postal_code": "92410"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Madeleine",
+        "address": {
+            "address_locality": "1 Rue Alsace-Lorraine",
+            "postal_code": "89100"
         },
         "stars": "1"
     },
@@ -989,7 +1165,7 @@
             "address_locality": "D23",
             "postal_code": "46200"
         },
-        "stars": ""
+        "stars": "1"
     },
     {
         "title": "Les Hautes Roches",
@@ -1029,7 +1205,31 @@
             "address_locality": "Route de Salernes",
             "postal_code": "83510"
         },
-        "stars": ""
+        "stars": "1"
+    },
+    {
+        "title": "Villa Archange",
+        "address": {
+            "address_locality": "Rue de l'Ouest",
+            "postal_code": "06110"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Le Carrousel",
+        "address": {
+            "address_locality": "14 rue du Pont de Morge",
+            "postal_code": "63350"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "MaSa",
+        "address": {
+            "address_locality": "112 avenue Victor-Hugo",
+            "postal_code": "92100"
+        },
+        "stars": "1"
     },
     {
         "title": "Anne de Bretagne",
@@ -1040,18 +1240,18 @@
         "stars": "2"
     },
     {
-        "title": "Le Pré du Moulin",
+        "title": "La Gouesnière",
         "address": {
-            "address_locality": "rte de Ste-Cécile-les-Vignes",
-            "postal_code": "84830"
+            "address_locality": "1 Le Limonay",
+            "postal_code": "35350"
         },
         "stars": "1"
     },
     {
-        "title": "La Scène",
+        "title": "Le Pré du Moulin",
         "address": {
-            "address_locality": "33 Avenue George V",
-            "postal_code": "75008"
+            "address_locality": "rte de Ste-Cécile-les-Vignes",
+            "postal_code": "84830"
         },
         "stars": "1"
     },
@@ -1094,6 +1294,46 @@
             "postal_code": "14360"
         },
         "stars": "1"
+    },
+    {
+        "title": "La Grand'Vigne",
+        "address": {
+            "address_locality": "chemin de Smith-Haut-Lafitte",
+            "postal_code": "33650"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Maison Kieny",
+        "address": {
+            "address_locality": "7 Rue du Général de Gaulle",
+            "postal_code": "68400"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Domaine des Séquoias",
+        "address": {
+            "address_locality": "54 Vie-de-Boussieu",
+            "postal_code": "38300"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Auberge de l'Ill",
+        "address": {
+            "address_locality": "2 rue de Collonges-au-Mont d'Or",
+            "postal_code": "68970"
+        },
+        "stars": "3"
+    },
+    {
+        "title": "Le Meurice Alain Ducasse",
+        "address": {
+            "address_locality": "228 Rue de Rivoli",
+            "postal_code": "75001"
+        },
+        "stars": "2"
     },
     {
         "title": "L'Auberge des Glazicks",
@@ -1176,10 +1416,10 @@
         "stars": "2"
     },
     {
-        "title": "Le St-Placide",
+        "title": "Jérôme Brochot",
         "address": {
-            "address_locality": "6 place du poncel",
-            "postal_code": "35400"
+            "address_locality": "Place Beaubernard",
+            "postal_code": "71300"
         },
         "stars": "1"
     },
@@ -1192,10 +1432,26 @@
         "stars": "2"
     },
     {
+        "title": "Le St-Placide",
+        "address": {
+            "address_locality": "6 place du poncel",
+            "postal_code": "35400"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Parc Les Crayères",
         "address": {
             "address_locality": "64 Boulevard Henry Vasnier",
             "postal_code": "51100"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Domaine des Hauts de Loire",
+        "address": {
+            "address_locality": "79 rue Gilbert Navard",
+            "postal_code": "41150"
         },
         "stars": "2"
     },
@@ -1213,15 +1469,7 @@
             "address_locality": "43 av. P. et M.-Curie",
             "postal_code": "63400"
         },
-        "stars": ""
-    },
-    {
-        "title": "Domaine des Hauts de Loire",
-        "address": {
-            "address_locality": "79 rue Gilbert Navard",
-            "postal_code": "41150"
-        },
-        "stars": "2"
+        "stars": "1"
     },
     {
         "title": "L'Arnsbourg",
@@ -1248,6 +1496,14 @@
         "stars": "1"
     },
     {
+        "title": "La Scène",
+        "address": {
+            "address_locality": "33 Avenue George V",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Castellaras",
         "address": {
             "address_locality": "461 chemin Peymeyan",
@@ -1264,18 +1520,18 @@
         "stars": "3"
     },
     {
-        "title": "Lucas Carton",
-        "address": {
-            "address_locality": "9 pl. de la Madeleine",
-            "postal_code": "75008"
-        },
-        "stars": "1"
-    },
-    {
         "title": "L'Arcane",
         "address": {
             "address_locality": "39 Rue Lamarck",
             "postal_code": "75018"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Lucas Carton",
+        "address": {
+            "address_locality": "9 pl. de la Madeleine",
+            "postal_code": "75008"
         },
         "stars": "1"
     },
@@ -1357,7 +1613,7 @@
             "address_locality": "33 rue Chapelle St-Martin",
             "postal_code": "44115"
         },
-        "stars": ""
+        "stars": "2"
     },
     {
         "title": "Shang Palace",
@@ -1400,12 +1656,28 @@
         "stars": "1"
     },
     {
-        "title": "Maison Rostang",
+        "title": "Flaveur",
         "address": {
-            "address_locality": "20 rue Rennequin",
-            "postal_code": "75017"
+            "address_locality": "25 Rue Gubernatis",
+            "postal_code": "06000"
         },
         "stars": "2"
+    },
+    {
+        "title": "Le Domaine du Colombier",
+        "address": {
+            "address_locality": "270 Chemin de Malombre",
+            "postal_code": "26780"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Les Terraillers",
+        "address": {
+            "address_locality": "11 Route Chemin-Neuf",
+            "postal_code": "06410"
+        },
+        "stars": "1"
     },
     {
         "title": "Les Rosiers",
@@ -1464,6 +1736,14 @@
         "stars": "2"
     },
     {
+        "title": "La Scène Thélème",
+        "address": {
+            "address_locality": "18 Rue Troyon",
+            "postal_code": "75017"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Chapelle Saint-Martin",
         "address": {
             "address_locality": "33, Saint Martin du Fault",
@@ -1476,14 +1756,6 @@
         "address": {
             "address_locality": "26 Rampe Cauchoise",
             "postal_code": "76000"
-        },
-        "stars": "1"
-    },
-    {
-        "title": "La Scène Thélème",
-        "address": {
-            "address_locality": "18 Rue Troyon",
-            "postal_code": "75017"
         },
         "stars": "1"
     },
@@ -1608,6 +1880,38 @@
         "stars": "2"
     },
     {
+        "title": "L'Atelier de Gaztelur",
+        "address": {
+            "address_locality": "Chemin de Gastelhur",
+            "postal_code": "64200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Bastide St-Antoine",
+        "address": {
+            "address_locality": "48 av. Henri-Dunant",
+            "postal_code": "06130"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Ed.Em",
+        "address": {
+            "address_locality": "4 imp. Chenevottes",
+            "postal_code": "21190"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Chassagnette",
+        "address": {
+            "address_locality": "route du Sambuc",
+            "postal_code": "13200"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Antoine",
         "address": {
             "address_locality": "10 av. de New-York",
@@ -1640,12 +1944,12 @@
         "stars": "1"
     },
     {
-        "title": "Le Carré d'Alethius",
+        "title": "Maison Rostang",
         "address": {
-            "address_locality": "4 r. Paul-Bertois",
-            "postal_code": "07800"
+            "address_locality": "20 rue Rennequin",
+            "postal_code": "75017"
         },
-        "stars": ""
+        "stars": "2"
     },
     {
         "title": "Cobéa",
@@ -1653,7 +1957,15 @@
             "address_locality": "11 r. Raymond Losserand",
             "postal_code": "75014"
         },
-        "stars": ""
+        "stars": "1"
+    },
+    {
+        "title": "Le Carré d'Alethius",
+        "address": {
+            "address_locality": "4 r. Paul-Bertois",
+            "postal_code": "07800"
+        },
+        "stars": "1"
     },
     {
         "title": "Auberge Frankenbourg",
@@ -1728,14 +2040,6 @@
         "stars": "1"
     },
     {
-        "title": "Sylvestre",
-        "address": {
-            "address_locality": "79 rue St-Dominique",
-            "postal_code": "75007"
-        },
-        "stars": "2"
-    },
-    {
         "title": "Hervé Busset",
         "address": {
             "address_locality": "D901",
@@ -1784,14 +2088,6 @@
         "stars": "3"
     },
     {
-        "title": "Penati al Baretto",
-        "address": {
-            "address_locality": "9 rue Balzac",
-            "postal_code": "75008"
-        },
-        "stars": "1"
-    },
-    {
         "title": "La Bergerie",
         "address": {
             "address_locality": "D999",
@@ -1813,7 +2109,7 @@
             "address_locality": "47 rue des îles",
             "postal_code": "29920"
         },
-        "stars": ""
+        "stars": "1"
     },
     {
         "title": "L'Orangerie",
@@ -1854,14 +2150,6 @@
             "postal_code": "85260"
         },
         "stars": "2"
-    },
-    {
-        "title": "Hexagone",
-        "address": {
-            "address_locality": "85 Avenue Kléber",
-            "postal_code": "75016"
-        },
-        "stars": "1"
     },
     {
         "title": "Auberge de Clochemerle",
@@ -1952,10 +2240,34 @@
         "stars": "1"
     },
     {
+        "title": "Le Saison",
+        "address": {
+            "address_locality": "1 imp. du Vieux-Bourg",
+            "postal_code": "35760"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Domaine de la Corniche",
+        "address": {
+            "address_locality": "5 rte de la Corniche",
+            "postal_code": "78270"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Lamartine",
         "address": {
             "address_locality": "Route du Tunnel du Chat",
             "postal_code": "73370"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Jérôme Nutile - Le Mas de Boudan",
+        "address": {
+            "address_locality": "351 Chemin du Mas de Boudan",
+            "postal_code": "30000"
         },
         "stars": "1"
     },
@@ -1996,6 +2308,14 @@
         "address": {
             "address_locality": "r. Loucheur",
             "postal_code": "76550"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Nakatani",
+        "address": {
+            "address_locality": "27 Rue Pierre Leroux",
+            "postal_code": "75007"
         },
         "stars": "1"
     },
@@ -2093,7 +2413,7 @@
             "address_locality": "10 Rue Labottière",
             "postal_code": "33000"
         },
-        "stars": ""
+        "stars": "2"
     },
     {
         "title": "La Voile",
@@ -2144,10 +2464,18 @@
         "stars": "1"
     },
     {
-        "title": "Les Fresques",
+        "title": "L'O des Vignes",
         "address": {
-            "address_locality": "13 Avenue des Mateirons",
-            "postal_code": "74500"
+            "address_locality": "r. du Bourg",
+            "postal_code": "71960"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Gourmandière - La Table d'Olivier",
+        "address": {
+            "address_locality": "D126",
+            "postal_code": "56000"
         },
         "stars": "1"
     },
@@ -2184,6 +2512,38 @@
         "stars": "1"
     },
     {
+        "title": "Les Cèdres",
+        "address": {
+            "address_locality": "25 Rue Henri MACHON",
+            "postal_code": "26600"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Les Clefs d'Argent",
+        "address": {
+            "address_locality": "333 Avenue des Martyrs de la Résistance",
+            "postal_code": "40000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Grand Hôtel du Lion d'Or",
+        "address": {
+            "address_locality": "69 r. Clemenceau",
+            "postal_code": "41200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Dominique Bucaille",
+        "address": {
+            "address_locality": "715 av. des Savels",
+            "postal_code": "04100"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Cinq",
         "address": {
             "address_locality": "31 av. George V",
@@ -2205,14 +2565,6 @@
             "address_locality": "1 rue Fontaine",
             "postal_code": "68510"
         },
-        "stars": ""
-    },
-    {
-        "title": "Le Clair de la Plume",
-        "address": {
-            "address_locality": "2 Place du Mail",
-            "postal_code": "26230"
-        },
         "stars": "1"
     },
     {
@@ -2220,6 +2572,22 @@
         "address": {
             "address_locality": "13 rue des Berceaux",
             "postal_code": "51200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Logis de la Cadène",
+        "address": {
+            "address_locality": "Place du Marche au Bois",
+            "postal_code": "33330"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Apicius",
+        "address": {
+            "address_locality": "Marché Saint Pierre 1 étage",
+            "postal_code": "63000"
         },
         "stars": "1"
     },
@@ -2232,18 +2600,10 @@
         "stars": "1"
     },
     {
-        "title": "Logis de la Cadène",
+        "title": "Château Cordeillan-Bages",
         "address": {
-            "address_locality": "Place du Marche au Bois",
-            "postal_code": "33330"
-        },
-        "stars": ""
-    },
-    {
-        "title": "Apicius",
-        "address": {
-            "address_locality": "Marché Saint Pierre 1 étage",
-            "postal_code": "63000"
+            "address_locality": "Route des châteaux",
+            "postal_code": "33250"
         },
         "stars": "1"
     },
@@ -2256,18 +2616,18 @@
         "stars": "1"
     },
     {
-        "title": "Jean-Claude Leclerc",
-        "address": {
-            "address_locality": "12 rue St-Adjutor",
-            "postal_code": "63000"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Gordon Ramsay au Trianon",
         "address": {
             "address_locality": "1 bd de la Reine",
             "postal_code": "78000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Jean-Claude Leclerc",
+        "address": {
+            "address_locality": "12 rue St-Adjutor",
+            "postal_code": "63000"
         },
         "stars": "1"
     },
@@ -2286,14 +2646,6 @@
             "postal_code": "38200"
         },
         "stars": "2"
-    },
-    {
-        "title": "Restaurant des Rois",
-        "address": {
-            "address_locality": "5 Boulevard du Maréchal Leclerc",
-            "postal_code": "06310"
-        },
-        "stars": "1"
     },
     {
         "title": "L'Archeste",
@@ -2324,14 +2676,6 @@
         "address": {
             "address_locality": "28 bd René-Aimé-Lagabrielle",
             "postal_code": "60540"
-        },
-        "stars": "1"
-    },
-    {
-        "title": "Le Saint-James",
-        "address": {
-            "address_locality": "3 pl. Camille-Hostein",
-            "postal_code": "33270"
         },
         "stars": "1"
     },
@@ -2392,6 +2736,14 @@
         "stars": "1"
     },
     {
+        "title": "Penati al Baretto",
+        "address": {
+            "address_locality": "9 rue Balzac",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Rackham",
         "address": {
             "address_locality": "27 pl. Lacaze Duthiers rčs de l'église",
@@ -2414,6 +2766,14 @@
             "postal_code": "59590"
         },
         "stars": "1"
+    },
+    {
+        "title": "Le Grand Véfour",
+        "address": {
+            "address_locality": "17 rue de Beaujolais",
+            "postal_code": "75001"
+        },
+        "stars": "2"
     },
     {
         "title": "Le Musigny",
@@ -2440,10 +2800,50 @@
         "stars": "1"
     },
     {
-        "title": "Château Cordeillan-Bages",
+        "title": "Le Bec au Cauchois",
         "address": {
-            "address_locality": "Route des châteaux",
-            "postal_code": "33250"
+            "address_locality": "22 Rue André Fiquet",
+            "postal_code": "76540"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Vague d'Or",
+        "address": {
+            "address_locality": "Plage de Bouillabaisse",
+            "postal_code": "83990"
+        },
+        "stars": "3"
+    },
+    {
+        "title": "Le Clair de la Plume",
+        "address": {
+            "address_locality": "2 Place du Mail",
+            "postal_code": "26230"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Matelote",
+        "address": {
+            "address_locality": "80 Boulevard Ste Beuve",
+            "postal_code": "62200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "L'Atelier du Peintre",
+        "address": {
+            "address_locality": "1 Rue Schongauer",
+            "postal_code": "68000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Prieuré",
+        "address": {
+            "address_locality": "7, place du Chapitre",
+            "postal_code": "30400"
         },
         "stars": "1"
     },
@@ -2472,6 +2872,30 @@
         "stars": "1"
     },
     {
+        "title": "Meurin",
+        "address": {
+            "address_locality": "Rue de Lillers",
+            "postal_code": "62350"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Les Loges",
+        "address": {
+            "address_locality": "6 r. du Boeuf",
+            "postal_code": "69005"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Maximilien",
+        "address": {
+            "address_locality": "19a rte Ostheim",
+            "postal_code": "68340"
+        },
+        "stars": "1"
+    },
+    {
         "title": "114, Faubourg",
         "address": {
             "address_locality": "114 r. Fg St-Honoré",
@@ -2488,10 +2912,26 @@
         "stars": "1"
     },
     {
+        "title": "Le Lido",
+        "address": {
+            "address_locality": "42 av. Napoléon-III",
+            "postal_code": "20110"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Auberge du Pont d'Acigné",
         "address": {
             "address_locality": "D392",
             "postal_code": "35530"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Table du Gourmet",
+        "address": {
+            "address_locality": "5 rue 1ère Armée",
+            "postal_code": "68340"
         },
         "stars": "1"
     },
@@ -2592,12 +3032,28 @@
         "stars": "1"
     },
     {
+        "title": "Copenhague",
+        "address": {
+            "address_locality": "142 AVENUE DES CHAMPS ELYSEES",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Vieux Logis",
         "address": {
             "address_locality": "Le Bourg",
             "postal_code": "24510"
         },
         "stars": "1"
+    },
+    {
+        "title": "Le 1947",
+        "address": {
+            "address_locality": "Cheval Blanc Courchevel - Le Jardin Alpin",
+            "postal_code": "73120"
+        },
+        "stars": "3"
     },
     {
         "title": "La Table de Manville",
@@ -2680,18 +3136,18 @@
         "stars": "1"
     },
     {
-        "title": "La Ferme de l'Hospital",
-        "address": {
-            "address_locality": "rte du golf",
-            "postal_code": "74160"
-        },
-        "stars": "1"
-    },
-    {
         "title": "La Réserve Rimbaud",
         "address": {
             "address_locality": "820 Avenue de Saint-Maur",
             "postal_code": "34000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Ferme de l'Hospital",
+        "address": {
+            "address_locality": "rte du golf",
+            "postal_code": "74160"
         },
         "stars": "1"
     },
@@ -2728,10 +3184,50 @@
         "stars": "2"
     },
     {
+        "title": "Apicius",
+        "address": {
+            "address_locality": "20 r. d'Artois",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
         "title": "I Salti",
         "address": {
             "address_locality": "route du Reginu",
             "postal_code": "20226"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Maison des Bois - Marc Veyrat",
+        "address": {
+            "address_locality": "Chemin Rural de Manigod au Col de la Croix Fry",
+            "postal_code": "74230"
+        },
+        "stars": "3"
+    },
+    {
+        "title": "Flaveurs",
+        "address": {
+            "address_locality": "32 Grande-Rue",
+            "postal_code": "26000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Stéphane Carbone",
+        "address": {
+            "address_locality": "14 r. de Courtonne",
+            "postal_code": "14000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Beaulieu",
+        "address": {
+            "address_locality": "34 Bis Place République",
+            "postal_code": "72000"
         },
         "stars": "1"
     },
@@ -2824,18 +3320,34 @@
         "stars": "1"
     },
     {
-        "title": "La Chassagnette",
-        "address": {
-            "address_locality": "route du Sambuc",
-            "postal_code": "13200"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Qui plume la Lune",
         "address": {
             "address_locality": "50 r. Amelot",
             "postal_code": "75011"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Restaurant des Rois",
+        "address": {
+            "address_locality": "5 Boulevard du Maréchal Leclerc",
+            "postal_code": "06310"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Passe Temps",
+        "address": {
+            "address_locality": "52 Rue Tronchet",
+            "postal_code": "69006"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Likoké",
+        "address": {
+            "address_locality": "7 rte de Païolive",
+            "postal_code": "07140"
         },
         "stars": "1"
     },
@@ -2868,6 +3380,14 @@
         "address": {
             "address_locality": "rte de Port-Vendres",
             "postal_code": "66190"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Prairial",
+        "address": {
+            "address_locality": "11 Rue Chavanne",
+            "postal_code": "69001"
         },
         "stars": "1"
     },
@@ -2925,7 +3445,7 @@
             "address_locality": "4 r. Beethoven",
             "postal_code": "75016"
         },
-        "stars": ""
+        "stars": "3"
     },
     {
         "title": "Serge Vieira",
@@ -2940,6 +3460,30 @@
         "address": {
             "address_locality": "35 av. Gén. -de-Gaulle",
             "postal_code": "68170"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Table Saint-Crescent",
+        "address": {
+            "address_locality": "route de Perpignan",
+            "postal_code": "11100"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Chabichou",
+        "address": {
+            "address_locality": "90 Route des Chenus",
+            "postal_code": "73120"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Les Climats",
+        "address": {
+            "address_locality": "41 rue de Lille",
+            "postal_code": "75007"
         },
         "stars": "1"
     },
@@ -3005,7 +3549,39 @@
             "address_locality": "20 quai Gailleton",
             "postal_code": "69002"
         },
-        "stars": ""
+        "stars": "1"
+    },
+    {
+        "title": "Guy Lassausaie",
+        "address": {
+            "address_locality": "r. de Belle-Sise",
+            "postal_code": "69380"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "Le George",
+        "address": {
+            "address_locality": "31 Avenue George V",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Restaurant de Lauzun",
+        "address": {
+            "address_locality": "3 bd de l'Esplanade",
+            "postal_code": "34150"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Puits St-Jacques",
+        "address": {
+            "address_locality": "av. Victor-Capoul",
+            "postal_code": "32600"
+        },
+        "stars": "2"
     },
     {
         "title": "La Table d'Olivier",
@@ -3088,6 +3664,14 @@
         "stars": "1"
     },
     {
+        "title": "La Table des Blot - Auberge du Château",
+        "address": {
+            "address_locality": "1 Grande-Rue",
+            "postal_code": "78720"
+        },
+        "stars": "1"
+    },
+    {
         "title": "La Petite Maison de Cucuron",
         "address": {
             "address_locality": "pl. de l'Étang",
@@ -3140,6 +3724,14 @@
         "address": {
             "address_locality": "",
             "postal_code": "83400"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Umami",
+        "address": {
+            "address_locality": "8 r. des Dentelles",
+            "postal_code": "67000"
         },
         "stars": "1"
     },
@@ -3232,18 +3824,18 @@
         "stars": "1"
     },
     {
-        "title": "Pertica",
-        "address": {
-            "address_locality": "15 pl. de la République",
-            "postal_code": "41100"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Cayola",
         "address": {
             "address_locality": "76 promenade de Cayola",
             "postal_code": "85180"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Pertica",
+        "address": {
+            "address_locality": "15 pl. de la République",
+            "postal_code": "41100"
         },
         "stars": "1"
     },
@@ -3336,6 +3928,14 @@
         "stars": "1"
     },
     {
+        "title": "Le Camélia",
+        "address": {
+            "address_locality": "7 quai Georges Clemenceau",
+            "postal_code": "78380"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Le Village",
         "address": {
             "address_locality": "3 Grande-Rue",
@@ -3349,7 +3949,7 @@
             "address_locality": "18 r. Eugène-Sue",
             "postal_code": "75018"
         },
-        "stars": ""
+        "stars": "1"
     },
     {
         "title": "Le Bon Accueil",
@@ -3436,6 +4036,30 @@
         "address": {
             "address_locality": "",
             "postal_code": "12390"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Belvédère",
+        "address": {
+            "address_locality": "11 rte du Maquis-Jean-Pierre",
+            "postal_code": "12340"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "David Toutain",
+        "address": {
+            "address_locality": "29 r. Surcouf",
+            "postal_code": "75007"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "L'Atlantide 1874 - Maison Guého",
+        "address": {
+            "address_locality": "5 r. de l'Hermitage",
+            "postal_code": "44100"
         },
         "stars": "1"
     },
@@ -3552,18 +4176,26 @@
         "stars": "1"
     },
     {
-        "title": "La Roya",
+        "title": "La Ville Blanche",
         "address": {
-            "address_locality": "plage de la Roya",
-            "postal_code": "20217"
+            "address_locality": "La Ville Blanche",
+            "postal_code": "22300"
         },
         "stars": "1"
     },
     {
-        "title": "Le Prieuré",
+        "title": "Lou Cigalon-Maison Martin",
         "address": {
-            "address_locality": "7 pl. du Chapitre",
-            "postal_code": "30400"
+            "address_locality": "6 bd Carnot",
+            "postal_code": "06560"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Roya",
+        "address": {
+            "address_locality": "plage de la Roya",
+            "postal_code": "20217"
         },
         "stars": "1"
     },
@@ -3664,18 +4296,26 @@
         "stars": "1"
     },
     {
-        "title": "L'Alchémille",
-        "address": {
-            "address_locality": "53 rte de Lapoutroie",
-            "postal_code": "68240"
-        },
-        "stars": "1"
-    },
-    {
         "title": "Le Sérac",
         "address": {
             "address_locality": "22 r. de la Comtesse",
             "postal_code": "74170"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Au 14 Février",
+        "address": {
+            "address_locality": "Le Plâtre-Durand",
+            "postal_code": "71570"
+        },
+        "stars": "2"
+    },
+    {
+        "title": "L'Alchémille",
+        "address": {
+            "address_locality": "53 rte de Lapoutroie",
+            "postal_code": "68240"
         },
         "stars": "1"
     },
@@ -3696,12 +4336,68 @@
         "stars": "1"
     },
     {
-        "title": "Le Neuvième Art",
+        "title": "Yam'Tcha",
         "address": {
-            "address_locality": "173 r. Cuvier",
-            "postal_code": "69006"
+            "address_locality": "121 r. St-Honoré",
+            "postal_code": "75001"
         },
-        "stars": "2"
+        "stars": "1"
+    },
+    {
+        "title": "La Bonne Auberge",
+        "address": {
+            "address_locality": "15 r. Nationale",
+            "postal_code": "57350"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Henri et Joseph",
+        "address": {
+            "address_locality": "4 r. Léo-le-Bourgo",
+            "postal_code": "56100"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Les Pyrénées",
+        "address": {
+            "address_locality": "19 pl. Ch.-de-Gaulle",
+            "postal_code": "64220"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Saturne",
+        "address": {
+            "address_locality": "17 r. N.-D.-des-Victoires",
+            "postal_code": "75002"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Gaya Rive Gauche par Pierre Gagnaire",
+        "address": {
+            "address_locality": "44 r. du Bac",
+            "postal_code": "75007"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Château de la Treyne",
+        "address": {
+            "address_locality": "",
+            "postal_code": "46200"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Intuition",
+        "address": {
+            "address_locality": "1 r. Alsace-Lorraine",
+            "postal_code": "50000"
+        },
+        "stars": "1"
     },
     {
         "title": "Gavroche",
@@ -3710,6 +4406,14 @@
             "postal_code": "67000"
         },
         "stars": "1"
+    },
+    {
+        "title": "Le Neuvième Art",
+        "address": {
+            "address_locality": "173 r. Cuvier",
+            "postal_code": "69006"
+        },
+        "stars": "2"
     },
     {
         "title": "Les Tables de Gaspard",
@@ -3824,10 +4528,34 @@
         "stars": "1"
     },
     {
+        "title": "Château de Codignat",
+        "address": {
+            "address_locality": "Bort l'Etang",
+            "postal_code": "63190"
+        },
+        "stars": "1"
+    },
+    {
         "title": "L'Aromate",
         "address": {
             "address_locality": "2 r. Gustave Deloye",
             "postal_code": "06000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Les Genêts",
+        "address": {
+            "address_locality": "21 bis Rue de l'Océan",
+            "postal_code": "85470"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le St-Martin",
+        "address": {
+            "address_locality": "1 r. du Gén.-Leclerc",
+            "postal_code": "25200"
         },
         "stars": "1"
     },
@@ -3844,6 +4572,14 @@
         "address": {
             "address_locality": "rte de Bellecôte",
             "postal_code": "73120"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Pages",
+        "address": {
+            "address_locality": "4 r. Auguste-Vacquerie",
+            "postal_code": "75016"
         },
         "stars": "1"
     },
@@ -3902,6 +4638,22 @@
             "postal_code": "38080"
         },
         "stars": "1"
+    },
+    {
+        "title": "Le Clos St-Pierre",
+        "address": {
+            "address_locality": "pl. de la Mairie",
+            "postal_code": "06650"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Pousse-Pied",
+        "address": {
+            "address_locality": "84 bd des Vendéens",
+            "postal_code": "85360"
+        },
+        "stars": "120"
     },
     {
         "title": "Garopapilles",
@@ -3968,6 +4720,38 @@
         "stars": "1"
     },
     {
+        "title": "Palégrié",
+        "address": {
+            "address_locality": "Les Ritons",
+            "postal_code": "38250"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Table by La Villa",
+        "address": {
+            "address_locality": "chemin de Notre-Dame-de-la-Serra",
+            "postal_code": "20260"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Pertinence",
+        "address": {
+            "address_locality": "29 r. de l'Exposition",
+            "postal_code": "75007"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Chateaubriand",
+        "address": {
+            "address_locality": "129 av. Parmentier",
+            "postal_code": "75011"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Jérôme Feck",
         "address": {
             "address_locality": "19 pl. Mgr-Tissier",
@@ -3996,6 +4780,38 @@
         "address": {
             "address_locality": "1 av. Louis-Gaume",
             "postal_code": "33260"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Akrame",
+        "address": {
+            "address_locality": "7 r. Tronchet",
+            "postal_code": "75008"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Le Grand Cap",
+        "address": {
+            "address_locality": "chemin du Phare",
+            "postal_code": "11370"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Restaurant H",
+        "address": {
+            "address_locality": "13 r. Jean-Beausire",
+            "postal_code": "75004"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Sushi B",
+        "address": {
+            "address_locality": "5 r. Rameau",
+            "postal_code": "75002"
         },
         "stars": "1"
     },
@@ -4032,11 +4848,59 @@
         "stars": "1"
     },
     {
+        "title": "L'Auberge de Bagatelle",
+        "address": {
+            "address_locality": "489 av. Bollée",
+            "postal_code": "72000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Ima",
+        "address": {
+            "address_locality": "20 bd de la Tour-d'Auvergne",
+            "postal_code": "35000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "Comice",
+        "address": {
+            "address_locality": "31 av. de Versailles",
+            "postal_code": "75016"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Table d'Hôtes - Le Quatrième Mur",
+        "address": {
+            "address_locality": "2 pl. de la Comédie",
+            "postal_code": "33000"
+        },
+        "stars": "1"
+    },
+    {
+        "title": "La Table de la Ferme",
+        "address": {
+            "address_locality": "Vallée de l'Ortolo",
+            "postal_code": "20100"
+        },
+        "stars": "1"
+    },
+    {
         "title": "Jean Sulpice",
         "address": {
             "address_locality": "303 rte du Port",
             "postal_code": "74290"
         },
         "stars": "2"
+    },
+    {
+        "title": "Quinsou",
+        "address": {
+            "address_locality": "33 r. de l'Abbé-Grégoire",
+            "postal_code": "75006"
+        },
+        "stars": "1"
     }
 ]

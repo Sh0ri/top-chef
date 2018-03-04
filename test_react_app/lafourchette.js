@@ -178,7 +178,7 @@ function store_restaurants_on_lafourchette(restaurants_lafourchette)
 		fs.writeFile('restaurants_on_lafourchette.json', JSON.stringify(restaurants_lafourchette, null, 4), function(err){
 			console.log('File successfully written! - Check your project directory for the output.json file');
 		})
-		resolve("done");
+		resolve(restaurants_lafourchette);
 	});
 }
 
@@ -188,7 +188,7 @@ function store_restaurants_with_offers(restaurants_with_offers)
 		fs.writeFile('restaurants_with_offers.json', JSON.stringify(restaurants_with_offers, null, 4), function(err){
 			console.log('File successfully written! - Check your project directory for the output.json file');
 		})
-		resolve("done");
+		resolve(restaurants_with_offers);
 	});
 }
 

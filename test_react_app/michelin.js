@@ -31,7 +31,7 @@ async function scrape_michelin(){
 	console.log("writing restaurants");
 	const result = await write_restaurants(restaurants);
 	console.log(result);
-
+	return result;
 }
 
 function generate_urls(){
@@ -143,7 +143,7 @@ function write_restaurants(restaurants)
 		fs.writeFile('restaurants_michelin.json', JSON.stringify(restaurants, null, 4), function(err){
 			console.log('File successfully written! - Check your project directory for the output.json file');
 		})
-		resolve("done");
+		resolve(restaurants);
 	});
 
 }
