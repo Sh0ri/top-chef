@@ -78,9 +78,15 @@ class App extends Component {
 
   UpdateData(element){
     this.setState({restaurants_with_promos : []});
-    fetch(API + 'update/' + element)
-    .then(response => response.json())
-    .then(data => this.setState({ restaurants_with_promos: data }));
+    if(element !== 'offers'){
+      fetch(API + 'update/' + element)
+      .then(test => this.UpdateData('offers'));
+    }
+    else{
+      fetch(API + 'update/' + element)
+      .then(response => response.json())
+      .then(data => this.setState({ restaurants_with_promos:  data }));
+    }
   }
 
   UpdateAll(){
@@ -110,8 +116,12 @@ class App extends Component {
         <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
         </button>
         <br/>
+        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('michelin')}}>Update Michelin</button>
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('offers')}}>Update Offers</button>
-        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateAll()}}>Update All</button>
+        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('michelin_restaurants_in_lafourchette')}}>Update Restaurants in Lafourchette</button>
+        <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('restaurants_with_promos')}}>Update Restaurants with Offers</button>
+        <br/>
+        <button type="button" class="btn btn-success" onClick={()=>{this.UpdateAll()}}>Update All</button>
         </div>
 
         <div class="list-group" id="root" className= "App">
@@ -121,6 +131,7 @@ class App extends Component {
           <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action" href={restaurant_with_promos.restaurant.restaurant_url}>
           <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
           <h1>{restaurant_with_promos.restaurant.title}</h1>
+          <h3>{restaurant_with_promos.restaurant.chef}</h3>
           <label>{restaurant_with_promos.restaurant.description}</label>
           <div id="liste de promos">
           {restaurant_with_promos.promos.map(promo =>

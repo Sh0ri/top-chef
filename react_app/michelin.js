@@ -114,8 +114,8 @@ function scrape_page(url)
 			if(!error){
 				var $ = cheerio.load(html);
 
-				var title, adress, postcode, city, stars, description;
-				var restaurant = { title : "", address : { address_locality : "", postal_code : ""}, stars : "", description : "" };
+				var title, adress, postcode, city, stars, description, chef;
+				var restaurant = { title : "", address : { address_locality : "", postal_code : ""}, stars : "", description : "", chef : "" };
 
 				title = $('.poi_intro-display-title').first().text();
 				address_locality = $('.thoroughfare').first().text();
@@ -123,13 +123,21 @@ function scrape_page(url)
 				city = $('.locality').first().text();
 				stars = $('.michelin-poi-distinctions-list').children('li').children('.content-wrapper').text().replace(/[^0-9]/g,'');
 				description = $('.poi_intro-display-cuisines').first().text();
+				
+				chef = $('.node_poi-chef').children('.node_poi_description').children().first().children('.field__items').children().first().text();
+				if(chef === '')
+				{
+					chef = $('.node_poi-chef').children('.node_poi_description').children('.field.field--name-field-chef.field--type-text.field--label-above').first().children('.field__items').children('.field__item.even').text();
+				}
 
 				restaurant.title = title.substring(7,title.length -4);
 				restaurant.address.address_locality = address_locality;
 				restaurant.address.postal_code = postcode;
 				restaurant.stars = stars;
 				restaurant.description = description;
-
+				restaurant.chef = chef;
+				console.log("////////////////////////////////CHEF///////////////////////////");
+				console.log(restaurant.chef);
 				resolve(restaurant);
 			}
 			else{

@@ -8,7 +8,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Agape/1923#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Yoshitaka Takayanagi"
     },
     {
         "id": "4988",
@@ -19,7 +20,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Jardin des Remparts/4988#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Christophe Bocquillon"
     },
     {
         "id": "26112",
@@ -30,7 +32,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 39V Paris - Frederic Vardon/26112#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique    ",
+        "chef": "Frédéric Vardon"
     },
     {
         "id": "74933",
@@ -41,7 +44,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clarence/74933#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Christophe Pelé"
     },
     {
         "id": "5603",
@@ -52,7 +56,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/JY'S/5603#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Jean-Yves Schillinger"
     },
     {
         "id": "21741",
@@ -63,7 +68,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant du Palais Royal/21741#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Philip Chronopoulos"
     },
     {
         "id": "5355",
@@ -74,7 +80,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Pont de Collonges - Paul Bocuse/5355#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Lyonnais; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Lyonnais; Végétarien; Végétalien    ",
+        "chef": "Paul BOCUSE"
     },
     {
         "id": "2728",
@@ -85,7 +92,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Orangerie du Chateau/2728#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Jean-Marc Molveaux"
     },
     {
         "id": "38822",
@@ -96,7 +104,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Paloma/38822#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Nicolas DECHERCHI"
     },
     {
         "id": "4977",
@@ -107,7 +116,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-James - Nicolas Magie/4977#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien    ",
+        "chef": "Nicolas Magie"
     },
     {
         "id": "6794",
@@ -118,7 +128,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Mere Brazier - Mathieu Viannay/6794#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Mathieu Viannay"
     },
     {
         "id": "205737",
@@ -129,7 +140,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Violon d'Ingres - Christian Constant/205737#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    ",
+        "chef": "Christian Constant"
     },
     {
         "id": "75533",
@@ -140,7 +152,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Tour des Vents/75533#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Damien Fagette"
     },
     {
         "id": "25901",
@@ -151,7 +164,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de l'Abbaye de la Celle/25901#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Provençal; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Provençal; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Nicolas Pierantoni"
     },
     {
         "id": "7133",
@@ -162,7 +176,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin du Roc/7133#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Cuisine Moderne, Créative    ",
+        "chef": "Alain Gardillou"
     },
     {
         "id": "3997",
@@ -173,7 +188,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Tetedoie - Christian Tetedoie/3997#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Christian Têtedoie"
     },
     {
         "id": "11050",
@@ -184,7 +200,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Cloitre/11050#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Provençal; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Provençal; Gastronomique    ",
+        "chef": "Jerome Roy"
     },
     {
         "id": "566",
@@ -195,7 +212,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Almandin/566#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Christophe Schmitt"
     },
     {
         "id": "3303",
@@ -206,7 +224,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais Bernard Loiseau/3303#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    ",
+        "chef": "Patrick Bertron"
     },
     {
         "id": "28453",
@@ -217,7 +236,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1217/28453#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Jean-Alexandre OUARATTA"
     },
     {
         "id": "3806",
@@ -228,7 +248,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Assiette Champenoise/3806#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Arnaud Lallement"
     },
     {
         "id": "57531",
@@ -239,7 +260,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Bastide de Moustiers/57531#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Provençal; Végétarien; Végétalien    "
+        "description": "\n      Provençal; Végétarien; Végétalien    ",
+        "chef": "Frédéric Garnier"
     },
     {
         "id": "416",
@@ -250,7 +272,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie Berard & spa/416#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    ",
+        "chef": "Jean-François Bérard"
     },
     {
         "id": "26601",
@@ -261,7 +284,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Numero 3/26601#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Laurent Trochain"
     },
     {
         "id": "2828",
@@ -272,7 +296,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chiberta - Stephane Laruelle - Guy Savoy/2828#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Stéphane Laruelle"
     },
     {
         "id": "9350",
@@ -283,7 +308,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Petit Nice Passedat - Gerald Passedat/9350#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Gérald Passédat"
     },
     {
         "id": "26494",
@@ -294,7 +320,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant La Barbacane/26494#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "RYON Jérôme"
     },
     {
         "id": "294745",
@@ -305,7 +332,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Fanal - Pascal Borrell/294745#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    ",
+        "chef": "Pascal Borrell"
     },
     {
         "id": "69375",
@@ -316,7 +344,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Trou Gascon - Alain Dutournier/69375#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisines du Sud-Ouest; Cuisine Moderne, Créative    "
+        "description": "\n      Cuisines du Sud-Ouest; Cuisine Moderne, Créative    ",
+        "chef": "Hugo MARTIN"
     },
     {
         "id": "69372",
@@ -327,7 +356,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Carre des Feuillants - Alain Dutournier/69372#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Alain Dutournier"
     },
     {
         "id": "310829",
@@ -338,7 +368,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Dominique Bouchet/310829#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Dominique Bouchet"
     },
     {
         "id": "3157",
@@ -349,7 +380,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Gill \"Relais & Chateaux\"/3157#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Gastronomique    ",
+        "chef": "Gilles Tournadre"
     },
     {
         "id": "5109",
@@ -360,7 +392,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Magasin aux Vivres/5109#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Christophe Dufossé"
     },
     {
         "id": "205419",
@@ -371,7 +404,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Dame de Pic - Anne-Sophie PIC - Paris/205419#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Anne-Sophie Pic"
     },
     {
         "id": "18188",
@@ -382,7 +416,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pressoir/18188#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Vincent David"
     },
     {
         "id": "8601",
@@ -393,7 +428,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Il Carpaccio - Hotel Royal Monceau/8601#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Italien; Végétarien; Végétalien    "
+        "description": "\n      Italien; Végétarien; Végétalien    ",
+        "chef": ""
     },
     {
         "id": "3018",
@@ -404,7 +440,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine d'Auriac/3018#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Philippe Deschamps"
     },
     {
         "id": "687",
@@ -415,7 +452,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oustau de Baumaniere - Jean Andre Charial/687#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    ",
+        "chef": "Jean-André Charial"
     },
     {
         "id": "16314",
@@ -426,7 +464,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Fresques - Chateau des Vigiers/16314#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Didier Casaguana"
     },
     {
         "id": "78533",
@@ -437,7 +476,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Quincangrogne/78533#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Franck Charpentier"
     },
     {
         "id": "2934",
@@ -448,7 +488,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Bon Laboureur/2934#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien    ",
+        "chef": "Antoine Jeudi"
     },
     {
         "id": "6448",
@@ -459,7 +500,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Bacchanales - Christophe Dufau/6448#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Christophe Dufau"
     },
     {
         "id": "201032",
@@ -470,7 +512,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1920/201032#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Julien Gatillon"
     },
     {
         "id": "5619",
@@ -481,7 +524,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Stephane Derbord/5619#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Stéphane Derbord"
     },
     {
         "id": "2714",
@@ -492,7 +536,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Templiers/2714#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Yoshihiko MIURA"
     },
     {
         "id": "2876",
@@ -503,7 +548,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais de la Poste/2876#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    ",
+        "chef": "Stephan Bernhard"
     },
     {
         "id": "26460",
@@ -514,7 +560,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ivan Vautier/26460#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Ivan Vautier"
     },
     {
         "id": "21632",
@@ -525,7 +572,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Essentiel/21632#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Traditionnel, Classique    ",
+        "chef": "Mi-Ra et Charles Thuillant"
     },
     {
         "id": "324443",
@@ -536,7 +584,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Clovis/324443#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Clovis Khoury"
     },
     {
         "id": "200546",
@@ -547,7 +596,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Sylvestre - Hotel Thoumieux/200546#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Sylvestre Wahid"
     },
     {
         "id": "378",
@@ -558,7 +608,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ithurria/378#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Basque    "
+        "description": "\n      Traditionnel, Classique; Basque    ",
+        "chef": "Xavier Isabal"
     },
     {
         "id": "26352",
@@ -569,7 +620,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Moulin de l'Abbaye/26352#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien    ",
+        "chef": "LECOIN LOIC"
     },
     {
         "id": "16363",
@@ -580,7 +632,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chez Michele/16363#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Bruno Poiré"
     },
     {
         "id": "26201",
@@ -591,7 +644,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Auguste - Gael Orieux/26201#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Gaël Orieux"
     },
     {
         "id": "5305",
@@ -602,7 +656,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Basque/5305#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Cédric Béchade"
     },
     {
         "id": "953",
@@ -613,7 +668,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Bonne Etape/953#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Provençal; Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Provençal; Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Jany Gleize"
     },
     {
         "id": "7872",
@@ -624,7 +680,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon des Boulevards - Denis Franc/7872#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Thomas Morel"
     },
     {
         "id": "16982",
@@ -635,7 +692,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Courban & Spa/16982#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    ",
+        "chef": "Takashi Kinoshita"
     },
     {
         "id": "277471",
@@ -646,7 +704,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alain Llorca/277471#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Provençal; Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Provençal; Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "LLORCA ALAIN"
     },
     {
         "id": "3931",
@@ -657,7 +716,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant William Frachot/3931#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "William Frachot"
     },
     {
         "id": "4727",
@@ -668,7 +728,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pergolese - Stephane Gaborieau/4727#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Stéphane Gaborieau"
     },
     {
         "id": "25",
@@ -679,7 +740,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau rive Gauche/25#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Bourguignon    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Bourguignon    ",
+        "chef": "Maxime Laurenson"
     },
     {
         "id": "3304",
@@ -690,7 +752,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Vignes/3304#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Cuisine Régionale Française; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Cuisine Régionale Française; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Haddouche Mourad"
     },
     {
         "id": "12900",
@@ -701,7 +764,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Pierre Orsi/12900#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Pierre Orsi"
     },
     {
         "id": "27058",
@@ -712,7 +776,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Initial/27058#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Normand; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Normand; Végétarien; Végétalien    ",
+        "chef": "Yohann Lemonnier"
     },
     {
         "id": "32584",
@@ -723,7 +788,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Pomme/32584#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "William Boquelet"
     },
     {
         "id": "206163",
@@ -734,7 +800,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Julien Binz/206163#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    ",
+        "chef": "Le Chef Julien Binz"
     },
     {
         "id": "5632",
@@ -745,7 +812,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Licorne Royale/5632#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Christophe POIRIER"
     },
     {
         "id": "22878",
@@ -756,7 +824,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine de Clairefontaine/22878#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Philippe Girardon"
     },
     {
         "id": "324473",
@@ -767,7 +836,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Faventia/324473#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Philippe Jourdin"
     },
     {
         "id": "9228",
@@ -778,7 +848,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Baudelaire - Hotel Le Burgundy Paris/9228#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Guillaume Goupil"
     },
     {
         "id": "7130",
@@ -789,7 +860,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clos des Sens/7130#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Laurent Petit"
     },
     {
         "id": "301377",
@@ -800,7 +872,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chantecler - Hotel Negresco/301377#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Jean-Denis Rieubland"
     },
     {
         "id": "25896",
@@ -811,7 +884,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Benoit - Alain Ducasse/25896#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique    "
+        "description": "\n      Traditionnel, Classique    ",
+        "chef": "Fabienne Eymard"
     },
     {
         "id": "15068",
@@ -822,7 +896,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Vieux Couvent - Alexis Albrecht/15068#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Alexis Albrecht"
     },
     {
         "id": "10332",
@@ -833,7 +908,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Refuge des Gourmets/10332#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen    ",
+        "chef": "Jean-Marie et Hubert Chanove"
     },
     {
         "id": "73740",
@@ -844,7 +920,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Rotonde - Domaine le Lyon Vert/73740#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    ",
+        "chef": "Jean-François MALLE"
     },
     {
         "id": "682",
@@ -855,7 +932,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Oasis - Stephane Raimbault/682#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Stéphane, Antoine et François Raimbault"
     },
     {
         "id": "5623",
@@ -866,7 +944,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Corot - Hotel Les Etangs de Corot/5623#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique    "
+        "description": "\n      Traditionnel, Classique; Gastronomique    ",
+        "chef": "Rémi Chambard"
     },
     {
         "id": "132",
@@ -877,7 +956,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Relais des Moines/132#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Sébastien Sanjou"
     },
     {
         "id": "26469",
@@ -888,7 +968,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Cyril Attrazic - Chez Camillou/26469#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "ATTRAZIC Cyril"
     },
     {
         "id": "62590",
@@ -899,7 +980,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pont de l'Ouysse/62590#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    ",
+        "chef": "Daniel et Stéphane Chambon"
     },
     {
         "id": "2819",
@@ -910,7 +992,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Hautes Roches/2819#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Didier Edon"
     },
     {
         "id": "51875",
@@ -921,7 +1004,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge Tiegezh/51875#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Baptiste Denieul"
     },
     {
         "id": "5935",
@@ -932,7 +1016,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Grand Cerf/5935#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Dominique Giraudeau et Pascal Champion"
     },
     {
         "id": "122",
@@ -943,7 +1028,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grande Cascade - Frederic Robert/122#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Frédéric Robert"
     },
     {
         "id": "8685",
@@ -954,7 +1040,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Archange/8685#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Bruno Oger"
     },
     {
         "id": "9759",
@@ -965,7 +1052,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Carrousel/9759#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Olivier Said"
     },
     {
         "id": "2788",
@@ -976,7 +1064,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Villa Madie - Dimitri Droisneau/2788#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Méditerranéen    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Méditerranéen    ",
+        "chef": "Dimitri Droisneau"
     },
     {
         "id": "60777",
@@ -987,7 +1076,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    ",
+        "chef": "Le chef Johan THYRIOT"
     },
     {
         "id": "5649",
@@ -998,7 +1088,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grand'Vigne - Hotel Les Sources de Caudalie/5649#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    ",
+        "chef": "Nicolas Masse"
     },
     {
         "id": "2971",
@@ -1009,7 +1100,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Kieny/2971#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Jean-Marc KIENY"
     },
     {
         "id": "1009",
@@ -1020,7 +1112,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Domaine des Sequoias/1009#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Eric Jambon"
     },
     {
         "id": "23454",
@@ -1031,7 +1124,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Helen/23454#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Poissons, Fruits de Mer    "
+        "description": "\n      Poissons, Fruits de Mer    ",
+        "chef": "Sébastien Carmona Porto"
     },
     {
         "id": "2591",
@@ -1042,7 +1136,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table des Merville - Thierry Merville/2591#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien; Traditionnel, Classique    ",
+        "chef": "Thierry Merville"
     },
     {
         "id": "212971",
@@ -1053,7 +1148,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Odas/212971#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Olivier Da Silva"
     },
     {
         "id": "2310",
@@ -1064,7 +1160,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge du Cheval Blanc/2310#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Pascal Bastian"
     },
     {
         "id": "53038",
@@ -1075,7 +1172,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gabriel - La Reserve Paris/53038#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Jérôme Banctel"
     },
     {
         "id": "12792",
@@ -1086,7 +1184,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Cote Saint-Jacques/12792#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Jean-Michel Lorain"
     },
     {
         "id": "9611",
@@ -1097,7 +1196,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Radio/9611#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Végétalien    ",
+        "chef": "Wilfrid CHAPLAIN "
     },
     {
         "id": "5497",
@@ -1108,7 +1208,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene - Prince de Galles/5497#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Stéphanie Le Quellec"
     },
     {
         "id": "204609",
@@ -1119,7 +1220,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Castellaras/204609#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Provençal; Végétarien; Végétalien    "
+        "description": "\n      Provençal; Végétarien; Végétalien    ",
+        "chef": "Quentin Joplet"
     },
     {
         "id": "214579",
@@ -1130,7 +1232,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arcane/214579#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Laurent Magnin"
     },
     {
         "id": "785",
@@ -1141,7 +1244,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Lucas Carton - Julien DUMAS/785#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Julien Dumas"
     },
     {
         "id": "23255",
@@ -1152,7 +1256,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de la Tour/23255#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Renaud Darmanin"
     },
     {
         "id": "250",
@@ -1163,7 +1268,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Lasserre/250#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique    "
+        "description": "\n      Traditionnel, Classique; Gastronomique    ",
+        "chef": ""
     },
     {
         "id": "203823",
@@ -1174,7 +1280,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Passagere/203823#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Aurélien VÉQUAUD"
     },
     {
         "id": "3485",
@@ -1185,7 +1292,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Manoir de la Boulaie - Laurent Saudeau/3485#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Laurent Saudeau"
     },
     {
         "id": "8977",
@@ -1196,7 +1304,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Shang Palace - Shangri-La Hotel, Paris/8977#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Chinois; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Chinois; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Samuel Lee"
     },
     {
         "id": "23087",
@@ -1207,7 +1316,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Frederic Simonin/23087#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "FREDERIC SIMONIN"
     },
     {
         "id": "29826",
@@ -1218,7 +1328,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Loiseau des Ducs/29826#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Louis-Philippe Vigilant"
     },
     {
         "id": "38155",
@@ -1229,7 +1340,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Flaveur/38155#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Méditerranéen; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Méditerranéen; Végétarien; Végétalien    ",
+        "chef": "Gaël et Mickaël Tourteaux"
     },
     {
         "id": "6710",
@@ -1240,7 +1352,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Rosiers/6710#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Andrée et Stéphane Rosier"
     },
     {
         "id": "66992",
@@ -1251,7 +1364,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Stelsia - Le Jasmin/66992#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Végétalien; Bistrot    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisines du Sud-Ouest; Végétarien; Végétalien; Bistrot    ",
+        "chef": "Michel Vico"
     },
     {
         "id": "5727",
@@ -1262,7 +1376,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mavrommatis/5727#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Grec    "
+        "description": "\n      Grec    ",
+        "chef": "Andréas MAVROMMATIS"
     },
     {
         "id": "6986",
@@ -1273,7 +1388,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alexandre - Michel Kayser/6986#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Michel Kayser"
     },
     {
         "id": "269585",
@@ -1284,7 +1400,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Scene Theleme/269585#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française    ",
+        "chef": "Julien Roucheteau"
     },
     {
         "id": "351691",
@@ -1295,7 +1412,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Origine/351691#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Benjamin Lechevallier"
     },
     {
         "id": "287357",
@@ -1306,7 +1424,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Palme d'Or/287357#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Christian Sinicropi"
     },
     {
         "id": "6765",
@@ -1317,7 +1436,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Diligence/6765#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Michel Cudraz"
     },
     {
         "id": "8719",
@@ -1328,7 +1448,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/O Saveurs/8719#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "David Biasibetti"
     },
     {
         "id": "3521",
@@ -1339,7 +1460,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Candille - Le Mas Candille/3521#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Xavier Burelle"
     },
     {
         "id": "36039",
@@ -1350,7 +1472,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Salon d'Helene - Helene Darroze/36039#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    ",
+        "chef": "Hélène Darroze"
     },
     {
         "id": "8976",
@@ -1361,7 +1484,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Abeille - Shangri-La Hotel, Paris/8976#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Végétarien; Végétalien    ",
+        "chef": "Christophe Moret"
     },
     {
         "id": "209193",
@@ -1372,7 +1496,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ed.Em/209193#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Edouard Mignot"
     },
     {
         "id": "14529",
@@ -1383,7 +1508,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Chassagnette/14529#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Armand Arnal"
     },
     {
         "id": "2185",
@@ -1394,7 +1520,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Antoine - Thibault Sombardier/2185#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Thibault Sombardier"
     },
     {
         "id": "22504",
@@ -1405,7 +1532,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Epuisette/22504#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Guillaume SOURRIEU"
     },
     {
         "id": "405",
@@ -1416,7 +1544,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Rostang/405#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Traditionnel, Classique; Gastronomique    "
+        "description": "\n      Traditionnel, Classique; Gastronomique    ",
+        "chef": "Nicolas Beaumann"
     },
     {
         "id": "15802",
@@ -1427,7 +1556,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Cobea - Philippe Belissent/15802#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Philippe Bélissent"
     },
     {
         "id": "31008",
@@ -1438,7 +1568,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alcyone/31008#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Lionel Levy"
     },
     {
         "id": "4697",
@@ -1449,7 +1580,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Terrasses de Lyon/4697#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Cuisine Régionale Française; Gastronomique    "
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Cuisine Régionale Française; Gastronomique    ",
+        "chef": "David Delsart"
     },
     {
         "id": "38024",
@@ -1460,7 +1592,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Nouvelle Auberge/38024#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Brasserie; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Brasserie; Végétarien; Végétalien    ",
+        "chef": "Bernard Leray"
     },
     {
         "id": "4904",
@@ -1471,7 +1604,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Plaisance/4904#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Ronan Kervarrec"
     },
     {
         "id": "10382",
@@ -1482,7 +1616,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Strasbourg/10382#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Européen; Végétarien; Végétalien    ",
+        "chef": "Lutz Janisch"
     },
     {
         "id": "77626",
@@ -1493,7 +1628,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Alliance/77626#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Toshitaka Omiya"
     },
     {
         "id": "128",
@@ -1504,7 +1640,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Herve Busset/128#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "HERVE BUSSET"
     },
     {
         "id": "291337",
@@ -1515,7 +1652,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Epicure - Le Bristol Paris/291337#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Eric Frechon"
     },
     {
         "id": "3552",
@@ -1526,7 +1664,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Maison Lameloise/3552#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Eric Pras"
     },
     {
         "id": "4961",
@@ -1537,7 +1676,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ar Men Du/4961#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    ",
+        "chef": "Philippe Emanuelli"
     },
     {
         "id": "275457",
@@ -1548,7 +1688,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Emporio Armani Ristorante/275457#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": "Massimo Tringali"
     },
     {
         "id": "68308",
@@ -1559,7 +1700,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant Thierry Drapeau/68308#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "THIERRY DRAPEAU"
     },
     {
         "id": "2755",
@@ -1570,7 +1712,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge de Clochemerle - Romain Barthe/2755#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Romain Barthe"
     },
     {
         "id": "60859",
@@ -1581,7 +1724,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Nakatani/60859#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Shinsuke Nakatani"
     },
     {
         "id": "2740",
@@ -1592,7 +1736,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Manoir du Lys/2740#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Franck Quinton"
     },
     {
         "id": "44361",
@@ -1603,7 +1748,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge au Boeuf/44361#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Yannick Germain"
     },
     {
         "id": "13311",
@@ -1614,7 +1760,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mercues/13311#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Cuisines du Sud-Ouest; Végétarien; Végétalien    ",
+        "chef": "Julien Poisot"
     },
     {
         "id": "1310",
@@ -1625,7 +1772,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Phebus - Xavier Mathieu/1310#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Provençal    "
+        "description": "\n      Cuisine Moderne, Créative; Végétarien; Végétalien; Provençal    ",
+        "chef": "Mr Xavier Mathieu"
     },
     {
         "id": "387",
@@ -1636,7 +1784,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Mascaret/387#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Poissons, Fruits de Mer; Végétarien; Végétalien    ",
+        "chef": "Philippe Hardy"
     },
     {
         "id": "8933",
@@ -1647,7 +1796,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Clefs d'Argent/8933#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Christophe Dupouy"
     },
     {
         "id": "44000",
@@ -1658,7 +1808,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Logis de la Cadene/44000#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Alexandre Baumard"
     },
     {
         "id": "326081",
@@ -1669,7 +1820,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Ecrin/326081#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Christopher Hache"
     },
     {
         "id": "3131",
@@ -1680,7 +1832,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Gordon Ramsay au Trianon/3131#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "284489",
@@ -1691,7 +1844,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Archeste/284489#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Yoshiaki Ito"
     },
     {
         "id": "19211",
@@ -1702,7 +1856,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1741/19211#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Fabien Raux"
     },
     {
         "id": "27598",
@@ -1713,7 +1868,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Les Bories/27598#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "MIRER Gregory"
     },
     {
         "id": "2970",
@@ -1724,7 +1880,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Renaissance/2970#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Arnaud Viel"
     },
     {
         "id": "43399",
@@ -1735,7 +1892,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Grignotiere/43399#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Pascal Coulon"
     },
     {
         "id": "32118",
@@ -1746,7 +1904,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Musigny/32118#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Emmanuel Hernandez"
     },
     {
         "id": "713",
@@ -1757,7 +1916,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Arome/713#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "BOULLAULT THOMAS"
     },
     {
         "id": "26660",
@@ -1768,7 +1928,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Vague d'Or/26660#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien; Végétalien    ",
+        "chef": "Arnaud Donckele"
     },
     {
         "id": "18271",
@@ -1779,7 +1940,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Clair de la Plume/18271#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Provençal; Végétarien    ",
+        "chef": "Julien ALLANO, Chef de Cuisine"
     },
     {
         "id": "327881",
@@ -1790,7 +1952,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Matelote/327881#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Traditionnel, Classique; Poissons, Fruits de Mer; Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Tony Lestienne"
     },
     {
         "id": "689",
@@ -1801,7 +1964,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Prieure/689#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Marc Fontanne "
     },
     {
         "id": "221",
@@ -1812,7 +1976,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le France/221#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Hugues Droz"
     },
     {
         "id": "77613",
@@ -1823,7 +1988,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Meurin/77613#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Marc Meurin"
     },
     {
         "id": "15418",
@@ -1834,7 +2000,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Loges - Anthony Bonnet/15418#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Anthony Bonnet"
     },
     {
         "id": "23303",
@@ -1845,7 +2012,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de Nans - Auberge le Revestel/23303#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Méditerranéen; Cuisine Régionale Française; Traditionnel, Classique; Poissons, Fruits de Mer; Gastronomique; Provençal    "
+        "description": "\n      Méditerranéen; Cuisine Régionale Française; Traditionnel, Classique; Poissons, Fruits de Mer; Gastronomique; Provençal    ",
+        "chef": "Nans Gaillard"
     },
     {
         "id": "2975",
@@ -1856,7 +2024,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Gourmet/2975#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Jean-Luc Brendel"
     },
     {
         "id": "28558",
@@ -1867,7 +2036,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gourmet de Seze - Bernard Mariller/28558#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": "Bernard Mariller"
     },
     {
         "id": "291883",
@@ -1878,7 +2048,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table de l'Alpaga/291883#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Anthony Bisquerra"
     },
     {
         "id": "2579",
@@ -1889,7 +2060,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge de la Charme/2579#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Végétarien; Végétalien    ",
+        "chef": "Nicolas Isnard et David Le Comte"
     },
     {
         "id": "71542",
@@ -1900,7 +2072,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Au Crocodile/71542#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": "Franck Pelux"
     },
     {
         "id": "30379",
@@ -1911,7 +2084,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Jin/30379#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Japonais; Sushi; Poissons, Fruits de Mer    "
+        "description": "\n      Japonais; Sushi; Poissons, Fruits de Mer    ",
+        "chef": "Taku"
     },
     {
         "id": "18939",
@@ -1922,7 +2096,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Bistro des Saveurs/18939#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Bistronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Bistronomique; Végétarien; Végétalien    ",
+        "chef": "Thierry Schwartz"
     },
     {
         "id": "4294",
@@ -1933,7 +2108,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Maison dans le Parc/4294#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Françoise Mutel"
     },
     {
         "id": "25985",
@@ -1944,7 +2120,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Copenhague/25985#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Danois; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Danois; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": "Andreas Møller"
     },
     {
         "id": "6018",
@@ -1955,7 +2132,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Logis/6018#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique    "
+        "description": "\n      Traditionnel, Classique    ",
+        "chef": "ARNOULD Vincent"
     },
     {
         "id": "33786",
@@ -1966,7 +2144,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le 1947 - Cheval Blanc Courchevel/33786#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Yannick Alléno"
     },
     {
         "id": "4546",
@@ -1977,7 +2156,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Auberge des Saints Peres/4546#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Jean-Claude Cahagnet"
     },
     {
         "id": "26327",
@@ -1988,7 +2168,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Elsa - Hotel Monte-Carlo Beach/26327#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Méditerranéen; Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Paolo Sari"
     },
     {
         "id": "60418",
@@ -1999,7 +2180,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Apicius/60418#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Traditionnel, Classique; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "2998",
@@ -2010,7 +2192,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Christopher Coutanceau/2998#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Poissons, Fruits de Mer; Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "CHRISTOPHER COUTANCEAU"
     },
     {
         "id": "7135",
@@ -2021,7 +2204,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Rochers - La Villa Tri Men/7135#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Fréderic Claquin"
     },
     {
         "id": "60775",
@@ -2032,7 +2216,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du Connetable/60775#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Julien Lucas"
     },
     {
         "id": "323145",
@@ -2043,7 +2228,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Passe Temps/323145#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Younghoon Lee"
     },
     {
         "id": "58408",
@@ -2054,7 +2240,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table du 11/58408#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Jean-Baptiste Lavergne-Morazzani"
     },
     {
         "id": "75043",
@@ -2065,7 +2252,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Prairial/75043#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Gaëtan Gentil"
     },
     {
         "id": "1086",
@@ -2076,7 +2264,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vivier/1086#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "ROMAIN GANDOLPHE"
     },
     {
         "id": "3592",
@@ -2087,7 +2276,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Buerehiesel - Eric Westermann/3592#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
+        "chef": "Eric Westermann"
     },
     {
         "id": "344379",
@@ -2098,7 +2288,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Astrance/344379#ocSaleTypeList",
         "stars": "3",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Pascal Barbot"
     },
     {
         "id": "30315",
@@ -2109,7 +2300,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Climats/30315#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Julien Boscus"
     },
     {
         "id": "5487",
@@ -2120,7 +2312,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Chateau de Mirambeau/5487#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique    "
+        "description": "\n      Traditionnel, Classique    ",
+        "chef": ""
     },
     {
         "id": "15413",
@@ -2131,7 +2324,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Les Trois Domes - Christian Lherm/15413#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "73961",
@@ -2142,7 +2336,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le George - Four Seasons Hotel George V/73961#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Italien; Gastronomique; Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Simone Zanoni "
     },
     {
         "id": "269053",
@@ -2153,7 +2348,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ze Kitchen Galerie/269053#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "William Ledeuil"
     },
     {
         "id": "42187",
@@ -2164,7 +2360,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Promenade/42187#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Nicolas Thomas"
     },
     {
         "id": "3507",
@@ -2175,7 +2372,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hostellerie de Levernois : Le Gastronomique/3507#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": ""
     },
     {
         "id": "529",
@@ -2186,7 +2384,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Puits du Tresor/529#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Jean-Marc Boyer"
     },
     {
         "id": "46885",
@@ -2197,7 +2396,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Gambetta/46885#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Mickael Pihours"
     },
     {
         "id": "10889",
@@ -2208,7 +2408,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Septime/10889#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Bertrand Grébaut"
     },
     {
         "id": "11743",
@@ -2219,7 +2420,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Briketenia/11743#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Martin et David Ibarboure"
     },
     {
         "id": "31795",
@@ -2230,7 +2432,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Auberge du Vert Mont/31795#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Florent Ladeyn"
     },
     {
         "id": "61705",
@@ -2241,7 +2444,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Camelia/61705#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Thierry Conte"
     },
     {
         "id": "330375",
@@ -2252,7 +2456,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Village/330375#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Tomohiro Uido"
     },
     {
         "id": "36884",
@@ -2263,7 +2468,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Table d'Eugene/36884#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Geoffroy Maillard"
     },
     {
         "id": "44919",
@@ -2274,7 +2480,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Miraflores/44919#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Péruvien; Gastronomique; Cuisine Moderne, Créative    "
+        "description": "\n      Péruvien; Gastronomique; Cuisine Moderne, Créative    ",
+        "chef": "Carlos Camino"
     },
     {
         "id": "8628",
@@ -2285,7 +2492,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Park 45/8628#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "2889",
@@ -2296,7 +2504,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Marande/2889#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Philippe Michel"
     },
     {
         "id": "6482",
@@ -2307,7 +2516,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Vieux Pont/6482#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Nicole Fagegaltier et Bruno Rouquier"
     },
     {
         "id": "12601",
@@ -2318,7 +2528,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Hotel Restaurant Le Cerf - Michel HUSSER/12601#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Michel Husser et Joël Philipps"
     },
     {
         "id": "7876",
@@ -2329,7 +2540,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mon Plaisir/7876#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Christian Pilloud"
     },
     {
         "id": "21095",
@@ -2340,7 +2552,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Jeremy Galvan Restaurant/21095#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": ""
     },
     {
         "id": "5020",
@@ -2351,7 +2564,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/La Fourchette du Printemps - Nicolas Mouton/5020#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Nicolas Mouton"
     },
     {
         "id": "5756",
@@ -2362,7 +2576,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Palm Beach/5756#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "8838",
@@ -2373,7 +2588,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Henri et Joseph/8838#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Philippe Le Lay"
     },
     {
         "id": "8760",
@@ -2384,7 +2600,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Saturne/8760#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Sven Chartier"
     },
     {
         "id": "324425",
@@ -2395,7 +2612,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Neuvieme Art/324425#ocSaleTypeList",
         "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Christophe Roure"
     },
     {
         "id": "65607",
@@ -2406,7 +2624,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateau de Sable/65607#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "77134",
@@ -2417,7 +2636,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Mickael Feval/77134#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique; Végétarien    ",
+        "chef": ""
     },
     {
         "id": "310489",
@@ -2428,7 +2648,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Saint-Laurent/310489#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Traditionnel, Classique    "
+        "description": "\n      Traditionnel, Classique    ",
+        "chef": ""
     },
     {
         "id": "6655",
@@ -2439,7 +2660,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Bistrot Gourmand Clovis/6655#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Brasserie    "
+        "description": "\n      Cuisine Moderne, Créative; Brasserie    ",
+        "chef": "Julien Bousseau"
     },
     {
         "id": "38154",
@@ -2450,7 +2672,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/L'Aromate/38154#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Mickaël Gracieux"
     },
     {
         "id": "25701",
@@ -2461,7 +2684,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Garance/25701#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Guillaume Iskandar"
     },
     {
         "id": "276775",
@@ -2472,7 +2696,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Garopapilles/276775#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    "
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Tanguy Laviale"
     },
     {
         "id": "306505",
@@ -2483,7 +2708,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Pavillon/306505#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "317587",
@@ -2494,7 +2720,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Pertinence/317587#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    "
+        "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
+        "chef": "Kwen Liew et Ryunosuke Naito"
     },
     {
         "id": "202436",
@@ -2505,7 +2732,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Le Chateaubriand/202436#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Inaki Aizpitarte"
     },
     {
         "id": "276169",
@@ -2516,7 +2744,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Ken Kawasaki/276169#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": ""
     },
     {
         "id": "209577",
@@ -2527,7 +2756,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Restaurant H/209577#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Hubert Duchenne"
     },
     {
         "id": "272053",
@@ -2538,7 +2768,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Divellec/272053#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Poissons, Fruits de Mer    "
+        "description": "\n      Poissons, Fruits de Mer    ",
+        "chef": ""
     },
     {
         "id": "337449",
@@ -2549,7 +2780,8 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Comice/337449#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Noam Gedalof"
     },
     {
         "id": "317277",
@@ -2560,6 +2792,7 @@
         },
         "restaurant_url": "https://www.lafourchette.com/restaurant/Quinsou/317277#ocSaleTypeList",
         "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative    "
+        "description": "\n      Cuisine Moderne, Créative    ",
+        "chef": "Antonin Bonnet"
     }
 ]
