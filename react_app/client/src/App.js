@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import loading_pizza from './loading_pizza.gif';
 
 const aStyle = {
-  margin: '40px 0px 40px 200px',
+  margin: '40px 0px 40px 300px',
+  padding:'auto 10px',
   border: '5px solid'
 };
 
