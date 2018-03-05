@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import loading_pizza from './loading_pizza.gif';
 
 const aStyle = {
-  margin: '40px',
+  margin: '40px 0px 40px 200px',
   border: '5px solid'
 };
 
@@ -107,7 +107,7 @@ class App extends Component {
         <div id='root' class="row">
 
 
-        <div class="sidenav">
+        <div class="sidenav col">
         <button type="button" class="btn btn-warning" onClick={()=>{this.UpdateData('offers_only_with_offers')}}>Get restaurants with offers only</button>
         <button type="button" class="btn btn-warning" onClick={()=>{this.UpdateData('offers')}}>Get all restaurants on lafourchette</button>
 
@@ -119,20 +119,20 @@ class App extends Component {
         <button type="button" class={window.sessionStorage.getItem("current_orderer") === 'starsdsc' ? "btn btn-primary" : "btn btn-outline-primary"} onClick={()=>{this.OrderByStarDSC()}}>Order By Stars
         <span class="glyphicon glyphicon-arrow-up" aria-hidden="true"></span>
         </button>
-        <br/>
+
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('michelin')}}>Update Michelin</button>
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('offers')}}>Update Offers</button>
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('michelin_restaurants_in_lafourchette')}}>Update Restaurants in Lafourchette</button>
         <button type="button" class="btn btn-info" onClick={()=>{this.UpdateData('restaurants_with_promos')}}>Update Restaurants with Offers</button>
-        <br/>
+
         <button type="button" class="btn btn-success" onClick={()=>{this.UpdateAll()}}>Update All</button>
         </div>
 
-        <div class="list-group" id="root" className= "App">
+        <div class="list-group col-sm-6" id="root" className= "App">
         {restaurants_with_promos.map(restaurant_with_promos =>
 
           /*<!-- div with one restaurant -->*/
-          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action" href={restaurant_with_promos.restaurant.restaurant_url}>
+          <a  key={restaurant_with_promos.restaurant.id} id="resto" style={aStyle} class="list-group-item list-group-item-action col-sm-8" href={restaurant_with_promos.restaurant.restaurant_url}>
           <span class="badge badge-primary badge-pill">{restaurant_with_promos.restaurant.stars} stars</span>
           <h1>{restaurant_with_promos.restaurant.title}</h1>
           <h3>{restaurant_with_promos.restaurant.chef}</h3>
