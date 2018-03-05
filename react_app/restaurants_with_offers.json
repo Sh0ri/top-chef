@@ -36,6 +36,18 @@
         "chef": "Dominique Bouchet"
     },
     {
+        "id": "60777",
+        "title": "1912",
+        "address": {
+            "address_locality": "Trouville-sur-Mer",
+            "postal_code": "14360"
+        },
+        "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#ocSaleTypeList",
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    ",
+        "chef": "Le chef Johan THYRIOT"
+    },
+    {
         "id": "26201",
         "title": "Restaurant Auguste - Gael Orieux",
         "address": {
@@ -106,18 +118,6 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
         "chef": "Frédéric Robert"
-    },
-    {
-        "id": "60777",
-        "title": "1912",
-        "address": {
-            "address_locality": "Trouville-sur-Mer",
-            "postal_code": "14360"
-        },
-        "restaurant_url": "https://www.lafourchette.com/restaurant/1912/60777#ocSaleTypeList",
-        "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    ",
-        "chef": "Le chef Johan THYRIOT"
     },
     {
         "id": "250",

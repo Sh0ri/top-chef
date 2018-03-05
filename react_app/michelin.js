@@ -136,8 +136,6 @@ function scrape_page(url)
 				restaurant.stars = stars;
 				restaurant.description = description;
 				restaurant.chef = chef;
-				console.log("////////////////////////////////CHEF///////////////////////////");
-				console.log(restaurant.chef);
 				resolve(restaurant);
 			}
 			else{

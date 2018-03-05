@@ -70,16 +70,6 @@
         "chef": "Frédéric Vardon"
     },
     {
-        "title": "Le Clarence",
-        "address": {
-            "address_locality": "31 Avenue Franklin Delano Roosevelt",
-            "postal_code": "75008"
-        },
-        "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
-        "chef": "Christophe Pelé"
-    },
-    {
         "title": "Le Saint-Estève",
         "address": {
             "address_locality": "2250 route cézanne D17",
@@ -88,6 +78,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
         "chef": "Mathias Dandine"
+    },
+    {
+        "title": "Le Clarence",
+        "address": {
+            "address_locality": "31 Avenue Franklin Delano Roosevelt",
+            "postal_code": "75008"
+        },
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Christophe Pelé"
     },
     {
         "title": "JY'S",
@@ -230,16 +230,6 @@
         "chef": "Mathieu Viannay"
     },
     {
-        "title": "Le Violon d'Ingres",
-        "address": {
-            "address_locality": "135 Rue Saint-Dominique",
-            "postal_code": "75007"
-        },
-        "stars": "1",
-        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    ",
-        "chef": "Christian Constant"
-    },
-    {
         "title": "Les Tablettes de Jean-Louis Nomicos",
         "address": {
             "address_locality": "16 Avenue Bugeaud",
@@ -248,6 +238,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Traditionnel, Classique    ",
         "chef": "Jean-Louis Nomicos"
+    },
+    {
+        "title": "Le Violon d'Ingres",
+        "address": {
+            "address_locality": "135 Rue Saint-Dominique",
+            "postal_code": "75007"
+        },
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative    ",
+        "chef": "Christian Constant"
     },
     {
         "title": "La Tour des Vents",
@@ -498,6 +498,16 @@
         "stars": "2",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
         "chef": "Mauro Colagreco"
+    },
+    {
+        "title": "1912",
+        "address": {
+            "address_locality": "bd de la Cahotte",
+            "postal_code": "14360"
+        },
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    ",
+        "chef": "Le chef Johan THYRIOT"
     },
     {
         "title": "Gill",
@@ -850,6 +860,16 @@
         "chef": "Keishi Sugimura"
     },
     {
+        "title": "Relais de la Poste",
+        "address": {
+            "address_locality": "24 avenue de Maremne",
+            "postal_code": "40140"
+        },
+        "stars": "2",
+        "description": "\n      Traditionnel, Classique; Gastronomique    ",
+        "chef": "Jean Coussau"
+    },
+    {
         "title": "Sylvestre",
         "address": {
             "address_locality": "79 rue St-Dominique",
@@ -868,16 +888,6 @@
         "stars": "1",
         "description": "\n      Traditionnel, Classique; Basque    ",
         "chef": "Xavier Isabal"
-    },
-    {
-        "title": "Relais de la Poste",
-        "address": {
-            "address_locality": "24 avenue de Maremne",
-            "postal_code": "40140"
-        },
-        "stars": "2",
-        "description": "\n      Traditionnel, Classique; Gastronomique    ",
-        "chef": "Jean Coussau"
     },
     {
         "title": "Le Moulin de l'Abbaye",
@@ -990,6 +1000,16 @@
         "chef": "Thomas Morel"
     },
     {
+        "title": "Loiseau rive Gauche",
+        "address": {
+            "address_locality": "5 rue de Bourgogne",
+            "postal_code": "75007"
+        },
+        "stars": "1",
+        "description": "\n      Traditionnel, Classique; Gastronomique; Bourguignon    ",
+        "chef": "Maxime Laurenson"
+    },
+    {
         "title": "Château de Courban",
         "address": {
             "address_locality": "7 rue du Lavoir",
@@ -1038,16 +1058,6 @@
         "stars": "1",
         "description": "\n      Traditionnel, Classique; Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
         "chef": "Stéphane Gaborieau"
-    },
-    {
-        "title": "Loiseau rive Gauche",
-        "address": {
-            "address_locality": "5 rue de Bourgogne",
-            "postal_code": "75007"
-        },
-        "stars": "1",
-        "description": "\n      Traditionnel, Classique; Gastronomique; Bourguignon    ",
-        "chef": "Maxime Laurenson"
     },
     {
         "title": "Loiseau des Vignes",
@@ -1570,16 +1580,6 @@
         "chef": "Caroline et Pascal Alonso"
     },
     {
-        "title": "Villa René Lalique",
-        "address": {
-            "address_locality": "18 Rue Bellevue",
-            "postal_code": "67290"
-        },
-        "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
-        "chef": "Jean-Georges Klein"
-    },
-    {
         "title": "Domaine de Rochevilaine",
         "address": {
             "address_locality": "à la Pointe de Pen Lan",
@@ -1588,6 +1588,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique    ",
         "chef": "Maxime Nouail"
+    },
+    {
+        "title": "Villa René Lalique",
+        "address": {
+            "address_locality": "18 Rue Bellevue",
+            "postal_code": "67290"
+        },
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Jean-Georges Klein"
     },
     {
         "title": "La Villa Madie",
@@ -1608,16 +1618,6 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
         "chef": "NIcolas FAGES"
-    },
-    {
-        "title": "1912",
-        "address": {
-            "address_locality": "bd de la Cahotte",
-            "postal_code": "14360"
-        },
-        "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Fusion; Végétarien    ",
-        "chef": "Le chef Johan THYRIOT"
     },
     {
         "title": "La Grand'Vigne",
@@ -1820,16 +1820,6 @@
         "chef": "Rémy Giraud"
     },
     {
-        "title": "La Côte Saint-Jacques",
-        "address": {
-            "address_locality": "14 faubourg de Paris",
-            "postal_code": "89300"
-        },
-        "stars": "2",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
-        "chef": "Jean-Michel Lorain"
-    },
-    {
         "title": "Radio",
         "address": {
             "address_locality": "43 av. P. et M.-Curie",
@@ -1878,6 +1868,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
         "chef": "Stéphanie Le Quellec"
+    },
+    {
+        "title": "La Côte Saint-Jacques",
+        "address": {
+            "address_locality": "14 faubourg de Paris",
+            "postal_code": "89300"
+        },
+        "stars": "2",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Jean-Michel Lorain"
     },
     {
         "title": "Le Castellaras",
@@ -1938,6 +1938,16 @@
         "stars": "3",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique; Cuisine Régionale Française; Végétarien; Traditionnel, Classique    ",
         "chef": "Georges BLANC"
+    },
+    {
+        "title": "Les Rosiers",
+        "address": {
+            "address_locality": "32 av. Beau Soleil",
+            "postal_code": "64200"
+        },
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
+        "chef": "Andrée et Stéphane Rosier"
     },
     {
         "title": "Auberge de la Tour",
@@ -2098,16 +2108,6 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Traditionnel, Classique; Gastronomique; Végétarien; Provençal    ",
         "chef": "Michaël Fulci"
-    },
-    {
-        "title": "Les Rosiers",
-        "address": {
-            "address_locality": "32 av. Beau Soleil",
-            "postal_code": "64200"
-        },
-        "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien; Végétalien    ",
-        "chef": "Andrée et Stéphane Rosier"
     },
     {
         "title": "Jean-Luc Tartarin",
@@ -3230,16 +3230,6 @@
         "chef": "Alexandre Baumard"
     },
     {
-        "title": "Apicius",
-        "address": {
-            "address_locality": "Marché Saint Pierre 1 étage",
-            "postal_code": "63000"
-        },
-        "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
-        "chef": "Arkadiusz Zuchmanski"
-    },
-    {
         "title": "L'Écrin",
         "address": {
             "address_locality": "10 place de la Concorde",
@@ -3258,6 +3248,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
         "chef": "Julien Lefebvre"
+    },
+    {
+        "title": "Apicius",
+        "address": {
+            "address_locality": "Marché Saint Pierre 1 étage",
+            "postal_code": "63000"
+        },
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique; Végétarien    ",
+        "chef": "Arkadiusz Zuchmanski"
     },
     {
         "title": "Les Voiles d'Or",
@@ -4190,16 +4190,6 @@
         "chef": "Piet Huysentruyt"
     },
     {
-        "title": "La Table du 11",
-        "address": {
-            "address_locality": "8 rue de la chancellerie",
-            "postal_code": "78000"
-        },
-        "stars": "1",
-        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
-        "chef": "Jean-Baptiste Lavergne-Morazzani"
-    },
-    {
         "title": "Albert 1er",
         "address": {
             "address_locality": "38 rte du Bouchet",
@@ -4218,6 +4208,16 @@
         "stars": "1",
         "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
         "chef": "Jérôme FAURE"
+    },
+    {
+        "title": "La Table du 11",
+        "address": {
+            "address_locality": "8 rue de la chancellerie",
+            "postal_code": "78000"
+        },
+        "stars": "1",
+        "description": "\n      Cuisine Moderne, Créative; Gastronomique    ",
+        "chef": "Jean-Baptiste Lavergne-Morazzani"
     },
     {
         "title": "La Balette",
