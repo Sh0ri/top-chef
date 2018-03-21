@@ -1,8 +1,16 @@
 # TOP CHEF
 
 ## Things to do to try the project
+
+### Windows User
 > First, install all the required packages by clicking on **install packages.cmd**
 > Then, start the server and the react app by clicking on **start.cmd**
+
+### Linux User
+> First, install all the required packages for the **server** by clicking on **install_packages_server.sh**
+> Then, install all the required packages for the **react-app** by clicking on **install_packages_react_app.sh**
+> Then, start the **server** clicking on **start_server.sh**
+> Finaly, start the **react-app** clicking on **start_react_app.sh**
 
 ## Things you can do on the web site
 > Order the offers by :
